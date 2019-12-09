@@ -1,0 +1,4 @@
+# folder made by Inno Setup for preparing the .deb file
+Output/**
+*.bak
+*.backup

@@ -1,0 +1,5443 @@
+Files in the LangTran system at this GMT/UTC date and time:
+Year-mm-dd HH:mm:ss etc.
+2019-08-28 22:32:12+00:00
+ 
+
+Groups:
+total 356K
+ 4.0K Jan 28  2019 Android_apps/
+ 4.0K Jul 31 07:06 Android_dev_win/
+ 4.0K Aug 24  2018 Anthropology_all/
+ 4.0K Apr  8 17:12 Anthropology_win/
+ 4.0K May  6 15:36 Basis_win/
+ 4.0K Apr 18 00:24 Documentation/
+ 4.0K May 23 22:38 Fonts_all/
+ 4.0K Sep 29  2015 Fonts_win/
+ 4.0K Aug 20  2018 French_win/
+ 4.0K Aug 12  2018 Indonesian_win/
+ 4.0K Nov 27  2018 Internet_Mac/
+ 4.0K May 15 21:07 Internet_win/
+ 191K Aug 27 15:37 LangTranFiles.txt
+ 4.0K Oct 20  2016 LangTran_win_Internet/
+ 4.0K Mar 31 23:41 Large_System_Files_win/
+ 4.0K Mar  8  2018 Linguistics_win/
+ 4.0K Mar 31 13:59 Linux/
+ 4.0K Apr 20  2017 Linux_Balsa/
+ 4.0K Apr 20  2017 Linux_Tech_Support_32bit/
+ 4.0K Apr 20  2017 Linux_Tech_Support_64bit/
+ 4.0K Apr 12 12:39 Linux_Wasta/
+ 4.0K May 18  2013 Literacy_all/
+ 4.0K Jun 30  2017 Literacy_win/
+ 4.0K May 23 02:38 Mac/
+ 4.0K Aug 21  2012 Microsoft_security_essentials_win/
+ 4.0K Aug  9  2018 Portuguese_win/
+ 4.0K Jul 30 06:49 Publishing_win/
+ 4.0K Jun 12  2017 References_etc_all/
+   26 Jul 30 08:00 robots.txt
+ 4.0K Aug  9  2018 Russian_win/
+ 4.0K May 19  2013 Sound_processing_win/
+ 4.0K Apr 20  2017 Spanish_win/
+ 4.0K Aug 28  2013 Survey_win/
+ 4.0K Feb 25  2014 Tech_support_win/
+ 4.0K Feb 23  2012 TECkit_maps/
+ 4.0K Feb 15  2019 TECkit_maps_Mexico/
+ 4.0K Aug 23  2018 Test/
+ 4.0K Jun 26  2016 Translation_win/
+ 4.0K Feb 15  2019 Utility_win/
+ 4.0K Apr  8 17:12 Utility_win64/
+ 4.0K Jul 17 14:41 Videos/
+ 4.0K Jul 16 23:24 Videos_non-English/
+
+Groups/Android_apps:
+total 16K
+ 4.0K Jan 28  2019 AdaptIt_adapting_to_another_dialect/
+ 4.0K Jul 29 14:50 Bloom_reader/
+ 4.0K Apr 25 14:37 Keyman_keyboard_software/
+ 4.0K Dec 11  2018 Paratext_lite/
+
+Groups/Android_apps/AdaptIt_adapting_to_another_dialect:
+total 9.8M
+ 9.8M Jan 24  2019 AdaptItMobile-release.713362.11.apk
+
+Groups/Android_apps/Bloom_reader:
+total 2.3M
+ 2.3M Jul 29 11:29 BloomReader.apk
+
+Groups/Android_apps/Keyman_keyboard_software:
+total 4.3M
+ 4.3M Apr 25 12:04 keyman-11.0.2107.apk
+
+Groups/Android_apps/Paratext_lite:
+total 70M
+ 70M Dec 11  2018 org.paratext.ptlite.117.apk
+
+Groups/Android_dev_win:
+total 36K
+ 4.0K Jul 31 07:33 Amazon_Corretto/
+ 4.0K Aug 13  2018 Android_Software_Development_Kit/
+ 4.0K Aug  8 17:17 Android_Software_Development_Kit_additional_packages/
+ 4.0K Aug 21 15:01 DictionaryAppBuilder/
+ 4.0K Jul 26  2016 FFMpeg_etc/
+ 4.0K Jan 21  2019 Java_SE_Development_Kit/
+ 4.0K Apr 15  2018 ReadBeyond_Aeneas/
+ 4.0K Aug 21 15:03 ReadingAppBuilder_customised_books_for_android/
+ 4.0K Aug 28 15:26 ScriptureAppBuilder_customised_scripture_apps_for_android/
+
+Groups/Android_dev_win/Amazon_Corretto:
+total 217M
+ 109M Jul 16 12:22 amazon-corretto-8.222.10.3-windows-x64.msi
+ 108M Jul 16 11:00 amazon-corretto-8.222.10.3-windows-x86.msi
+
+Groups/Android_dev_win/Android_Software_Development_Kit:
+total 149M
+ 149M Sep 18  2017 sdk-tools-windows-4333796.zip
+
+Groups/Android_dev_win/Android_Software_Development_Kit_additional_packages:
+total 311M
+ 191M Oct 20  2015 android-sdk_r24.4.1-windows.zip
+  39M Aug  7 09:30 build-tools_r29.0.2-windows.zip
+  61M Jul 24  2017 platform-26_r02.zip
+ 5.2M Dec 22  2017 platform-tools-latest-darwin.zip
+ 4.6M Dec 22  2017 platform-tools-latest-windows.zip
+  12M Aug  1 11:05 platform-tools_r29.0.2-windows.zip
+
+Groups/Android_dev_win/DictionaryAppBuilder:
+total 229M
+ 667K Aug 21 11:30 Dictionary-App-Builder-01-Installation-Instructions.pdf
+ 826K Aug 21 11:30 Dictionary-App-Builder-02-Building-Apps.pdf
+ 2.6M Aug 21 11:30 Dictionary-App-Builder-03-Installing-and-Building-on-Mac.pdf
+ 428K Aug 21 11:30 Dictionary-App-Builder-04-Distributing-Apps.pdf
+ 225M Jul  5 10:46 Dictionary-App-Builder-5.6-Setup.exe
+  65K Jan  3  2018 _README_How_to_install_offline_UpdatedJan2018.pdf
+
+Groups/Android_dev_win/FFMpeg_etc:
+total 83M
+ 40M Jul 25  2016 ffmpeg-20160725-fb91850-win32-static.zip
+ 44M Jul 25  2016 ffmpeg-20160725-fb91850-win64-static.zip
+
+Groups/Android_dev_win/Java_SE_Development_Kit:
+total 405M
+ 203M Sep 11  2018 jdk-8u181-windows-x64.exe
+ 202M Jan 20  2019 jdk-8u202-windows-i586.exe
+
+Groups/Android_dev_win/ReadBeyond_Aeneas:
+total 67M
+ 67M Apr 15  2018 aeneas-windows-setup-1.7.3.exe
+
+Groups/Android_dev_win/ReadingAppBuilder_customised_books_for_android:
+total 239M
+ 796K Aug 21 11:39 Reading-App-Builder-01-Installation-Instructions.pdf
+ 2.1M Aug 21 11:39 Reading-App-Builder-02-Building-Apps.pdf
+ 2.8M Aug 21 11:39 Reading-App-Builder-03-Installing-and-Building-on-Mac.pdf
+ 322K Aug 21 11:39 Reading-App-Builder-04-App-Publishing-Checklist.pdf
+ 425K Aug 21 11:39 Reading-App-Builder-05-Distributing-Apps.pdf
+ 858K Aug 21 11:39 Reading-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf
+ 627K Aug 21 11:39 Reading-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf
+ 315K Jul 31 07:10 Reading-App-Builder-08-Running-Workshops.pdf
+ 231M Jul  5 10:27 Reading-App-Builder-5.6-Setup.exe
+  65K Jan  3  2018 _README_How_to_install_offline_UpdatedJan2018.pdf
+
+Groups/Android_dev_win/ScriptureAppBuilder_customised_scripture_apps_for_android:
+total 292M
+  65K Jan  3  2018 _README_How_to_install_offline_UpdatedJan2018.pdf
+ 603K Aug 28 01:07 Scripture-App-Builder-01-Installation-Instructions.pdf
+ 6.6M Aug 28 01:07 Scripture-App-Builder-02-Building-Apps.pdf
+ 2.7M Aug 28 01:07 Scripture-App-Builder-03-Installing-and-Building-on-Mac.pdf
+ 343K Aug 28 01:07 Scripture-App-Builder-04-App-Publishing-Checklist.pdf
+ 425K Aug 28 01:07 Scripture-App-Builder-05-Distributing-Apps.pdf
+ 931K Aug 28 01:07 Scripture-App-Builder-06-Using-Audacity-for-Audio-Text-Synchronization.pdf
+ 644K Aug 28 01:07 Scripture-App-Builder-07-Using-aeneas-for-Audio-Text-Synchronization.pdf
+ 718K Aug 28 01:07 Scripture-App-Builder-08-Using-HearThis-for-Audio-Recording.pdf
+ 314K Aug 28 01:07 Scripture-App-Builder-09-Running-Workshops.pdf
+ 279M Aug 28 01:04 Scripture-App-Builder-6.0.2-Setup.exe
+
+Groups/Anthropology_all:
+total 8.0K
+ 4.0K Aug 17  2018 Gramps_genealogy_needs_Python/
+ 4.0K Aug 17  2018 SILKin_Genealogy_recording_and_kinterm_research/
+
+Groups/Anthropology_all/Gramps_genealogy_needs_Python:
+total 18M
+ 18M Aug 21  2017 gramps-4.2.6.tar.gz
+
+Groups/Anthropology_all/SILKin_Genealogy_recording_and_kinterm_research:
+total 4.5M
+ 4.5M May 10  2017 SILKin_Release_2.1.zip
+
+Groups/Anthropology_win:
+total 8.0K
+ 4.0K Aug 27 15:33 Family_Tree_Builder/
+ 4.0K Aug 24  2018 SILKin_Genealogy_recording_and_kinterm_research/
+
+Groups/Anthropology_win/Family_Tree_Builder:
+total 99M
+ 99M Aug 18 11:36 family_tree_builder_8545.exe
+
+Groups/Anthropology_win/SILKin_Genealogy_recording_and_kinterm_research:
+total 154M
+ 154M Apr 17  2018 SILKin_Release_2.1.1-win.msi
+
+Groups/Basis_win:
+total 4.1M
+ 191K Aug 27 15:37 LangTranFiles.txt
+ 3.9M May  6 15:23 LangTranUpdate-v3.04-Setup.exe
+ 4.0K May 14  2018 Sync/
+ 4.0K Jun  1  2018 Sync64/
+
+Groups/Basis_win/Sync:
+total 5.4M
+  110K Jan 20  2018 cyggcc_s-1.dll
+ 1011K Feb 20  2015 cygiconv-2.dll
+   42K Oct 22  2016 cygintl-8.dll
+   27K Feb  2  2018 cygpath.exe
+   44K Jul 12  2016 cygpopt-0.dll
+   12K Jul 17  2015 cygsigsegv-2.dll
+  2.9M Feb  2  2018 cygwin1.dll
+  100K Feb 17  2017 dash.exe
+  112K Feb  3  2017 date.exe
+  202K Dec  6  2016 diff.exe
+  133K Feb  3  2017 ls.exe
+   67K Feb  3  2017 mkdir.exe
+   17K Feb  2  2018 ps.exe
+  420K Jan 29  2016 rsync.exe
+  156K Feb 11  2017 sed.exe
+   30K Feb  3  2017 sleep.exe
+   41K Feb  3  2017 uniq.exe
+   28K Feb  3  2017 unlink.exe
+
+Groups/Basis_win/Sync64:
+total 6.9M
+  110K Jan 20  2018 cyggcc_s-1.dll
+ 1010K Feb 20  2015 cygiconv-2.dll
+   41K Feb 20  2015 cygintl-8.dll
+   26K May  8  2015 cygpath.exe
+   41K Oct 21  2013 cygpopt-0.dll
+   12K Jul 17  2015 cygsigsegv-2.dll
+  3.2M May  8  2015 cygwin1.dll
+   98K Oct 27  2014 dash.exe
+   56K Oct 13  2014 date.exe
+  182K Sep 30  2014 diff.exe
+  114K Oct 13  2014 ls.exe
+   60K Oct 13  2014 mkdir.exe
+   16K May  8  2015 ps.exe
+  1.8M Feb 13  2015 rsync.exe
+  121K Jun 27  2013 sed.exe
+   30K Oct 13  2014 sleep.exe
+   37K Oct 13  2014 uniq.exe
+   25K Oct 13  2014 unlink.exe
+
+Groups/Documentation:
+total 1.4M
+  64K Apr 18 00:20 1_LangTran_setup.pdf
+ 288K Dec 12  2018 2_LT_Android_setup.pdf
+ 279K Apr 17 04:00 2_LT_BTSync_setup.pdf
+ 624K Apr 17 03:20 2_LT_Update_setup.pdf
+ 110K Nov 24  2015 LangTran_diagram.pdf
+
+Groups/Fonts_all:
+total 18M
+ 1.3M Jun 14  2017 AndikaCompact-5.000.zip
+ 1.4M Mar 20  2017 AndikaNewBasic-5.500-web.zip
+ 877K Jul 29  2017 AndikaNewBasic-5.500.zip
+ 3.0M Apr  3  2017 CharisSILCompact-5.000.zip
+  54K Feb 18  2014 Decompression_and_Installation_tips.html
+ 5.3M Jul 30  2016 dejavu-fonts-ttf-2.37.zip
+ 4.0K May 28 01:09 DoulosSILCipher_for_music_notation/
+ 1.4M Mar 20  2017 DoulosSILCompact-5.000.zip
+ 372K Apr 11 08:23 EzraSIL-2.51.zip
+  30K Aug 20  2015 fonts2go.cgi
+ 156K Mar 19 09:40 GalatiaSIL-2.1.zip
+ 568K Mar 15  2017 Harmattan-1.001.zip
+ 711K Apr 16  2018 LateefGR-1.200.zip
+ 120K Jan  3  2019 LateefRegOT_1.001.zip
+ 1.1M Aug  3  2012 SBL_grk.ttf
+ 1.1M May 22  2017 Scheherazade-2.100.zip
+ 4.0K Aug 24  2018 SIL_font_regional_subsets_for_phones/
+  46K Feb 19  2014 Using_SIL_fonts_in_Linux_n_Mac.html
+ 2.2K Feb 19  2014 Word2004Macro.txt
+
+Groups/Fonts_all/DoulosSILCipher_for_music_notation:
+total 456K
+  25K May  1 14:53 CipherSongsTemplate.zip
+ 233K Apr 17 13:30 DoulosSILCipher-1.020.zip
+ 2.0K Jan 15  2015 How_to_use_template.txt
+ 187K Apr 17 13:30 InKey-CipherMusicUnicode-v1.0.0.zip
+
+Groups/Fonts_all/SIL_font_regional_subsets_for_phones:
+total 24M
+ 13M Dec 19  2016 CDGA_Subsets-5.000.zip
+ 12M May  5  2017 CDGA_Subsetsv.zip
+ 44K Feb 19  2014 SIL_font_subsets.html
+
+Groups/Fonts_win:
+total 6.6M
+ 1.2M Apr  3  2017 Andika-5.000.exe
+ 2.4M Mar 20  2017 CharisSIL-5.000.exe
+ 1.3M Mar 20  2017 DoulosSIL-5.000.exe
+ 4.0K Apr 17  2018 Fonts_Unicode_Properties_Excel_Workbook/
+   68 Nov 30  2012 For_Compact_versions_see_LangTran_Fonts.txt
+ 1.7M May 21  2017 GentiumPlus-5.000.exe
+  69K May  7  2009 How to install or remove a font.pdf
+  63K May  7  2009 Installing Fonts in Windows...pdf
+ 4.0K Aug  9  2012 ViewGlyph_Font_viewer/
+
+Groups/Fonts_win/Fonts_Unicode_Properties_Excel_Workbook:
+total 1.8M
+ 1.8M Jan  3  2019 Unicode70UCD_Excel.zip
+
+Groups/Fonts_win/ViewGlyph_Font_viewer:
+total 2.4M
+ 2.4M Jan  3  2019 ViewGlyph_1_81.zip
+
+Groups/French_win:
+total 20K
+ 4.0K Aug 13 15:48 Adobe_Reader_ouvre_fichiers_pdf/
+    9 Nov 10  2016 btsync-test.txt
+ 4.0K Aug 14 14:23 Firefox_navigateur/
+ 4.0K Nov  8  2016 Microsoft_security_essentials_antivirus/
+ 4.0K Aug 28 15:26 Thunderbird_messagerie/
+
+Groups/French_win/Adobe_Reader_ouvre_fichiers_pdf:
+total 167M
+ 167M Aug 11 23:31 AcroRdrDC1901220036_fr_FR.exe
+
+Groups/French_win/Firefox_navigateur:
+total 45M
+ 45M Aug 14 00:26 Firefox Setup 68.0.2.exe
+
+Groups/French_win/Microsoft_security_essentials_antivirus:
+total 8.0K
+ 4.0K May 31 14:41 32bit/
+ 4.0K May 31 14:41 64bit/
+
+Groups/French_win/Microsoft_security_essentials_antivirus/32bit:
+total 12M
+ 12M Oct 16  2018 MSEInstall.exe
+
+Groups/French_win/Microsoft_security_essentials_antivirus/64bit:
+total 15M
+ 15M Oct 16  2018 MSEInstall.exe
+
+Groups/French_win/Thunderbird_messagerie:
+total 39M
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Indonesian_win:
+total 12K
+ 4.0K Aug 14 14:23 Firefox_web_browser/
+ 4.0K Feb  7  2019 LibreOffice/
+ 4.0K Aug 28 15:27 Thunderbird_email_client/
+
+Groups/Indonesian_win/Firefox_web_browser:
+total 45M
+ 45M Aug 14 00:27 Firefox Setup 68.0.2.exe
+
+Groups/Indonesian_win/LibreOffice:
+total 2.2M
+ 2.2M Feb  1  2019 LibreOffice_6.1.5_Win_x86_helppack_id.msi
+
+Groups/Indonesian_win/Thunderbird_email_client:
+total 39M
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Internet_Mac:
+total 32K
+ 4.0K Jan 31  2015 Chrome_browser_OSX/
+ 4.0K Aug 14 14:23 Firefox_web_browser/
+ 4.0K Jul 19 14:29 Google_Backup_and_Sync/
+ 4.0K Aug 26 13:24 Google_Drive_File_Stream/
+ 4.0K Sep  8  2017 Google_Drive_store_sync_share_files_online/
+ 4.0K Jul 24 14:22 iTunes_to_manage_iPhone_or_iPod_etc/
+ 4.0K Aug 28 15:27 Thunderbird_email_client/
+ 4.0K Aug 24  2018 WhatsApp/
+
+Groups/Internet_Mac/Chrome_browser_OSX:
+total 63M
+ 63M Dec  8  2015 GoogleChrome.dmg
+
+Groups/Internet_Mac/Firefox_web_browser:
+total 120M
+ 53M Aug  8  2018 Firefox 61.0.2.dmg
+ 67M Aug 14 00:26 Firefox 68.0.2.dmg
+
+Groups/Internet_Mac/Google_Backup_and_Sync:
+total 44M
+ 44M Jul 17 07:58 InstallBackupAndSync.dmg
+
+Groups/Internet_Mac/Google_Drive_File_Stream:
+total 105M
+ 105M Aug 12 14:28 GoogleDriveFileStream.dmg
+  303 Nov 27  2018 ReadMe.txt
+
+Groups/Internet_Mac/Google_Drive_store_sync_share_files_online:
+total 43M
+ 43M Sep  7  2017 installgoogledrive.dmg
+ 428 Sep  8  2017 ReadMe_GoogleDrive_has_been_replaced.txt
+
+Groups/Internet_Mac/iTunes_to_manage_iPhone_or_iPod_etc:
+total 274M
+ 274M May 19 01:21 iTunes12.8.2.dmg
+
+Groups/Internet_Mac/Thunderbird_email_client:
+total 57M
+ 57M Aug 27 08:44 Thunderbird 68.0.dmg
+
+Groups/Internet_Mac/WhatsApp:
+total 128M
+ 128M Aug 13  2018 WhatsApp.dmg
+
+Groups/Internet_win:
+total 56K
+ 4.0K Sep 16  2014 BitTorrent_Sync_sync_files_online_no_size_limit/
+ 4.0K Jun  5 14:06 Dropbox_store_sync_share_files_online/
+ 4.0K Aug 14 14:25 Firefox_web_browser/
+ 4.0K Mar 26 17:33 Free_Download_Manager_download_files_on_slow_internet/
+ 4.0K Jul 11 12:46 Google_Backup_and_Sync/
+ 4.0K Aug 26 13:24 Google_Chrome_web_browser/
+ 4.0K Nov 27  2018 Google_Drive/
+ 4.0K May 15 14:49 Google_Drive_File_Stream/
+ 4.0K May 29 17:15 iTunes_32bit/
+ 4.0K May 29 17:15 iTunes_64bit/
+ 4.0K Jun 18 15:03 Skype/
+ 4.0K Aug 28 15:26 Thunderbird_email_client/
+ 4.0K Aug 16 14:09 WhatsApp/
+ 4.0K Aug 24  2018 ZoneAlarm_firewall/
+
+Groups/Internet_win/BitTorrent_Sync_sync_files_online_no_size_limit:
+total 4.9M
+ 2.0M Mar 25  2014 BitTorrentSyncUserGuide.pdf
+ 2.9M Sep 16  2014 BTSync-1.3.109.exe
+
+Groups/Internet_win/Dropbox_store_sync_share_files_online:
+total 94M
+ 94M Jun  4 05:21 Dropbox 74.4.115 Offline Installer.exe
+
+Groups/Internet_win/Firefox_web_browser:
+total 51M
+  45M Aug 14 00:27 Firefox Setup 68.0.2.exe
+ 3.5M May 20  2017 uBlock.firefox.xpi
+ 2.6M Jul 26 02:29 ublock_origin-1.21.2-an+fx.xpi
+
+Groups/Internet_win/Free_Download_Manager_download_files_on_slow_internet:
+total 41M
+ 41M Mar 19 04:55 fdm5_x86_setup.exe
+
+Groups/Internet_win/Google_Backup_and_Sync:
+total 53M
+ 53M Jul  1 08:38 gsync_enterprise.msi
+
+Groups/Internet_win/Google_Chrome_web_browser:
+total 55M
+ 55M Aug 23 16:07 ChromeStandaloneSetup.exe
+
+Groups/Internet_win/Google_Drive:
+total 4.0K
+ 663 Nov 27  2018 ReadMe_GoogleDrive_has_been_replaced.txt
+
+Groups/Internet_win/Google_Drive_File_Stream:
+total 213M
+ 213M May 14 18:56 GoogleDriveFSSetup.exe
+  303 Nov 27  2018 ReadMe.txt
+
+Groups/Internet_win/iTunes_32bit:
+total 201M
+ 201M May 29 02:59 iTunesSetup.exe
+
+Groups/Internet_win/iTunes_64bit:
+total 263M
+ 263M May 29 03:09 iTunes6464Setup.exe
+
+Groups/Internet_win/Skype:
+total 61M
+ 61M May 28 04:12 Skype-8.46.0.60.exe
+
+Groups/Internet_win/Thunderbird_email_client:
+total 39M
+ 149 Jan 10  2016 Lightning not here anymore Readme.txt
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Internet_win/WhatsApp:
+total 121M
+ 121M Aug 14 10:39 WhatsAppSetup.exe
+
+Groups/Internet_win/ZoneAlarm_firewall:
+total 4.0K
+ 207 Aug 24  2018 ZoneAlarm not here anymore.txt
+
+Groups/LangTran_win_Internet:
+total 4.0K
+ 4.0K Oct 20  2016 Firefox_web_browser/
+
+Groups/LangTran_win_Internet/Firefox_web_browser:
+total 43M
+ 43M Oct 18  2016 Firefox Setup 50.0b8.exe
+
+Groups/Large_System_Files_win:
+total 5.1M
+ 5.1M Oct  7  2004 msxml.msi
+ 4.0K May 12  2015 Office 2003/
+ 4.0K Mar 31 23:41 Office 2007/
+ 4.0K Apr 24  2014 Open_ODT_Files_in_Word/
+ 1.1K Apr 22  2016 Things_not_here_any_more.txt
+ 4.0K Feb 23  2012 VCRedist/
+
+Groups/Large_System_Files_win/Office 2003:
+total 38M
+ 38M May 12  2015 FileFormatConverters-v4-of-2010.exe
+
+Groups/Large_System_Files_win/Office 2007:
+total 352M
+ 352M Sep 20  2011 office2007sp3-kb2526086-fullfile-en-us.exe
+
+Groups/Large_System_Files_win/Open_ODT_Files_in_Word:
+total 71M
+ 71M Feb 19  2009 odp-3.0-bin-windows-en-US.exe
+
+Groups/Large_System_Files_win/VCRedist:
+total 168K
+ 167K Jan 19  2011 vcredist_x86.exe
+
+Groups/Linguistics_win:
+total 68K
+ 4.0K Jul 10 15:11 Dekereke_Phonology_n_Literacy_support/
+ 4.0K Aug 24  2018 ELAN_to_annotate_audio_and_video/
+ 4.0K Mar 16  2018 FieldWorks_SE/
+ 4.0K Aug 15  2012 LiftBridge/
+ 4.0K Jul 26 14:17 LiftTools/
+ 4.0K Aug 23  2018 LingTree_to_make_graphic_images_of_linguistic_trees/
+ 4.0K Nov  8  2018 PAWS_to_make_a_grammar_of_your_language/
+ 4.0K Jan 15  2019 PhonologyAssistant/
+ 4.0K Aug 26 13:26 PRAAT_speech_analyser/
+ 4.0K Mar 19  2012 PTEST_Phonology_Template_Editor_and_Search_Tool/
+ 4.0K Apr  3 14:41 SayMore_language_documentation/
+ 4.0K Aug 24  2018 SheetSwiper_Spreadsheet_to_SFM/
+ 4.0K Aug 23  2018 SOLID_standardizing_SFM_data/
+ 4.0K Jul  2  2012 Speech_Analyzer_needs_dot_NET/
+ 4.0K May 18 14:34 Toolbox_dictionary_text_notes/
+ 4.0K Aug 23  2018 WeSay_easy_for_dictionary_making/
+ 4.0K May 22 19:56 XLingPaper_for_future-proof_Linguistic_papers/
+
+Groups/Linguistics_win/Dekereke_Phonology_n_Literacy_support:
+total 756K
+ 5.7K Feb 10  2014 Dekereke_information.html
+ 737K Jul 10 11:55 Dekereke.zip
+ 7.2K Feb 10  2014 Exporting_FLEX_data_to_Dekereke.html
+
+Groups/Linguistics_win/ELAN_to_annotate_audio_and_video:
+total 91M
+ 91M Aug 21  2018 ELAN_5-3_win.exe
+ 329 Apr 14  2018 README_to_run.txt
+
+Groups/Linguistics_win/FieldWorks_SE:
+total 163M
+  927 Feb 24  2014 Fieldworks_Full_installers_dropped.txt
+  317 Aug 21  2013 Fieldworks_sample_projects_location.txt
+ 163M Mar 14  2018 FW8312_SE_B.exe
+ 4.0K Apr  8 06:28 FW_SE_Beta/
+
+Groups/Linguistics_win/FieldWorks_SE/FW_SE_Beta:
+total 353M
+ 353M Mar  1 08:26 FieldWorks_9.0.6.1_Offline_x86.exe
+  927 Feb 24  2014 Fieldworks_Full_installers_dropped.txt
+
+Groups/Linguistics_win/LiftBridge:
+total 8.0K
+ 4.0K May  9  2013 New_version_UNINSTALL_pre-1.4.9_version_first/
+ 4.0K Aug 25  2015 old_versions/
+
+Groups/Linguistics_win/LiftBridge/New_version_UNINSTALL_pre-1.4.9_version_first:
+total 7.6M
+ 7.6M Mar 18  2013 LIFTBridgeInstaller1.msi
+
+Groups/Linguistics_win/LiftBridge/old_versions:
+total 14M
+ 6.3M Jan 18  2012 LiftBridgeForFW7Installer.1.3.0.8.msi
+ 7.6M Jul 28  2012 LIFTBridgeInstaller.msi
+
+Groups/Linguistics_win/LiftTools:
+total 2.0M
+ 2.0M Sep  1  2017 LiftToolsInstaller.1.1.41.msi
+
+Groups/Linguistics_win/LingTree_to_make_graphic_images_of_linguistic_trees:
+total 492K
+ 491K Sep  8  2017 LingTree075.zip
+
+Groups/Linguistics_win/PAWS_to_make_a_grammar_of_your_language:
+total 124M
+ 61M Nov  7  2018 PAWS-32bit-1.1.1.exe
+ 63M Nov  7  2018 PAWS-64bit-1.1.1.exe
+
+Groups/Linguistics_win/PhonologyAssistant:
+total 25M
+ 25M Jan 14  2019 Pa-Setup-4.0.0.msi
+
+Groups/Linguistics_win/PRAAT_speech_analyser:
+total 21M
+ 9.7M Aug 25 23:35 praat6102_win32.zip
+  11M Aug 25 23:35 praat6102_win64.zip
+
+Groups/Linguistics_win/PTEST_Phonology_Template_Editor_and_Search_Tool:
+total 1.7M
+ 1.7M Mar 19  2012 setupPTEST.zip
+
+Groups/Linguistics_win/SayMore_language_documentation:
+total 55M
+ 21M Aug  6  2012 FFmpegForSayMore.zip
+ 34M Apr  3 05:49 SayMoreInstaller.3.1.5.msi
+
+Groups/Linguistics_win/SheetSwiper_Spreadsheet_to_SFM:
+total 428K
+ 332K Feb 16  2017 SheetSwiper_1.0.exe
+  94K Jun  7  2012 SheetSwiper_Overview_Palaso_Projects.pdf
+
+Groups/Linguistics_win/SOLID_standardizing_SFM_data:
+total 3.6M
+ 3.6M Feb 21  2018 SolidInstaller.0.21.3.exe
+
+Groups/Linguistics_win/Speech_Analyzer_needs_dot_NET:
+total 34M
+ 146K Jul  2  2012 ReadMe.rtf
+ 118K Jun  8  2012 SetupSA.rtf
+  34M Jul 21  2017 SpeechAnalyzer3.1.msi
+
+Groups/Linguistics_win/Toolbox_dictionary_text_notes:
+total 3.7M
+ 421K May  3  2011 InstallToolboxNewProject158.exe
+ 3.1M May 17 07:03 Toolbox164.zip
+ 158K Apr  1  2017 ToolboxNewProject158.zip
+  64K Apr  1  2017 ToolboxSelf-Training159.zip
+
+Groups/Linguistics_win/WeSay_easy_for_dictionary_making:
+total 67M
+ 67M Apr  9  2018 WeSayInstaller.1.6.8.0.msi
+
+Groups/Linguistics_win/XLingPaper_for_future-proof_Linguistic_papers:
+total 147M
+ 147M May 13 14:19 XLingPaper3-5-0XXEPersonalEditionFullSetup.exe
+
+Groups/Linux:
+total 808K
+ 544K May 30  2013 2_Using_LangTran_Linux.pdf
+ 4.0K Mar 27  2018 Basis_Linux/
+ 4.0K Aug 24  2018 ELAN_to_annotate_audio_and_video/
+ 4.0K Aug 14 14:23 Firefox_web_browser/
+ 3.5K May 28  2013 GetLangTranFiles
+ 191K Aug 27 15:37 LangTranFiles.txt
+ 1.6K May 29  2013 LangTranLocal_Linux-1.15.zip
+ 4.0K Feb 18  2014 LinuxEnv/
+ 4.0K Apr  3 00:49 Paratext/
+ 4.0K Aug 24  2018 Pathway_from_FW_or_Pt_to_anywhere/
+ 4.0K Aug 26 13:26 PRAAT_speech_analyser/
+ 4.0K Feb  2  2015 TECkit_to_change_text_encoding/
+ 4.0K Aug 28 15:27 Thunderbird_email_client/
+ 4.0K Dec 19  2013 Tips_n_troubleshooting/
+ 4.0K Dec 28  2011 Utilities/
+ 4.0K Aug 11  2016 UUPlus_for_much_faster_satphone_email/
+ 4.0K Jul 31 23:11 Veracrypt_encrypts_disks_n_files/
+ 4.0K Oct  4  2012 VirtualBox_to_emulate_other_OS_on_Ubuntu_host/
+ 4.0K May 13 15:33 XLingPaper_for_future-proof_Linguistic_papers/
+ 4.0K May 17 09:03 XMLmind_editor_for_XLingPaper/
+
+Groups/Linux/Basis_Linux:
+total 208K
+  16K Mar 27  2018 langtran-3.01.deb
+ 191K Aug 27 15:37 LangTranFiles.txt
+
+Groups/Linux/ELAN_to_annotate_audio_and_video:
+total 61M
+ 61M Aug 21  2018 ELAN_5-3_linux.bin
+ 269 Apr  7  2018 README_to_run_on_Linux.txt
+
+Groups/Linux/Firefox_web_browser:
+total 63M
+ 63M Aug 14 00:25 firefox-68.0.2.tar.bz2
+
+Groups/Linux/LinuxEnv:
+total 784K
+ 4.0K May 31 22:53 bin/
+ 4.0K Dec 25  2011 etc/
+ 4.0K Jan  2  2012 fonts/
+  917 Dec  2  2012 Opening_deb_packages_with_poor_internet.txt
+ 4.0K Dec 25  2011 SBLG_free_Greek_New_Testament/
+ 3.7K Jan  2  2012 Setting_up_Ubuntu_to_access_Packages.sil.org.html
+ 1.4K Sep  8  2012 Setup-steps.txt
+ 1.4K Jan  2  2012 sil.gpg
+ 748K Nov 17  2011 useful_wallpaper.png
+ 4.0K Jan  4  2012 xkb_keyboard_for_png/
+
+Groups/Linux/LinuxEnv/bin:
+total 136K
+  15K May 31 22:53 cmptree
+  299 May 24  2013 dolinkback
+   41 Oct 14  2011 dos2linux
+   21 Oct 18  2016 duh
+ 2.0K Jan 31  2008 figrep
+  279 Dec  7  2018 findnewer
+  516 Oct 14  2011 keepsafe
+  19K Mar  4  2012 linkback
+   25 May 24  2013 lld
+   26 May 24  2013 lto
+   37 Apr 19  2017 MyIPaddress
+   99 Oct 18  2016 MyUbuntuVersion
+   55 Jan 31  2008 newfiles
+   37 Dec  7  2018 nf
+  24K Oct 18  2016 speedtest-cli
+   40 Feb 16  2015 splitpath
+  649 Nov 10  2016 sproc
+   73 Oct 14  2011 unix2dos
+  15K May 31 22:53 update
+
+Groups/Linux/LinuxEnv/etc:
+total 4.0K
+ 2.0K Nov  2  2011 bash.bashrc
+
+Groups/Linux/LinuxEnv/fonts:
+total 13M
+ 1.5M Jan  2  2012 Andika-1.002-web-2011-09-12.zip
+ 124K Jan  2  2012 ApparatusSIL-1.0-2009-06-12.zip
+ 5.4M Jan  2  2012 CharisSIL-4.110-web-2011-09-13.zip
+ 2.0M Jan  2  2012 DoulosSIL-4.110-web-2011-09-13.zip
+ 3.1M Jan  2  2012 GentiumPlus-1.508-web-2011-09-13.zip
+ 196K Jan  2  2012 ttf-sil-ezra_2.51-2_all-2007-10-08.deb
+ 162K Jan  2  2012 ttf-sil-galatia_2.1-1_all-2009-07-22.deb
+
+Groups/Linux/LinuxEnv/SBLG_free_Greek_New_Testament:
+total 2.3M
+ 111K Apr  7  2011 1COSBLG.SFM
+  30K Apr  7  2011 1JNSBLG.SFM
+  30K Apr  5  2011 1PESBLG.SFM
+  23K Apr  5  2011 1THSBLG.SFM
+  26K Apr  5  2011 1TISBLG.SFM
+  70K Apr  7  2011 2COSBLG.SFM
+ 4.1K Apr  5  2011 2JNSBLG.SFM
+  19K Apr  5  2011 2PESBLG.SFM
+  13K Apr  5  2011 2THSBLG.SFM
+  20K Apr  5  2011 2TISBLG.SFM
+ 3.6K Apr  5  2011 3JNSBLG.SFM
+ 326K Apr  7  2011 ACTSBLG.SFM
+  26K Apr  7  2011 COLSBLG.SFM
+  38K Apr  7  2011 EPHSBLG.SFM
+  35K Apr  7  2011 GALSBLG.SFM
+  78K Apr  5  2011 HEBSBLG.SFM
+  30K Apr  5  2011 JASSBLG.SFM
+ 245K Apr  7  2011 JHNSBLG.SFM
+ 8.0K Apr  5  2011 JUDSBLG.SFM
+ 339K Apr  7  2011 LUKSBLG.SFM
+ 299K Apr  7  2011 MATSBLG.SFM
+ 226K Apr  7  2011 MRKSBLG.SFM
+ 5.4K Apr  5  2011 PHMSBLG.SFM
+  21K Apr  7  2011 PHPSBLG.SFM
+ 152K Apr  5  2011 REVSBLG.SFM
+ 107K Apr  7  2011 ROMSBLG.SFM
+  12K Apr  5  2011 TITSBLG.SFM
+
+Groups/Linux/LinuxEnv/xkb_keyboard_for_png:
+total 260K
+  74K Dec 17  2011 Building_an_XKB_Keyboard_-_LSDevLinux.pdf
+ 171K Jan  1  2012 evdev.xml
+ 5.9K Jan  1  2012 pg
+ 3.9K Jan  4  2012 ReadMe.txt
+
+Groups/Linux/Paratext:
+total 304M
+  543 Dec  3  2012 Error_with_Syriac_font.txt
+ 1.4K Apr 22  2014 Help_installing_Pt_for_Linux.txt
+  56M Nov  3  2014 paratext-7.4_14.0_i386.deb
+  69M Feb  9  2015 paratext-7.4_24.0_amd64.deb
+  69M Feb  9  2015 paratext-7.4_24.0_i386.deb
+  56M Apr  2 12:19 paratext-8.0_1.44_amd64.deb
+  56M Apr  2 12:19 paratext-8.0_1.44_i386.deb
+
+Groups/Linux/Pathway_from_FW_or_Pt_to_anywhere:
+total 144M
+  472 Dec  4  2013 Installation_steps.txt
+  23M May 11  2018 pathway_1.17.5.5974_all.deb
+ 121M Mar 26  2014 pathway-xelatex_1.8.2.3707-1_amd64.deb
+
+Groups/Linux/PRAAT_speech_analyser:
+total 27M
+ 13M Aug 15  2018 praat6042_linux32.tar.gz
+ 15M Aug 25 23:35 praat6102_linux64.tar.gz
+
+Groups/Linux/TECkit_to_change_text_encoding:
+total 256K
+ 152K May 13  2015 Encode_TECkit_0_5.zip
+  99K Dec  3  2014 Encode_TECkit_0_6.zip
+   54 Feb 24  2012 Find_documentation_at.txt
+
+Groups/Linux/Thunderbird_email_client:
+total 55M
+ 55M Aug 27 08:43 thunderbird-68.0.tar.bz2
+
+Groups/Linux/Tips_n_troubleshooting:
+total 432K
+  11K Aug 16  2013 Accessing Windows shares from Linux, command line.html
+  79K Dec 17  2013 Installing a lightweight LXDE+VNC desktop environment on your Ubuntu_Debian VPS _ Van Dorp IT.pdf
+ 109K Dec 19  2013 Lightweight SME business desktop using LXDE » uzERP – Business Management for the SME.pdf
+  86K Dec 16  2013 Linux add a user using command line tools.pdf
+ 122K Dec 16  2013 Linux Change Hostname.pdf
+  596 Dec  8  2013 Mint_get_WiFi_working.txt
+  613 Dec  8  2013 Mint_get_WiFi_working.txt.bak
+ 1.2K Nov  3  2012 Requires_installation_of_untrusted_packages.txt
+ 3.3K May 24  2013 Simpler_alt+tab_in_Unity.txt
+
+Groups/Linux/Utilities:
+total 76K
+  188 Dec 15  2011 dolinkback
+   41 Oct 14  2011 dos2linux
+ 2.0K Jan 31  2008 figrep
+  245 Jan 31  2008 findnewer
+  516 Oct 14  2011 keepsafe
+  19K Dec 15  2011 linkback
+   12 Oct 14  2011 lld
+   13 Oct 14  2011 lto
+   55 Jan 31  2008 newfiles
+   20 Oct 14  2011 nf
+   73 Oct 14  2011 unix2dos
+  14K Oct 14  2011 update
+
+Groups/Linux/UUPlus_for_much_faster_satphone_email:
+total 35M
+  27M Apr 28  2016 SOHO6_Linux.zip
+ 7.9M Apr 28  2016 UUPlus6_Linux.zip
+ 1.3K Aug 11  2016 Warning.txt
+
+Groups/Linux/Veracrypt_encrypts_disks_n_files:
+total 15M
+ 15M Sep 13  2018 veracrypt-1.23-setup.tar.bz2
+
+Groups/Linux/VirtualBox_to_emulate_other_OS_on_Ubuntu_host:
+total 112M
+  205 Oct  4  2012 See_also_for_User_Manual_and_Extension_Pack.txt
+  44M Jan 28  2012 VBoxGuestAdditions_4.1.8.iso
+ 4.9M Jan 28  2012 VBox_UserManual4.1.8.pdf
+  64M Jan 28  2012 virtualbox-4.1_4.1.8-75467~Ubuntu~oneiric_i386.deb
+
+Groups/Linux/XLingPaper_for_future-proof_Linguistic_papers:
+total 124M
+ 124M May 13 14:21 XLingPaper-3-5-0XXEPersonalEditionFullSetup.tar.gz
+
+Groups/Linux/XMLmind_editor_for_XLingPaper:
+total 78M
+ 78M May 17 00:12 xxe-perso-9_0_0.zip
+
+Groups/Linux_Balsa:
+total 1.1G
+  891 Sep 10  2013 balsa-precise-1.7b1-fix-var-tmp.desktop.tar.gz
+ 1.1G Sep  7  2013 balsa-precise-1.7-beta-2-8gb.img.7z
+
+Groups/Linux_Tech_Support_32bit:
+total 4.0K
+ 4.0K Jan 29  2015 Boot_repair_CD_for_Linux_n_Windows/
+
+Groups/Linux_Tech_Support_32bit/Boot_repair_CD_for_Linux_n_Windows:
+total 722M
+ 721M Oct 30  2017 boot-repair-disk-32bit.iso
+
+Groups/Linux_Tech_Support_64bit:
+total 4.0K
+ 4.0K Dec  1  2014 Boot_repair_CD_for_Linux_n_Windows/
+
+Groups/Linux_Tech_Support_64bit/Boot_repair_CD_for_Linux_n_Windows:
+total 709M
+ 708M Oct 29  2017 boot-repair-disk-64bit.iso
+
+Groups/Linux_Wasta:
+total 7.2G
+  165 Apr 12 12:39 md5sums.txt
+ 2.5G Apr  4  2018 WL-16.04.4.2-64bit.iso
+ 2.4G Apr  4  2018 WL-16.04.4-32bit.iso
+ 2.3G Apr 12 04:49 WL-18.04.2.1-64bit.iso
+
+Groups/Literacy_all:
+total 4.0K
+ 4.0K Jun 21  2013 SynPhony_easy_literacy_tools/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools:
+total 136K
+ 4.0K Jun 21  2013 css/
+ 4.0K Jun 21  2013 data/
+ 4.0K Jun 21  2013 engine/
+ 1.2K Nov 13  2009 favicon.ico
+ 4.0K Jun 21  2013 graphics/
+ 4.0K Jun 21  2013 help/
+ 4.0K Jun 21  2013 images/
+  14K Feb 26  2013 index.html
+ 4.0K Feb  2  2015 javascript/
+ 4.0K Nov  6  2012 nivoslider/
+  12K Jun 14  2013 page2.html
+  14K Nov  8  2012 scripts.html
+ 5.9K Feb  3  2013 styles.css
+ 1.9K Jun 12  2013 SynPhony_Bangla.html
+ 1.9K Jun 12  2013 SynPhony_Cherokee.html
+ 1.9K Jun 12  2013 SynPhony_Hebrew.html
+ 1.9K Jun 12  2013 SynPhony_Kannada.html
+ 2.1K Jun 21  2013 SynPhony_Kreyol.html
+ 1.9K Jun 12  2013 SynPhony_Kumauni.html
+ 2.0K Jun 12  2013 SynPhony_Ojibwe.html
+ 2.0K Jun 12  2013 SynPhony_Russian.html
+ 2.1K Jun 12  2013 SynPhony_Sranan.html
+ 2.0K Jun 12  2013 SynPhony_Tamil.html
+ 2.0K May 28  2013 SynPhony_TokPisin.html
+ 4.0K Nov 10  2012 video/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/css:
+total 44K
+ 2.0K Jun 21  2013 help.css
+  20K Jun 21  2013 synphony.css
+  18K Apr 29  2013 synphony_segmentation.css
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/data:
+total 8.0K
+ 4.0K Jun 21  2013 thumbnails/
+ 4.0K Feb  2  2015 video/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/data/thumbnails:
+total 140K
+ 22K Feb 25  2012 bob_litteral_320.png
+ 25K Feb 24  2012 bob_litteral_640.png
+ 17K Feb 25  2012 mavis_price_320.png
+ 19K Feb 24  2012 mavis_price_640.png
+ 20K Mar 22  2012 wionare_mitimo_320.png
+ 26K Feb 24  2012 yohana_hynum_320.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/data/video:
+total 16M
+ 5.1M Feb 25  2012 bob_litteral_320.mp4
+ 2.7M Feb 25  2012 mavis_price_320.mp4
+ 2.1M Mar 22  2012 wionare_mitimo_320.mp4
+ 5.9M Feb 25  2012 yohana_hynum_320.mp4
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/engine:
+total 16K
+ 4.0K Jun 21  2013 css/
+ 4.0K Jun 21  2013 images/
+ 4.0K Jun 21  2013 js/
+ 4.0K Jun 21  2013 swf/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/engine/css:
+total 12K
+ 737 Feb 25  2012 overlay-minimal.css
+ 615 Mar  5  2012 videolightbox.css
+ 612 Feb 25  2012 videolightbox.css.bak
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/engine/images:
+total 20K
+ 2.8K Feb 25  2012 back.png
+ 4.7K Apr  7  2010 close.png
+ 2.8K Apr  7  2010 loading.gif
+ 3.5K Feb 24  2012 white.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/engine/js:
+total 188K
+  95K Feb 26  2012 jquery.tools.1.4.4.min.js
+  73K Apr  7  2010 jquery.tools.min.js
+ 9.6K Apr  7  2010 swfobject.js
+ 2.3K Feb 25  2012 videolightbox.js
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/engine/swf:
+total 48K
+ 45K Apr  6  2011 player.swf
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/graphics:
+total 220K
+ 5.0K Jun 13  2013 activity_controls.png
+  909 May 23  2013 assess.png
+ 3.7K Jul 14  2011 ccf_clusters.gif
+ 4.5K Jul 14  2011 cci_clusters.gif
+ 1.1K Jul 13  2011 chart.gif
+  582 Dec 13  2012 close_tab.png
+ 4.2K Jul 14  2011 consonants_section.gif
+ 1.2K Jun 13  2013 games.png
+ 1.2K Jun 13  2013 help.png
+  27K Jun 19  2013 home_page.png
+ 1.2K Jun 13  2013 home.png
+ 5.6K Jun 12  2013 letters.png
+ 5.7K Jun  3  2013 main_menu.png
+ 9.8K Jul 14  2011 nonsense_controls.gif
+ 1.2K Jun 13  2013 nonsense.png
+ 4.0K Dec 11  2012 nonsensewords_big.png
+  585 Dec 13  2012 open_tab.png
+ 5.6K Jun  3  2013 options.png
+  12K Jun 13  2013 page_layout.png
+ 2.5K Dec 11  2012 reports_big.png
+ 1.2K Jun 13  2013 reports.png
+ 6.9K Apr 26  2011 seqcontrols.gif
+ 6.0K Apr 26  2011 seqselectors.gif
+ 3.5K Dec 11  2012 settings_big.png
+ 1.2K Jun 13  2013 story.png
+ 2.2K Dec 11  2012 storytool_big.png
+  14K Jun 19  2013 story_tool_page.png
+ 3.7K Jul 14  2011 syll_shapes.gif
+ 3.9K Jul 14  2011 vowels_section.gif
+ 6.7K Feb 14  2013 wait30transparent.gif
+ 1.9K Dec 11  2012 wordlists_big.png
+ 3.5K Dec 11  2012 wordsearch_big.png
+ 1.2K Jun 13  2013 words.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help:
+total 32K
+ 4.1K Jun 19  2013 en_help_for_control_panel.html
+ 4.1K Jun 21  2013 en_help_for_page_layout.html
+ 3.1K Jun 21  2013 en_help_for_storytool_activity_controls.html
+ 3.6K Jun 19  2013 en_help_for_synthetic_phonics_method.html
+ 2.4K Jun 19  2013 en_help_for_wordlist_activity_controls.html
+ 4.0K Jun 21  2013 video/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video:
+total 16K
+ 4.0K Jun 21  2013 data/
+ 4.0K Jun 21  2013 engine/
+ 1.2K Nov 13  2009 favicon.ico
+ 2.0K Mar  7  2013 index.html
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/data:
+total 8.0K
+ 4.0K Jun 21  2013 thumbnails/
+ 4.0K Feb  2  2015 video/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/data/thumbnails:
+total 20K
+ 18K Mar  7  2013 mavis_price_320.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/data/video:
+total 876K
+ 604K Mar  8  2013 Untitled11.mp4
+ 269K Mar  8  2013 Untitled12.mp4
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/engine:
+total 16K
+ 4.0K Jun 21  2013 css/
+ 4.0K Jun 21  2013 images/
+ 4.0K Jun 21  2013 js/
+ 4.0K Jun 21  2013 swf/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/engine/css:
+total 8.0K
+ 673 Mar  7  2013 overlay-minimal.css
+ 477 Apr 16  2013 videolightbox.css
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/engine/images:
+total 16K
+ 2.0K Nov 13  2009 close.png
+ 2.8K Apr  7  2010 loading.gif
+ 5.2K Mar  7  2013 white.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/engine/js:
+total 96K
+  73K Nov 13  2009 jquery.tools.min.js
+ 9.6K Nov 13  2009 swfobject.js
+ 3.0K Apr 12  2013 videolightbox.js
+ 2.3K Mar  7  2013 videolightbox-min.js
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/help/video/engine/swf:
+total 48K
+ 45K Apr  6  2011 player.swf
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/images:
+total 1.1M
+  38K Feb 19  2013 Arabic.png
+ 8.8K Oct 10  2011 background.png
+  46K Feb 19  2013 Bangla.png
+ 4.8K Aug 16  2012 browsers.png
+  56K Aug 18  2012 browsers.xar
+ 6.4K Feb 24  2012 checkboxes1.png
+ 5.3K Feb 23  2012 checkmark.png
+  50K Feb 19  2013 Cherokee.png
+  15K Feb 23  2012 chrome.png
+  953 Nov  6  2012 divider-1.png
+  986 Nov  6  2012 divider-2.png
+  40K Feb 24  2012 dynamic1.png
+ 3.0K Nov  6  2012 easy.png
+  13K Feb 23  2012 firefox.png
+ 2.9K Nov  6  2012 gloss-large2-800x500.png
+ 3.5K Nov  6  2012 gloss-large2.png
+  11K Oct  4  2011 gloss-large.png
+ 2.4K Nov  6  2012 gloss-thumbnail-hover.png
+ 4.1K Oct  4  2011 gloss-thumbnail.png
+  37K Oct 10  2011 header-bg.png
+  44K Feb 19  2013 Hebrew.png
+ 5.0K Feb 23  2012 image-thumbnail-4.jpg
+  560 Nov  6  2012 inset-btm.png
+  307 Nov  6  2012 inset-mid.png
+  824 Nov  6  2012 inset-top.png
+ 8.0K Feb 23  2012 internet_explorer.png
+  42K Feb 19  2013 Inuktituk.png
+  45K Feb 19  2013 Kumauni.png
+ 3.9K Nov  6  2012 opera.png
+  96K Feb 23  2012 os.png
+ 6.3K Oct 11  2011 placeholder.jpg
+ 1.1K Nov  6  2012 quotation-mark.png
+ 2.9K Nov  6  2012 quote-bg.png
+  44K Feb 19  2013 Russian.png
+ 5.0K Feb 23  2012 safari.png
+  50K Jul 11  2011 Scripts1.png
+ 1.3K Nov  6  2012 scripts_thumb.png
+  43K Feb 19  2013 segmentation.png
+  12K Feb 19  2013 story.png
+  39K Feb 19  2013 TokPisin1.png
+  62K Feb 19  2013 TokPisin2.png
+  48K Feb 19  2013 TokPisin3.png
+  42K Feb 19  2013 TokPisin4.png
+ 4.8K Feb 19  2013 wordsearch.png
+  794 Nov  6  2012 zoom-icon.png
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/javascript:
+total 10M
+ 1.3M Jun 12  2013 bangla_lang_data.js
+ 936K Feb  1  2013 cherokee_lang_data.js
+  14K Aug 13  2006 gridstyles.js
+ 1.1M Feb  1  2013 hebrew_lang_data.js
+  25K May  1  2013 ipa_feature_arrays.js
+ 2.0K Apr 20  2013 ipa_moa_arrays.js
+ 4.1K Dec  5  2012 json2-min.js
+  36K Feb  8  2013 jstorage.js
+ 1.3M Feb  2  2013 kannada_lang_data.js
+ 321K Feb  1  2013 kreyol_lang_data.js
+ 395K Feb  4  2013 kumauni_lang_data.js
+   39 Feb  6  2013 langname_lang_data.js
+  593 Nov 14  2011 langname_stopwords.js
+ 762K Feb  2  2013 ojibwe_lang_data.js
+ 1.8M Feb  2  2013 russian_lang_data.js
+ 6.3K Apr 13  2012 sorttable.js
+ 376K Feb  2  2013 sranan_tongo_lang_data.js
+ 190K Jun 21  2013 synphony3-4.js
+ 152K Jun 12  2013 synphony_segmentation-2.js
+ 1.2M Feb  2  2013 tamil_lang_data.js
+ 173K Jun 12  2013 tok_pisin_lang_data.js
+  14K Jan 25  2013 underscore-min.js
+ 8.6K Jan 25  2013 underscore.string.min.js
+  25K Apr  4  2013 unicode_cv_categories.js
+  29K May 16  2011 xregexp.js
+ 5.1K May 14  2011 xregexp-unicode-base.js
+ 5.8K May 14  2011 xregexp-unicode-blocks.js
+  24K Feb 28  2013 xregexp-unicode-categories.js
+  14K Feb  4  2013 xregexp-unicode-properties.js
+ 6.0K May 14  2011 xregexp-unicode-scripts.js
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/nivoslider:
+total 24K
+  16K Jun 22  2011 jquery.nivo.slider.pack.js
+ 1.5K Nov  6  2012 nivo-slider.css
+ 4.0K Nov  6  2012 themes/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/nivoslider/themes:
+total 4.0K
+ 4.0K Nov  6  2012 default/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/nivoslider/themes/default:
+total 16K
+  824 Nov  6  2012 arrows.png
+ 1.3K Nov  6  2012 bullets.png
+ 1.5K Nov  6  2012 default.css
+ 1.7K Nov  6  2012 loading.gif
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/video:
+total 4.0K
+ 4.0K Feb  2  2015 SynPhonyOverview/
+
+Groups/Literacy_all/SynPhony_easy_literacy_tools/video/SynPhonyOverview:
+total 3.2M
+ 6.1K Mar 26  2006 flashobject.js
+ 6.4K Jan  6  2011 SynPhonyOverview_config.xml
+ 137K Jan  6  2011 SynPhonyOverview_controller.swf
+ 3.4K Mar  5  2012 SynPhonyOverview.html
+ 3.4K Mar  5  2012 SynPhonyOverview.html.bak
+  11K Apr  3  2006 SynPhonyOverview_nofp_bg.gif
+  13K Jan  6  2011 SynPhonyOverview_preload.swf
+ 3.0M Jan  6  2011 SynPhonyOverview.swf
+
+Groups/Literacy_win:
+total 20K
+ 4.0K Sep 12  2018 ArtOfReadingCollection_ForBloomAndWeSay/
+ 4.0K Aug 26 13:23 Bloom_easy_to_prepare_books_for_new_readers/
+ 4.0K Mar 12  2012 BLT_Bantu_Literacy_Tool_for_primer_sequencing/
+ 4.0K Feb 25  2018 PrimerPrep_for_primer_sequencing/
+ 4.0K Nov 13  2018 Primer_Pro_for_primer_sequencing/
+
+Groups/Literacy_win/ArtOfReadingCollection_ForBloomAndWeSay:
+total 615M
+ 303M Sep 12  2018 Art Of Reading Free Setup 3.2.exe
+ 312M Apr 20  2018 Art Of Reading Free Setup 3.3.exe
+  112 Sep 12  2018 Reason for needing Art of Reading 3.2.txt
+
+Groups/Literacy_win/Bloom_easy_to_prepare_books_for_new_readers:
+total 82M
+ 4.0K Aug 28 15:22 alpha/
+ 4.0K Aug 22 14:25 beta/
+  82M Aug 26 07:43 BloomInstaller.4.5.0.exe
+  217 Apr 15  2015 Please_uninstall_older_version.txt
+
+Groups/Literacy_win/Bloom_easy_to_prepare_books_for_new_readers/alpha:
+total 85M
+ 85M Aug 28 06:47 BloomInstaller.4.7.1080.Alpha.exe
+
+Groups/Literacy_win/Bloom_easy_to_prepare_books_for_new_readers/beta:
+total 85M
+  92 Dec  5  2017 Alpha_versions_now_in_folder_alpha.txt
+ 85M Aug 22 10:19 BloomInstaller.4.6.101.Beta.exe
+
+Groups/Literacy_win/BLT_Bantu_Literacy_Tool_for_primer_sequencing:
+total 812K
+ 811K Mar 12  2012 BLTsetup.zip
+
+Groups/Literacy_win/PrimerPrep_for_primer_sequencing:
+total 14M
+ 14M Feb 13  2018 PrimerPrep Installer v1.04.exe
+
+Groups/Literacy_win/Primer_Pro_for_primer_sequencing:
+total 2.5M
+ 2.5M Nov 13  2018 primerprosetup271.exe
+
+Groups/Mac:
+total 1.7M
+ 1.4M May 30  2013 2_Using_LangTran_Mac.pdf
+ 4.0K Jul  8 22:56 AdaptIt_adapting_a_translation_to_another_dialect/
+ 4.0K Jul 28  2016 Anthropology_Mac/
+ 4.0K Feb 18  2014 Archiving_n_compression/
+ 4.0K Nov  5  2013 BitTorrent_Sync_sync_files_online_no_size_limit/
+ 4.0K Feb 24  2012 CC_Consistent_Changes/
+ 4.0K May 11  2018 DeNoise_and_DeNoiseLF_21-day_trial/
+ 4.0K Jan 22  2014 Ebook_readers/
+ 4.0K Aug 24  2018 ELAN_to_annotate_audio_and_video/
+ 4.0K Aug  5 13:54 Keyman_keyboard_software/
+ 191K Aug 27 15:37 LangTranFiles.txt
+ 1.8K Dec 30  2012 LangTranLocal_Mac.zip
+ 4.0K Aug  8 17:20 LibreOffice/
+ 4.0K Aug 26 13:26 PRAAT_speech_analyser/
+ 4.0K Jul 26 14:18 RAMP_prepares_n_uploads_to_REAP/
+ 4.0K Jul 23 23:57 Sound_Processing_Mac/
+ 4.0K Feb 24  2012 TECkit_to_change_text_encoding/
+ 4.0K Aug 11  2016 UUPlus_for_much_faster_satphone_email/
+ 4.0K Sep 13  2018 Veracrypt_encrypts_disks_n_files/
+ 4.0K Dec  9  2013 Version_control/
+ 4.0K Jul 16 14:18 VirtualBox_to_emulate_other_OS_on_OS_X/
+ 4.0K May 22 19:50 XLingPaper_for_future-proof_Linguistic_papers/
+ 4.0K May 17 09:03 XMLmind_editor_for_XLingPaper/
+
+Groups/Mac/AdaptIt_adapting_a_translation_to_another_dialect:
+total 25M
+ 25M May 13 08:55 Adapt_It-6.9.4.dmg
+ 765 Dec  9  2013 Allowing_Adapt_It_to_run.txt
+ 380 Feb  8  2017 Getting_Git_also.txt
+
+Groups/Mac/Anthropology_Mac:
+total 4.5M
+ 4.5M Apr 17  2018 SILKin_Release_2.1.1-mac.zip
+
+Groups/Mac/Archiving_n_compression:
+total 4.0K
+ 4.0K Feb 18  2014 Stuffit_expander/
+
+Groups/Mac/Archiving_n_compression/Stuffit_expander:
+total 69M
+ 69M Oct  2  2012 expander_installer_en_4790.dmg
+
+Groups/Mac/BitTorrent_Sync_sync_files_online_no_size_limit:
+total 5.5M
+ 5.5M Nov  5  2013 BTSync.dmg
+
+Groups/Mac/CC_Consistent_Changes:
+total 448K
+ 244K Feb 24  2012 cc75ug_sea.hqx
+ 202K Feb 24  2012 MACCC12A.SEA_HQX
+
+Groups/Mac/DeNoise_and_DeNoiseLF_21-day_trial:
+total 4.3M
+ 2.5M May 10  2018 DeNoise.dmg
+ 1.8M Mar 13  2017 DNManual.pdf
+
+Groups/Mac/Ebook_readers:
+total 4.0K
+ 4.0K Jul 19 14:24 Calibre_ebook_library_reader_and_converter/
+
+Groups/Mac/Ebook_readers/Calibre_ebook_library_reader_and_converter:
+total 76M
+  76M Jul 18 21:13 calibre-3.46.0.dmg
+ 4.9K Jan 23  2014 Calibre for Mac, readme.html
+
+Groups/Mac/ELAN_to_annotate_audio_and_video:
+total 45M
+ 45M Aug 21  2018 ELAN_5-3_mac.zip
+ 417 Apr 14  2018 README_to_run_on_OSX_10.8_up.txt
+
+Groups/Mac/Keyman_keyboard_software:
+total 1.8M
+ 4.0K Jun 27  2018 beta/
+ 1.8M Aug  4 22:26 keyman-11.0.221.dmg
+
+Groups/Mac/Keyman_keyboard_software/beta:
+total 3.3M
+ 3.3M Jun 27  2018 keyman-10.0.52.dmg
+
+Groups/Mac/LibreOffice:
+total 238M
+ 238M Aug  7 18:35 LibreOffice_6.3.0_MacOS_x86-64.dmg
+
+Groups/Mac/PRAAT_speech_analyser:
+total 11M
+ 11M Aug 25 23:35 praat6102_mac64.dmg
+
+Groups/Mac/RAMP_prepares_n_uploads_to_REAP:
+total 50M
+ 50M Jul 26 07:32 RAMP-3.0.67.dmg
+
+Groups/Mac/Sound_Processing_Mac:
+total 37M
+ 37M Jul 23 23:31 audacity-macos-2.3.2.dmg
+
+Groups/Mac/TECkit_to_change_text_encoding:
+total 3.8M
+   54 Feb 24  2012 Find_documentation_at.txt
+ 1.7M Feb 24  2012 MacOS-2002-10-23_sit.sit
+ 2.2M Feb 24  2012 TECkit.dmg
+
+Groups/Mac/UUPlus_for_much_faster_satphone_email:
+total 32M
+  21M Apr 28  2016 SOHO6_Mac.zip
+  12M Apr 28  2016 UUPlus6_Mac.zip
+ 1.3K Aug 11  2016 Warning.txt
+
+Groups/Mac/Veracrypt_encrypts_disks_n_files:
+total 8.9M
+ 8.9M Jan 21  2019 VeraCrypt_1.23.dmg
+
+Groups/Mac/Version_control:
+total 4.0K
+ 4.0K Jun 21 19:27 Git_for_Mac/
+
+Groups/Mac/Version_control/Git_for_Mac:
+total 32M
+ 32M Jun 21 08:46 git-2.22.0-intel-universal-mavericks.dmg
+
+Groups/Mac/VirtualBox_to_emulate_other_OS_on_OS_X:
+total 131M
+  382 Aug  7  2013 See_also_for_User_Manual_and_Extension_Pack.txt
+ 131M Jul 12 05:43 VirtualBox-6.0.10-132072-OSX.dmg
+
+Groups/Mac/XLingPaper_for_future-proof_Linguistic_papers:
+total 207M
+ 207M May 13 14:24 XLingPaper-3-5-0FullSetupXXEPerso.dmg
+
+Groups/Mac/XMLmind_editor_for_XLingPaper:
+total 167M
+ 167M May 17 00:12 xxe-perso-9_0_0.dmg
+
+Groups/Microsoft_security_essentials_win:
+total 8.0K
+ 4.0K Jun  2 14:09 32bit_program_n_updates/
+ 4.0K Aug 18 14:15 64bit_program_n_updates/
+
+Groups/Microsoft_security_essentials_win/32bit_program_n_updates:
+total 122M
+ 110M Aug 24 12:17 mpam-fe.exe
+  12M Jun  1 14:35 MSEInstall.exe
+
+Groups/Microsoft_security_essentials_win/64bit_program_n_updates:
+total 140M
+ 111M Aug 24 12:18 mpam-feX64.exe
+  15M Oct 21  2017 mseinstall.exe
+  15M Oct 15  2018 MSEInstall.exe
+
+Groups/Portuguese_win:
+total 16K
+ 4.0K Feb  5  2019 Adobe_Reader_abre_arquivos_pdf/
+ 4.0K Aug 14 14:24 Firefox_navegador/
+ 4.0K Feb  1  2015 Microsoft_security_essentials_antivirus/
+ 4.0K Aug 28 15:27 Thunderbird_e-mail/
+
+Groups/Portuguese_win/Adobe_Reader_abre_arquivos_pdf:
+total 116M
+ 116M Aug  9  2018 AcroRdrDC1800920044_pt_BR.exe
+
+Groups/Portuguese_win/Firefox_navegador:
+total 45M
+ 45M Aug 14 00:27 Firefox Setup 68.0.2.exe
+
+Groups/Portuguese_win/Microsoft_security_essentials_antivirus:
+total 8.0K
+ 4.0K May 31 14:41 32bit/
+ 4.0K May 31 14:41 64bit/
+
+Groups/Portuguese_win/Microsoft_security_essentials_antivirus/32bit:
+total 12M
+ 12M Oct 13  2018 MSEInstall.exe
+
+Groups/Portuguese_win/Microsoft_security_essentials_antivirus/64bit:
+total 15M
+ 15M Oct 13  2018 MSEInstall.exe
+
+Groups/Portuguese_win/Thunderbird_e-mail:
+total 39M
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Publishing_win:
+total 44K
+ 4.0K Jul 30 07:46 Haiola_versatile_Scripture_format_converter/
+ 4.0K Aug 20  2012 LexiquePro_to_put_a_dictionary_on_the_web/
+ 4.0K May 20 15:22 Pathway_from_FW_or_Pt_to_anywhere/
+ 4.0K Feb  1  2015 PDF2Word_etc/
+ 4.0K Jun 30  2017 PDF_Creators_to_make_PDFs_from_Windows_progs/
+ 4.0K Apr 17 16:18 PDFDroplet_reformat_PDF_files/
+ 4.0K Apr 22 15:48 Prince_HTML_or_XML_to_PDF/
+ 4.0K Jul 26 14:18 RAMP_prepares_n_uploads_to_REAP/
+ 4.0K Feb 21  2013 SILAS_low-end_publishing_through_MS_Word/
+ 4.0K Jul 30 08:19 USFMtoSwordModule_to_convert_Scripture_files/
+ 4.0K Aug 22 14:29 Zotero_bibliography_tool/
+
+Groups/Publishing_win/Haiola_versatile_Scripture_format_converter:
+total 2.9M
+ 4.0K Jul 30 07:03 Haiola-Scripture-Publishing-Software_files/
+ 5.4K Jul 30 07:03 Haiola-Scripture-Publishing-Software.html
+ 5.3K Jun 27  2018 index.html
+ 2.9M Jul 24 15:29 setuphaiola.exe
+
+Groups/Publishing_win/Haiola_versatile_Scripture_format_converter/Haiola-Scripture-Publishing-Software_files:
+total 88K
+ 85K Jul 30 07:03 HaiolaFlow.png
+
+Groups/Publishing_win/LexiquePro_to_put_a_dictionary_on_the_web:
+total 11M
+ 11M Aug  7  2012 Lexique Pro 3.6 - Setup (with demo db).exe
+
+Groups/Publishing_win/Pathway_from_FW_or_Pt_to_anywhere:
+total 35M
+  32K May 20 15:18 Installing Offline - Pathway.html
+ 4.0K May 20 15:22 Latest_Sprint_version/
+ 400K Jun 27  2017 OdtXsltSetup-1.22.0.32.msi
+  34M May 17  2018 PathwayBTESetup-1.17.6.5976.msi
+ 1.1K May 20 16:14 Which_Pathway_should_I_install.txt
+ 4.0K Feb  7  2017 XeLaTeX/
+
+Groups/Publishing_win/Pathway_from_FW_or_Pt_to_anywhere/Latest_Sprint_version:
+total 34M
+ 34M May 17  2018 PathwayBTESetup-1.17.6.5976.msi
+
+Groups/Publishing_win/Pathway_from_FW_or_Pt_to_anywhere/XeLaTeX:
+total 112M
+ 112M Dec 13  2016 PathwayXeLaTexSetup-1.15.4.msi
+
+Groups/Publishing_win/PDF2Word_etc:
+total 5.8M
+ 5.8M Jun 10  2014 unipdf-setup_2014-06-10.exe
+  338 Jun 10  2014 UniPDF_WARNING_go_offline_before_installing.txt
+
+Groups/Publishing_win/PDF_Creators_to_make_PDFs_from_Windows_progs:
+total 12K
+ 4.0K Jul 11 12:44 BullZip_PDF_Creator/
+ 4.0K Feb 27  2017 PDFCreator_WARNING_go_off-line_before_installing/
+ 4.0K Aug 27 15:35 PDFXLiteHome/
+
+Groups/Publishing_win/PDF_Creators_to_make_PDFs_from_Windows_progs/BullZip_PDF_Creator:
+total 60M
+ 22M Dec 16  2018 gslite.exe
+ 101 Feb  5  2013 Readme_this_needs_GhostScript_lite.txt
+ 39M Jul 11 07:58 Setup_BullzipPDFPrinter_11_10_0_2761_PRO_EXP.exe
+
+Groups/Publishing_win/PDF_Creators_to_make_PDFs_from_Windows_progs/PDFCreator_WARNING_go_off-line_before_installing:
+total 28M
+ 28M Feb 17  2017 PDFCreator-2_5_1-Setup.exe
+ 404 Jan 27  2013 WARNING_reason_to_go_off-line.txt
+
+Groups/Publishing_win/PDF_Creators_to_make_PDFs_from_Windows_progs/PDFXLiteHome:
+total 31M
+ 31M Aug 26 19:20 PDFXLiteHome8.zip
+
+Groups/Publishing_win/PDFDroplet_reformat_PDF_files:
+total 3.0M
+ 3.0M Apr 16 15:23 PdfDropletInstaller-2.4.35.msi
+
+Groups/Publishing_win/Prince_HTML_or_XML_to_PDF:
+total 15M
+ 15M Apr 22 04:22 prince-12.5-win32-setup.exe
+
+Groups/Publishing_win/RAMP_prepares_n_uploads_to_REAP:
+total 67M
+ 67M Jul 26 07:31 RAMP Setup 3.0.67.exe
+
+Groups/Publishing_win/SILAS_low-end_publishing_through_MS_Word:
+total 1.7M
+ 1.7M Feb 14  2013 Silas-v2.35-1.14-Setup.exe
+
+Groups/Publishing_win/USFMtoSwordModule_to_convert_Scripture_files:
+total 8.7M
+ 8.7M May 25  2017 USFMtoSwordModule_0.5.zip
+  57K Jun  3  2012 USFMtoSwordModule.pdf
+
+Groups/Publishing_win/Zotero_bibliography_tool:
+total 43M
+ 43M Aug 21 20:25 Zotero-5.0.74_setup.exe
+
+Groups/References_etc_all:
+total 81M
+  74M Jan 23  2014 Calibre_0.6_demo_video.mp4
+ 4.0K Dec 13  2018 ELAN_how_to_annotate_audio_and_video/
+ 4.0K Jan 27  2016 FieldWorks_documentation_movies/
+ 4.0K Feb 14  2017 FieldWorks_sample_projects/
+ 4.0K Feb 28  2012 Fonts_Unicode_Properties_Excel_Workbook/
+ 4.0K May 24  2017 LibreOffice_extensions_for_all_platforms/
+ 136K Apr  1  2017 MDFDocumentation.zip
+ 4.0K Dec  3  2012 Paratext_projects_free/
+ 4.0K Jan 27  2013 Paratext_training_materials_and_documentation/
+ 7.3M Oct  5  2010 PrimerPackage.zip
+  327 Jul 13  2016 ReadBeyond_Aeneas_location.txt
+ 4.0K Feb 24  2012 TECkit_to_change_text_encoding/
+ 4.0K Feb 24  2019 Translation/
+ 4.0K Jul 16 14:18 VirtualBox_to_emulate_other_OS_(all)/
+ 4.0K Jun 13  2012 Which_Audio_Player/
+
+Groups/References_etc_all/ELAN_how_to_annotate_audio_and_video:
+total 19M
+ 24K Feb 11  2014 ELAN_keyboard_for_IPA.html
+ 19M Dec 13  2018 manual-elan.pdf
+
+Groups/References_etc_all/FieldWorks_documentation_movies:
+total 206M
+ 206M Dec 16  2015 SetupFlexMovies.824.msi
+
+Groups/References_etc_all/FieldWorks_sample_projects:
+total 28M
+ 13M Dec 16  2016 Sena 2 2016-10-17 0759.fwbackup
+ 15M Dec 16  2016 Sena 3 2016-10-17 0801.fwbackup
+
+Groups/References_etc_all/Fonts_Unicode_Properties_Excel_Workbook:
+total 1.6M
+ 1.6M Feb 13  2012 Unicode61UCD_Excel.zip
+
+Groups/References_etc_all/LibreOffice_extensions_for_all_platforms:
+total 1.4M
+ 510K Jan  1  2014 altsearch.oxt
+ 827K Jan  3  2019 LinguisticTools-3.0.oxt
+
+Groups/References_etc_all/Paratext_projects_free:
+total 2.9M
+ 1.5M Sep 11  2012 SBL_Greek_NT_Paratext_Project_2012-09-12.zip
+ 1.5M Dec  3  2012 T4T 2012-12-03.zip
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation:
+total 6.8M
+  28K Jan 27  2013 AbbreviationsBestPractice.pdf
+  74K Jan 27  2013 ConcordanceQuestionnaire.pdf
+ 1.3M Jan 27  2013 Paratext7.1ProjectSharingManual-v1.0.pdf
+ 858K Jan 27  2013 Paratext7.1WordlistSpellCheckingManual-v1.0.pdf
+ 1.6M Jan 27  2013 Paratext7.3SourceLanguageTools.pdf
+ 1.6M Jan 27  2013 Paratext7.3SourceLanguageTools.pptx
+ 830K Jan 27  2013 Paratext7.3StudyBibleAuthoringGuide-v1.0.pdf
+ 4.0K Aug 23  2012 Training_exercises/
+ 4.0K Aug 17  2012 Training_videos/
+ 602K Jan 27  2013 UsingConcordanceBuilder.pdf
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_exercises:
+total 808K
+ 512K Jan 25  2011 ICAP-P7T.zip
+ 7.9K Aug 23  2012 LangTran-Logo, 256, 88x120.png
+  43K Jan 25  2011 P7TBiblicalTermsExercises.pdf
+  41K Jan 25  2011 P7TCheckingExercises.pdf
+  42K Jan 25  2011 P7TEditingExercises.pdf
+  40K Jan 25  2011 P7TInterlinearizerExercises.pdf
+  34K Jan 25  2011 P7TProjectNotesExercises.pdf
+  43K Jan 25  2011 P7TSLTExercises.pdf
+ 5.8K Aug 23  2012 pt7exercises_off-line.html
+  25K Feb 17  2012 ptWebBanner.png
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos:
+total 24K
+ 1.3K Aug 16  2012 Index_of_Paratext_videos.html
+ 4.0K Aug 17  2012 p7bibterms/
+ 4.0K Aug 17  2012 p7checks/
+ 4.0K Aug 17  2012 p7editing/
+ 4.0K Aug 17  2012 p7notes/
+ 4.0K Aug 17  2012 p7progress/
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos/p7bibterms:
+total 4.8M
+ 4.8M May 11  2009 Biblical_Terms_Tutorial.swf
+  625 Aug 16  2012 index.html
+ 2.9K Aug 16  2012 Paratext7BiblicalTerms.html
+ 3.0K Aug 16  2012 Paratext7BiblicalTerms.html.bak
+ 6.8K May 11  2009 swfobject.js
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos/p7checks:
+total 12M
+  773 May 11  2009 expressInstall.swf
+  829 Aug 16  2012 index.html
+ 403K May 11  2009 Paratext7Checks_controller.swf
+ 5.0K Aug 16  2012 Paratext7Checks.html
+  11M May 11  2009 Paratext7Checks.mp4
+  20K May 11  2009 ProductionInfo.xml
+ 225K May 11  2009 pt7Splash.png
+ 9.6K May 11  2009 swfobject.js
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos/p7editing:
+total 29M
+  773 Mar 20  2009 expressInstall.swf
+  840 Aug 16  2012 index.html
+ 402K Mar 20  2009 Paratext7Editing_controller.swf
+ 4.9K Aug 16  2012 Paratext7Editing.html
+ 4.9K Aug 16  2012 Paratext7Editing.html.bak
+  29M Mar 20  2009 Paratext7Editing.mp4
+  23K Mar 20  2009 ProductionInfo.xml
+ 309K Mar 20  2009 pt7Splash.png
+ 9.6K Mar 20  2009 swfobject.js
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos/p7notes:
+total 27M
+  773 Mar 20  2009 expressInstall.swf
+  874 Aug 16  2012 index.html
+ 402K Mar 20  2009 Paratext7ProjectNotes_controller.swf
+ 5.0K Aug 16  2012 Paratext7ProjectNotes.html
+  27M Mar 20  2009 Paratext7ProjectNotes.mp4
+  23K Mar 20  2009 ProductionInfo.xml
+ 309K Mar 20  2009 pt7Splash.png
+ 9.6K Mar 20  2009 swfobject.js
+
+Groups/References_etc_all/Paratext_training_materials_and_documentation/Training_videos/p7progress:
+total 10M
+  615 Aug 16  2012 index.html
+ 2.9K Aug 16  2012 Paratext7ProjectProgress.html
+  10M May 11  2009 Project Progress.swf
+ 6.8K May 11  2009 swfobject.js
+
+Groups/References_etc_all/TECkit_to_change_text_encoding:
+total 364K
+ 196K Jan  3  2019 BeyondUTR22_pdf.pdf
+ 167K Jan  3  2019 TECkitversion2_doc_pdf.pdf
+
+Groups/References_etc_all/Translation:
+total 1.4M
+ 563K Feb 24  2019 altsearch.oxt
+ 787K Apr 22  2012 Resources for Translators.pdf
+
+Groups/References_etc_all/VirtualBox_to_emulate_other_OS_(all):
+total 27M
+  23M Jul 12 05:43 Oracle_VM_VirtualBox_Extension_Pack-6.0.10.vbox-extpack
+ 4.2M Jul 12 05:43 UserManual.pdf
+
+Groups/References_etc_all/Which_Audio_Player:
+total 7.1M
+ 7.1M May 16  2011 Margetts R 2011 Which Audio Player (2011-05-16).pdf
+
+Groups/Russian_win:
+total 16K
+ 4.0K Aug  9  2018 Adobe_Reader_opens_pdf_files/
+ 4.0K Aug 14 14:24 Firefox_web_browser/
+ 4.0K Feb  1  2015 Microsoft_security_essentials_antivirus/
+ 4.0K Aug 28 15:28 Thunderbird_email_client/
+
+Groups/Russian_win/Adobe_Reader_opens_pdf_files:
+total 116M
+ 116M Aug  9  2018 AcroRdrDC1800920044_ru_RU.exe
+
+Groups/Russian_win/Firefox_web_browser:
+total 45M
+ 45M Aug 14 00:27 Firefox Setup 68.0.2.exe
+
+Groups/Russian_win/Microsoft_security_essentials_antivirus:
+total 8.0K
+ 4.0K May 31 14:41 32bit/
+ 4.0K May 31 14:41 64bit/
+
+Groups/Russian_win/Microsoft_security_essentials_antivirus/32bit:
+total 12M
+ 12M Oct 15  2018 MSEInstall.exe
+
+Groups/Russian_win/Microsoft_security_essentials_antivirus/64bit:
+total 15M
+ 15M Oct 15  2018 MSEInstall.exe
+
+Groups/Russian_win/Thunderbird_email_client:
+total 39M
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Sound_processing_win:
+total 24K
+ 4.0K Jul 23 23:59 Audacity_easy_for_sound_editing/
+ 4.0K Jul 21 15:10 Audiograbber_saves_CD_tracks_to_MP3/
+ 4.0K Mar 14  2017 DeNoise_and_DeNoiseLF_21-day_trial/
+ 4.0K May 17  2012 MP3FileLister.xls_to_list_durations_etc_of_files/
+ 4.0K Jul 15 14:15 MP3Tag_to_set_tags_and_cover_art_easily/
+ 4.0K Mar  6  2012 MP3toWAV_Converter_Boxoft_free/
+
+Groups/Sound_processing_win/Audacity_easy_for_sound_editing:
+total 37M
+  27M Jul 23 23:58 audacity-win-2.3.2.exe
+ 9.5M Sep 21  2014 ffmpeg-win-2.2.2.exe
+ 817K Jan  8  2019 lame3.100.zip
+ 5.4K Jun 11  2011 NoiseGate.zip
+
+Groups/Sound_processing_win/Audiograbber_saves_CD_tracks_to_MP3:
+total 0
+
+Groups/Sound_processing_win/DeNoise_and_DeNoiseLF_21-day_trial:
+total 3.9M
+ 2.1M Sep 25  2018 DNinstall.exe
+ 1.8M Mar 13  2017 DNManual.pdf
+
+Groups/Sound_processing_win/MP3FileLister.xls_to_list_durations_etc_of_files:
+total 44K
+ 43K Aug  5  2008 mp3filelister.xls
+
+Groups/Sound_processing_win/MP3Tag_to_set_tags_and_cover_art_easily:
+total 3.5M
+ 3.5M Jul 15 02:29 mp3tagv297setup.exe
+
+Groups/Sound_processing_win/MP3toWAV_Converter_Boxoft_free:
+total 3.2M
+ 3.2M Feb 10  2011 setup(free-mp3-to-wav).exe
+
+Groups/Spanish_win:
+total 16K
+ 4.0K Aug 13 15:48 Adobe_Reader_abre_archivos_pdf/
+ 4.0K Aug 14 14:25 Firefox_navegador/
+ 4.0K Feb  1  2015 Microsoft_security_essentials_antivirus/
+ 4.0K Aug 28 15:28 Thunderbird_correo_electrónico/
+
+Groups/Spanish_win/Adobe_Reader_abre_archivos_pdf:
+total 167M
+ 167M Aug 11 23:30 AcroRdrDC1901220036_es_ES.exe
+
+Groups/Spanish_win/Firefox_navegador:
+total 45M
+ 45M Aug 14 00:27 Firefox Setup 68.0.2.exe
+
+Groups/Spanish_win/Microsoft_security_essentials_antivirus:
+total 8.0K
+ 4.0K May 31 14:41 32bit/
+ 4.0K May 31 14:41 64bit/
+
+Groups/Spanish_win/Microsoft_security_essentials_antivirus/32bit:
+total 12M
+ 12M Oct 13  2018 MSEInstall.exe
+
+Groups/Spanish_win/Microsoft_security_essentials_antivirus/64bit:
+total 15M
+ 15M Oct 13  2018 MSEInstall.exe
+
+Groups/Spanish_win/Thunderbird_correo_electrónico:
+total 39M
+ 39M Aug 27 08:44 Thunderbird Setup 68.0.exe
+
+Groups/Survey_win:
+total 28K
+ 4.0K Dec 18  2015 Cog_automated_similarity_between_dialects/
+ 4.0K Mar  6  2014 EPI_Info_data_entry_statistical_analysis/
+ 4.0K Mar 30  2017 GPSBabel_converts_GPS_data_into_different_formats/
+ 4.0K Apr  8  2017 Quantum_GIS_for_map_making/
+ 4.0K Jan  1  2016 Sofa_Statistics_statistical_analysis/
+ 4.0K Aug  5  2015 WordCorr_finds_sound_correspondences_between_dialects/
+ 4.0K Apr  1  2015 WordSurv_finds_similarities_between_dialects/
+
+Groups/Survey_win/Cog_automated_similarity_between_dialects:
+total 7.4M
+ 7.4M Dec 18  2015 Cog-1.3.0-Setup.exe
+
+Groups/Survey_win/EPI_Info_data_entry_statistical_analysis:
+total 22M
+ 22M Mar 28  2016 EI7_Setup.exe
+
+Groups/Survey_win/GPSBabel_converts_GPS_data_into_different_formats:
+total 28M
+ 28M Mar 30  2017 GPSBabel-1.5.4-Setup.exe
+
+Groups/Survey_win/Quantum_GIS_for_map_making:
+total 362M
+ 362M Apr  7  2017 QGIS-OSGeo4W-2.18.6-1-Setup-x86_64.exe
+
+Groups/Survey_win/Sofa_Statistics_statistical_analysis:
+total 46M
+ 46M Jan  1  2016 sofastats-1.4.6_for_win.zip
+
+Groups/Survey_win/WordCorr_finds_sound_correspondences_between_dialects:
+total 27M
+ 215K Feb 13  2015 installing-wordcorr-1.3.pdf
+  20M Nov  4  2004 wordcorr-2-0-0-install.exe
+ 6.8M Nov  4  2004 wordcorr-2-0-0-upgrade.exe
+ 857K Oct 25  2012 WordCorrTutorial1.19.pdf
+
+Groups/Survey_win/WordSurv_finds_similarities_between_dialects:
+total 1.3M
+ 1.3M Apr  1  2015 WordSurv7.zip
+
+Groups/Tech_support_win:
+total 32K
+ 4.0K Feb  1  2015 AccuHash_to_verify_file_transfer_integrity/
+ 4.0K Aug 28 15:21 Belarc_Advisor_lists_HW_and_SW_details/
+ 4.0K Dec  3  2018 Easeus_Partition_Master_manages_disk_partitions/
+ 4.0K Aug 16 14:07 Malwarebytes_detects_n_removes_malware/
+ 4.0K Feb  2  2014 Offline_Windows_Password_and_Registry_Editor_reset_windows_passwords/
+ 4.0K Jun 10 14:27 Revo_Uninstaller/
+ 4.0K Mar 21  2018 Spiceworks_IT_inventory_helpdesk_software/
+ 4.0K Jul  7 15:05 TestDisk_recovers_lost_partitions/
+
+Groups/Tech_support_win/AccuHash_to_verify_file_transfer_integrity:
+total 972K
+ 969K Nov  6  2008 ah2setup.exe
+
+Groups/Tech_support_win/Belarc_Advisor_lists_HW_and_SW_details:
+total 3.3M
+ 3.3M Aug 28 06:57 advisorinstaller.exe
+
+Groups/Tech_support_win/Easeus_Partition_Master_manages_disk_partitions:
+total 34M
+ 34M Nov 29  2018 epm.exe
+
+Groups/Tech_support_win/Malwarebytes_detects_n_removes_malware:
+total 159M
+ 4.0K Jul  7  2016 Malwarebytes_Removal_Tool/
+  80M Dec  5  2017 mb3-setup-32138.32138-3.3.1.2183-1.0.262-1.0.3374.exe
+  62M Feb  6  2019 mb3-setup-32138.32138-3.7.1.2839-1.0.538-1.0.9074.exe
+  19M Aug 15 16:09 mbam-rules-2019.08.15.zip
+
+Groups/Tech_support_win/Malwarebytes_detects_n_removes_malware/Malwarebytes_Removal_Tool:
+total 560K
+ 553K Jul  7  2016 mbam-clean-2.3.0.1001.exe
+  153 Oct 16  2014 readme.txt
+
+Groups/Tech_support_win/Offline_Windows_Password_and_Registry_Editor_reset_windows_passwords:
+total 34M
+ 14K Sep 11  2012 bootdisk.html
+ 17M Feb  1  2014 cd140201.zip
+ 17M Feb  1  2014 usb140201.zip
+ 21K Sep 11  2012 walkthrough.html
+
+Groups/Tech_support_win/Revo_Uninstaller:
+total 7.1M
+ 7.1M Jun 10 02:31 revosetup.exe
+
+Groups/Tech_support_win/Spiceworks_IT_inventory_helpdesk_software:
+total 72M
+ 72M Oct 17  2018 Spiceworks.exe
+
+Groups/Tech_support_win/TestDisk_recovers_lost_partitions:
+total 21M
+ 21M Jul  7 10:23 testdisk-7.1.win.zip
+
+Groups/TECkit_maps:
+total 592K
+ 6.6K Mar 20  2006 93-linb.map
+ 5.0K Oct 24  2005 93-linbNFD.map
+ 3.3K Feb 23  2012 93-linb.tec
+  17K Oct  7  2005 Abidjan.map
+ 6.5K Oct  7  2005 Abidjan.tec
+  14K Apr  5  2006 ALJAMEA.MAP
+  15K Apr  5  2006 Aljamea Unicode2Unicode.map
+  15K Apr  5  2006 Aljamea UnicodeANSI.map
+ 5.6K Apr  5  2006 Aljamea UnicodeANSI.tec
+  14K Apr  5  2006 Aljamea Unicode.map
+ 5.6K Apr  5  2006 Aljamea Unicode.tec
+ 3.0K Feb 23  2012 angb4.map
+ 2.1K Feb 23  2012 angb4.tec
+ 5.4K Oct 27  2005 BakweRCIStandard.map
+ 1.9K Feb 23  2012 BakweRCIStandard.tec
+ 1.1K Feb 23  2012 Bambara SIL Charis.map
+ 1.6K Feb 23  2012 Bambara SIL Charis.tec
+  33K Nov  4  2003 BFCHAR0.map
+ 2.7K Feb 23  2012 BFCHAR0.tec
+  11K Oct 29  2004 BFCharis for Fulfulde.map
+ 1.5K Feb 23  2012 BFCharis for Fulfulde.tec
+  10K Jun 28  2007 BF Font Family.map
+ 3.3K Feb 23  2012 BF Font Family.tec
+ 8.1K Aug  1  2006 BF Times.map
+ 2.9K Feb 23  2012 BF Times.tec
+ 3.0K Feb 23  2012 Burkina1990.map
+  893 Feb 23  2012 Burkina1990.tec
+  12K Dec  8  2003 Cameroon2Unicode.map
+ 2.2K Feb 23  2012 Cameroon2Unicode.tec
+ 5.3K Feb 24  2006 Copy of Ghana.map
+ 1.8K Feb 23  2012 Copy of Ghana.tec
+ 1.8K Feb 23  2012 fulfuldehack.map
+ 2.1K Feb 23  2012 fulfuldehack.tec
+ 1.8K Feb 23  2012 fulfulde.map
+ 1.6K Feb 23  2012 fulfulde.tec
+ 6.5K Feb 24  2006 Ghana.map
+ 2.8K Feb 23  2012 Ghana.tec
+ 1.4K Feb 23  2012 iso-8859-1.tec
+ 2.4K Feb 23  2012 Langues Niger SILCharis.tec
+ 3.9K Feb 23  2012 MALICOD.map
+ 2.3K Feb 23  2012 MALICOD.tec
+ 7.8K Sep  5  2006 Mali Standard.map
+ 3.3K Feb 23  2012 Mali Standard.tec
+ 1.7K Feb 23  2012 mangcr.tec
+ 6.0K Jun 16  2006 MarcelNgbaka.map
+ 2.6K Jun 16  2006 MarcelNgbaka.tec
+ 2.9K May 28  2009 mipa-dr.map
+ 2.0K May 28  2009 mipa-dr.tec
+  564 Sep 20  2006 Null.map
+  270 Sep 20  2006 Null.tec
+   95 Apr  3  2006 Preserve sfms.map
+ 7.4K Sep  5  2006 RCIStandard.map
+ 2.9K Nov  2  2005 RCIStandard.tec
+ 4.5K Oct 20  2003 Senufo.map
+ 2.6K Oct 20  2003 Senufo.tec
+  19K Jun 18  2002 SILGreek.map
+ 8.4K Oct 31  2003 SILGreek.tec
+  15K Mar 17  2005 SIL-IPA93-2001.map
+ 2.6K Sep 25  2006 SIL-IPA93-2001.tec
+ 2.6K Mar 17  2005 silipa93.tec
+ 2.6K Oct 24  2002 SIL-IPA93.tec
+  11K Sep 27  2006 SIL-Kar.map
+ 3.9K Sep 27  2006 SIL-Kar.tec
+ 7.5K Jan  1  2006 SILSamogho.map
+ 2.9K Jan  1  2006 SILSamogho.tec
+ 1.8K Apr 19  2006 Songhai.map
+ 1.9K Apr 18  2006 Songhai.tec
+ 1.7K Dec 11  2006 tadaksahak.tec
+ 1.8K Mar 21  2007 tamacr.tec
+ 2.0K Feb  8  2007 Tamajaq TT20.4 SILSophia.tec
+ 1.9K Mar 21  2007 tamasheqMali.tec
+  26K Sep 27  2006 Tbb3.map
+ 8.3K Sep 27  2006 Tbb3.tec
+ 3.0K Feb 23  2012 _template.map
+  410 Apr  5  2006 test.map
+  324 Apr  5  2006 test.tec
+ 3.6K Aug  5  2006 Tombouctou.map
+ 2.2K Aug  5  2006 Tombouctou.tec
+ 9.7K Apr 25  2006 Turka.map
+ 3.2K Apr 25  2006 Turka.tec
+ 3.2K Sep 14  2005 Winye.map
+ 2.8K Sep 14  2005 Winye.tec
+
+Groups/TECkit_maps_Mexico:
+total 2.0M
+ 4.0K Mar 13  2018 $$AmArea Unicode fonts/
+ 4.0K Dec  3  2012 amu Bauernschmidt-Buck-Stewart C/
+ 4.0K Dec  3  2012 $ASAP/
+ 4.0K Apr 25  2017 Autohotkey/
+ 4.0K Apr 25  2017 $$AutoHotKey/
+ 4.0K Sep 18  2012 azm Butler/
+ 4.0K Dec  3  2012 $BU Bickford Unicode/
+ 4.0K Apr 25  2017 cco Anderson JL-Goodwin/
+ 1.1M Aug  2  2015 charident.exe
+ 4.0K Dec  3  2012 chf Keller/
+ 4.0K Dec  3  2012 $CHINSTD/
+ 4.0K Dec  3  2012 chz Rupp/
+ 4.0K Dec  3  2012 cle Rupp/
+ 4.0K Dec  3  2012 cnl Mugele-Rensch/
+ 4.0K Dec  3  2012 control/
+ 4.0K Dec  3  2012 crn Casad/
+ 4.0K Apr 25  2017 cso Foris/
+ 4.0K Dec  3  2012 cte Buuck/
+ 4.0K Jan 16  2017 ctl Lewis/
+ 4.0K Dec  3  2012 ctp Pride/
+ 4.0K Dec  3  2012 ctu Aulie-Beekman/
+ 4.0K Dec  3  2012 cus/
+ 4.0K Dec  3  2012 cut Anderson R/
+ 4.0K Dec  3  2012 cux Davis/
+  82K Jan  6  2003 Fontchrt (1).doc
+  82K Jan  6  2003 Fontchrt.doc
+ 4.0K Mar 13  2018 hch Grimes/
+ 4.0K Dec  3  2012 $HUASTD/
+ 4.0K Dec  3  2012 hus Walker/
+ 4.0K Dec  3  2012 huv Stairs-Warkentin/
+ 4.0K Apr 25  2017 hwc Grimes/
+ 4.0K Dec  3  2012 $John Black/
+ 4.0K Mar 13  2018 $$Keyman 8 & 9/
+ 4.0K Apr 25  2017 $$Keyman 9 Licenses/
+ 165K May 26  2015 LangTranFiles (1).txt
+ 191K Aug 27 15:37 LangTranFiles.txt
+ 4.0K Apr 25  2017 $$Legacy Fonts/
+ 4.0K Dec  3  2012 $Legacy Spanish Keyman/
+ 4.0K Jan 15  2013 $Linux ibus-kmfl-MXB/
+ 4.0K Dec  3  2012 maa Agee/
+ 4.0K Sep 11  2018 maj Schram/
+ 4.0K Dec  3  2012 $MazStd/
+ 4.0K Dec  3  2012 maz Stewart D/
+ 4.0K Dec  3  2012 mbz Schwab/
+ 4.0K Dec  3  2012 mdv Eberle-Cruz/
+ 4.0K May 30  2018 meh Harris/
+ 4.0K Dec  3  2012 $MexMix/
+ 4.0K Dec  3  2012 $MexOverstrike/
+ 4.0K Dec  3  2012 $MexStd/
+ 4.0K Dec  3  2012 mig Pike K E-Stark-Dyk/
+ 4.0K Dec  3  2012 mil Daly/
+ 4.0K Mar 13  2018 mim Anderson L-Zylstra/
+ 4.0K Mar 13  2018 mir/
+ 4.0K Dec  3  2012 mis/
+ 4.0K Dec  3  2012 mit Wistrand/
+ 4.0K Feb 25  2013 mix Nieves and Beckman/
+ 4.0K Dec  3  2012 $MixStd/
+ 4.0K Mar 13  2018 $Mixtec Composite Unicode/
+ 4.0K Feb  1  2015 $Mixtst2/
+ 4.0K Dec  3  2012 $MixtStd/
+ 4.0K Mar 13  2018 miy Hills/
+ 4.0K Aug 18  2015 miz Small-Turner/
+ 4.0K Mar 13  2018 mjc Johnson-Stark/
+ 4.0K Dec  3  2012 mks North-Shields/
+ 4.0K Nov 18  2013 mpm Farris/
+ 4.0K Mar 13  2018 $MSKLC Spanish Keyboards (Kevin Cline)/
+ 4.0K Sep 11  2013 $MTT Series/
+ 4.0K Mar 13  2018 $MXB unicode Current/
+ 4.0K Dec  3  2012 mxb Williams J/
+ 4.0K Dec  3  2012 mxq Schoenhals-Miller/
+ 4.0K Jun 26  2013 mxv Hillman-Overholt/
+ 4.0K Dec  3  2012 mxy Hugghins-McKendry/
+ 4.0K Dec  3  2012 mza Towne/
+ 4.0K Dec  3  2012 mzc/
+ 4.0K Dec  3  2012 mzl Hoogshagen/
+ 4.0K Aug 27  2014 nav Navajo/
+ 4.0K Dec  3  2012 nhm Mueller/
+ 4.0K Dec 19  2013 nhx Hurst/
+ 4.0K Dec  3  2012 nln Castro/
+ 4.0K Dec  3  2012 nlv Tuggy/
+ 4.0K Dec  3  2012 $Oaxaca Unicode/
+ 4.0K Apr 25  2017 ote Lanier-Sinclair/
+ 4.0K Apr 25  2017 otm Echegoyen-Viogtlander/
+ 4.0K Dec  3  2012 pbs Berthiaume-Gibson-Smith N/
+ 4.0K Dec  3  2012 pmq Berthiaume/
+ 4.0K Oct 29  2018 poe Austin-Kalstrom/
+ 4.0K Feb 13  2015 poi Elson-Lind/
+ 4.0K Dec  3  2012 $Randy Spiers/
+ 4.0K Dec  3  2012 saypop/
+ 4.0K Dec  3  2012 $Spanish Unicode/
+ 4.0K Mar 13  2018 stp Willett/
+ 4.0K Apr  4  2018 tcf Weathers M/
+ 4.0K Apr 25  2017 tpp Rios Gulmaro-Watters/
+ 4.0K Dec  3  2012 tqt Andersen G/
+ 4.0K Dec  3  2012 tsz Lathrop/
+ 4.0K Dec  3  2012 vmj Penner/
+ 4.0K Dec  3  2012 vmm Whitman-Hugghins-McKendry/
+ 4.0K Dec  3  2012 vmp Beal/
+ 4.0K Dec  3  2012 vmy Williams L/
+ 4.0K Dec  3  2012 xomix/
+ 4.0K Dec  3  2012 xtd Kuiper-Oram/
+ 4.0K Dec  3  2012 xtj Barkley/
+ 4.0K Jan  4  2013 xtm Hollenbach/
+ 4.0K Dec  3  2012 xtn Gittlen/
+ 4.0K Dec  3  2012 zab Jones/
+ 4.0K Nov 18  2013 zae Smith-Thiessen-Valverde/
+ 4.0K Dec  3  2012 zai Embry-Pickett-Villalobos-Alsop-Kolderup/
+ 4.0K Dec  3  2012 $ZAPSTD/
+ 4.0K Dec  3  2012 zas Martinez Josefa--Kreikebaum/
+ 4.0K Dec  3  2012 zat Earl/
+ 4.0K Dec  3  2012 zaw Stubblefield/
+ 4.0K May  7  2013 zca Benton/
+ 4.0K Dec  3  2012 zoque/
+ 4.0K Apr 25  2017 zpc Lyman/
+ 4.0K Mar 13  2018 zpf Delombard-Martinez-/
+ 4.0K Dec  3  2012 zpg Kreutz-Morse/
+ 4.0K Dec  3  2012 zpl Molina Lencho-Amalia-Persons/
+ 4.0K Dec  3  2012 zpm Reeck/
+ 4.0K Dec  3  2012 zpo Riggs/
+ 4.0K Dec  3  2012 zpq Long-Butler/
+ 4.0K Aug 14  2013 zpu Newberg/
+ 4.0K Dec  3  2012 ztc/
+ 4.0K Apr 18  2018 ztg Heise-Leander-Hopkins-Olive/
+ 4.0K Dec  3  2012 zts Merrill/
+ 4.0K Feb 15  2019 zzzEmpty/
+
+Groups/TECkit_maps_Mexico/$$AmArea Unicode fonts:
+total 47M
+ 1.6M May 26  2015 AndikaAmArea-R.ttf
+ 1.4M Nov  7  2014 AndikaCompact-R.ttf
+ 267K Sep  2  2015 AndikaNewBasic-AmArea-BI.ttf
+ 270K Sep  2  2015 AndikaNewBasic-AmArea-B.ttf
+ 284K Sep  2  2015 AndikaNewBasic-AmArea-I.ttf
+ 303K Sep  2  2015 AndikaNewBasic-AmArea-R.ttf
+ 267K Aug 28  2015 AndikaNewBasic-BI.ttf
+ 270K Aug 28  2015 AndikaNewBasic-B.ttf
+ 284K Aug 28  2015 AndikaNewBasic-I.ttf
+ 303K Aug 28  2015 AndikaNewBasic-R.ttf
+ 1.4M Nov 24  2014 Andika-R.ttf
+ 1.8M May 26  2015 CharisSILAmArea-BI.ttf
+ 1.8M May 26  2015 CharisSILAmArea-B.ttf
+ 1.8M May 26  2015 CharisSILAmArea-I.ttf
+ 1.8M May 26  2015 CharisSILAmArea-R.ttf
+ 1.6M May 26  2015 CharisSIL-BI.ttf
+ 1.7M May 26  2015 CharisSIL-B.ttf
+ 1.5M Nov  7  2014 CharisSILCompact-BI.ttf
+ 1.4M Nov  7  2014 CharisSILCompact-B.ttf
+ 1.5M Nov  7  2014 CharisSILCompact-I.ttf
+ 1.5M Nov  7  2014 CharisSILCompact-R.ttf
+ 1.7M May 26  2015 CharisSIL-I.ttf
+ 1.8M May 26  2015 CharisSILLiteracyAmArea-BI.ttf
+ 1.8M May 26  2015 CharisSILLiteracyAmArea-B.ttf
+ 1.8M May 26  2015 CharisSILLiteracyAmArea-I.ttf
+ 1.8M May 26  2015 CharisSILLiteracyAmArea-R.ttf
+ 1.7M May 26  2015 CharisSIL-R.ttf
+ 1.9M May 26  2015 DoulosSILAmArea-R.ttf
+ 1.5M Nov  7  2014 DoulosSILCompact-R.ttf
+ 1.9M May 26  2015 DoulosSILLiteracyAmArea-R.ttf
+ 1.8M May 26  2015 DoulosSIL-R.ttf
+ 1.8M May 26  2015 GentiumPlusAmArea-I.ttf
+ 1.8M May 26  2015 GentiumPlusAmArea-R.ttf
+ 1.8M May 26  2015 GentiumPlusLiteracyAmArea-I.ttf
+ 1.8M May 26  2015 GentiumPlusLiteracyAmArea-R.ttf
+ 1.8K Jan  7  2013 List of characters used in MXB.txt
+
+Groups/TECkit_maps_Mexico/amu Bauernschmidt-Buck-Stewart C:
+total 396K
+  246 May 15  2008 Amuzgo.bmp
+ 4.0K Dec  3  2012 Amuzgo esn Barcimeo/
+ 2.0K May 15  2008 AMUZGO.KMN
+ 3.4K May 15  2008 AMUZGO.kmx
+ 2.4K Aug  2  2012 AMUZGO Unicode EngKB.kmn
+ 3.4K Aug  2  2012 AMUZGO Unicode EngKB.kmx
+ 2.2K May 18  2009 Amuzgo Unicode.kmn
+ 3.1K May 18  2009 Amuzgo Unicode.kmx
+ 2.3K Apr  5  2010 Amuzgo Unicode SP.kmn
+ 1.9K Apr  5  2010 Amuzgo Unicode SP.kmx
+  694 May 15  2008 amz.bmp
+  246 May 15  2008 AmzPub.bmp
+  49K May 15  2008 AMZPUBCR.TTF
+ 2.0K May 15  2008 AmzPub.KMN
+ 3.1K May 15  2008 AmzPub.kmx
+  37K May 15  2008 AMZPUB.map
+ 2.0K May 15  2008 AMZPUB.tec
+  41K May 15  2008 AMZWCR.TTF
+ 2.2K May 15  2008 AMZWin6.kmn
+ 2.9K May 15  2008 AMZWin6.kmx
+ 2.0K May 15  2008 AMZWin.kmn
+ 4.1K May 15  2008 AMZWin.kmx
+  43K May 15  2008 AMZWIN.map
+ 2.3K May 15  2008 AMZWin sp.kmn
+ 2.5K May 15  2008 AMZWin sp.kmx
+ 2.2K May 15  2008 AMZWIN.tec
+  27K Apr  8  2010 Clave para teclear usando las fuentes Charis SIL y Doulos SIL con un teclado español.doc
+  51K May 15  2008 MEXAMU0.TTF
+  34K May 15  2008 MEXAMU.map
+ 1.9K May 15  2008 MEXAMU.tec
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/amu Bauernschmidt-Buck-Stewart C/Amuzgo esn Barcimeo:
+total 4.0K
+ 4.0K Dec  3  2012 Amuzgo/
+
+Groups/TECkit_maps_Mexico/amu Bauernschmidt-Buck-Stewart C/Amuzgo esn Barcimeo/Amuzgo:
+total 16K
+ 3.8K Jul  1  2011 Amuzgo.ahk
+   98 Jun  6  2011 Amuzgo InKey.kbd.ini
+   56 Jun  6  2011 Class.ini
+  318 Jun 29  2009 Mexico.ico
+
+Groups/TECkit_maps_Mexico/$ASAP:
+total 72K
+  47K Jun 20  2011 asapcr.ttf
+  17K Jun 20  2011 asap.map
+ 2.3K Jun 20  2011 asap.tec
+
+Groups/TECkit_maps_Mexico/Autohotkey:
+total 3.9M
+ 2.7M May 26  2015 AutoHotkey112201_Install.exe
+  500 Mar 10  2008 CharisSIL_Mex readme.txt
+ 237K Apr 13  2016 Como teclear - Mixtec esp Unicode (teclado español).doc
+   85 Mar 26  2008 copyUnicodeMXB2startup.bat
+  667 Apr 13  2016 Mixteco esp Unicode.ahk
+ 809K Apr 13  2016 Mixteco esp Unicode.exe
+ 6.2K Mar 13  2008 MXB Unicode key-in sequences.rtf
+  29K Mar 26  2008 unicodeMXB.ahk
+  72K Mar 26  2008 unicodeMXB key-in sequences.rtf
+
+Groups/TECkit_maps_Mexico/$$AutoHotKey:
+total 4.0K
+ 4.0K Mar 13  2018 AutoHotKey/
+
+Groups/TECkit_maps_Mexico/$$AutoHotKey/AutoHotKey:
+total 27M
+  12K Oct 16  2012 AMAKeyboard.ahk
+ 2.9K Oct 16  2012 AMA keyboard documentation.txt
+ 2.5M Sep 13  2012 AutoHotkey_L_Install (1).exe
+  988 Sep 13  2012 Burkina Faso.ahk
+ 800K Sep 13  2012 Burkina Faso.exe
+  30K Sep 18  2015 Chinantec Unicode keystrokes using Doulos SIL or any Unicode font on a Spanish keyboard (autohotkey).doc
+ 109K Nov 11  2013 Como tecla en Isthmus Nahutl (teclado español).doc
+  56K Dec 19  2013 Como tecla en Isthmus Nahutl (teclado ingles).doc
+  39K Aug 10  2016 Como tecla en Nuyoo Mixteco (teclado espanol).doc
+  41K Sep 16  2013 Como tecla en Popoluca.doc
+  31K Aug 14  2013 Como tecla en Yalalag Zapoteco.doc
+ 125K Nov 12  2013 Como teclear - Nahuatl Mecayapan nhx (teclado español)1.doc
+ 1.1K Sep 18  2015 cso Chinanteco (esp).ahk
+ 809K Sep 18  2015 cso Chinanteco (esp).exe
+  428 Mar 13  2012 Demo.ahk
+ 786K Mar 13  2012 Demo.exe
+ 5.9K Sep 24  2014 Gerry Anderson Unicode English keyboard.ahk
+  232 Sep 24  2014 Gerry's characters.txt
+  232 Jul 30  2014 Gulmaro (esp).ahk
+ 799K Jul 30  2014 Gulmaro (esp).exe
+ 4.0K Apr 25  2017 Harris/
+  43K Feb 12  2015 How to key Popoluca with an English keyboard.doc
+  219 Jun 19  2017 Lacandon (Phil Baer).ahk
+ 809K Jun 19  2017 Lacandon (Phil Baer).exe
+ 1.9K Nov  8  2012 Mazateco.ahk
+ 799K Oct  8  2012 Mazateco.eee
+ 800K Nov  8  2012 Mazateco.exe
+ 1.3K Apr 22  2013 Mazateco Jalapa.ahk
+ 800K Apr 22  2013 Mazateco Jalapa.exe
+ 799K Oct  8  2012 Mazateco-old.exe
+  987 Sep 23  2013 Mixe ingles teclado.ahk
+  987 Sep 23  2013 Mixe ingles teclado - Copy.ahk
+ 809K May 26  2015 Mixe ingles teclado - Copy.exe
+ 800K Sep 23  2013 Mixe ingles teclado.exe
+ 5.9K Jan 31  2014 Mixtec Composite Unicode English keyboard.ahk
+ 803K Jan 31  2014 Mixtec Composite Unicode English keyboard.exe
+ 2.1K Dec 19  2013 Nahuatl Isthmus (eng).ahk
+ 800K Dec 19  2013 Nahuatl Isthmus (eng).exe
+ 1.4K Dec 19  2013 Nahuatl Isthmus (esp).ahk
+ 800K Dec 19  2013 Nahuatl Isthmus (esp).exe
+  434 Jun 16  2015 Nicasio.ahk
+ 809K Jun 16  2015 Nicasio.exe
+ 1.5K Aug 10  2016 Nuyoo Mixteco espanol teclado.ahk
+ 809K Aug 10  2016 Nuyoo Mixteco espanol teclado.exe
+ 1.2K Oct 27  2014 Otomi es.ahk
+ 800K Oct 27  2014 Otomi es.exe
+ 1.9K Sep 16  2013 Popoluca.ahk
+ 2.8K Feb 12  2015 Popoluca-en.ahk
+ 801K Feb 12  2015 Popoluca-en.exe
+ 800K Sep 16  2013 Popoluca.exe
+  118 Apr  3  2014 Saltillo.ahk
+  118 Jan 14  2015 Saltillo (bracket).ahk
+ 799K Jan 14  2015 Saltillo (bracket).exe
+  117 Jul  5  2016 Saltillo (Curly Brace).ahk
+ 799K Jul  5  2016 Saltillo (Curly Brace).exe
+ 799K Apr  3  2014 Saltillo.exe
+  264 Jan 28  2016 Saltillo with es keyboard.KMN
+ 1.4K Jan 28  2016 Saltillo with es keyboard.kmx
+  828 Oct  4  2013 Spanish.ahk
+ 800K Mar  8  2013 Spanish.eee
+ 800K Oct  4  2013 Spanish.exe
+  323 Sep 24  2014 test.ahk
+ 799K Sep 24  2014 test.exe
+  886 Jan 28  2016 Unicode.bmp
+  556 Aug 14  2013 Yalalag Zapoteco.ahk
+ 799K Aug 14  2013 Yalalag Zapoteco.exe
+  915 Sep  9  2013 Yosondúa Mixtec.ahk
+ 799K Sep  9  2013 Yosondúa Mixtec.exe
+ 9.5K Sep  9  2013 Yosondúa Mixtec.odt
+  559 Nov 12  2013 zae español.ahk
+ 799K Nov 12  2013 zae español.exe
+ 1.4K Nov  7  2017 zpf English keyboard.ahk
+ 810K Nov  7  2017 zpf English keyboard.exe
+  193 Jun 16  2015 zpf Spanish keyboard.ahk
+ 809K Jun 16  2015 zpf Spanish keyboard.exe
+
+Groups/TECkit_maps_Mexico/$$AutoHotKey/AutoHotKey/Harris:
+total 1.7M
+  38K Aug 10  2016 Como tecla en Nuyoo Mixteco (teclado espanol).doc
+  47K Oct 27  2016 How to key Nuyoo with an English keyboard.doc
+ 2.2K Oct 27  2016 Nuyoo Mixteco English keyboard.ahk
+ 810K Oct 27  2016 Nuyoo Mixteco English keyboard.exe
+ 1.5K Aug 10  2016 Nuyoo Mixteco espanol teclado.ahk
+ 809K Aug 10  2016 Nuyoo Mixteco espanol teclado.exe
+
+Groups/TECkit_maps_Mexico/azm Butler:
+total 12K
+ 2.1K May 15  2008 Unicode Butler.kmn
+ 2.0K May 15  2008 Unicode Butler.kmx
+  246 May 15  2008 Unicode generic.bmp
+
+Groups/TECkit_maps_Mexico/$BU Bickford Unicode:
+total 920K
+  246 May 15  2008 BUKey.bmp
+ 380K May 15  2008 BUkeys.doc
+ 365K May 15  2008 BUkeys.pdf
+ 117K May 15  2008 BU.kmn
+  43K May 15  2008 BU.kmx
+  580 May 15  2008 BUreadme.txt
+
+Groups/TECkit_maps_Mexico/cco Anderson JL-Goodwin:
+total 1.4M
+ 2.3K May 15  2008 cco.kmn
+ 2.7K May 15  2008 cco.kmx
+ 2.6K Feb  3  2009 CCO Unicode.kmn
+ 2.8K Feb  3  2009 CCO Unicode.kmx
+ 2.0K May 15  2008 Chicco6.kmn
+ 2.6K May 15  2008 Chicco6.kmx
+  246 May 15  2008 chicco.bmp
+  46K May 15  2008 CHICCODR.TTF
+ 1.6K May 15  2008 Chicco.kmn
+ 2.1K May 15  2008 CHICCO.kmx
+  40K May 15  2008 CHICCO.map
+ 2.3K May 15  2008 CHICCO.tec
+  46K May 15  2008 CHICCXDR.TTF
+  40K May 15  2008 CHICCX.map
+ 2.4K May 15  2008 CHICCX.tec
+ 2.7K Feb 18  2016 Chinanteco Comoltepec (cco) Español teclado Unicode.ahk
+ 811K Feb 18  2016 Chinanteco Comoltepec (cco) Español teclado Unicode.exe
+ 263K Feb 18  2016 Como teclear - Chinanteco Comoltepec (teclado español).doc
+  28K May 15  2008 Instructions.doc
+  57K Feb 18  2016 Keying chart for Spanish keyboard.doc
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/chf Keller:
+total 96K
+  50K May 15  2008 MEXCHF50.TTF
+  37K May 15  2008 MEXCHF.map
+ 2.0K May 15  2008 MEXCHF.tec
+
+Groups/TECkit_maps_Mexico/$CHINSTD:
+total 176K
+  48K May 15  2008 chinstcr.ttf
+  83K May 15  2008 ChinStdchrt.doc
+  39K May 15  2008 CHINSTD.map
+ 2.2K May 15  2008 CHINSTD.tec
+
+Groups/TECkit_maps_Mexico/chz Rupp:
+total 96K
+  50K May 15  2008 CHNCHZCR.TTF
+  38K May 15  2008 CHNCHZ.map
+ 2.0K May 15  2008 CHNCHZ.tec
+
+Groups/TECkit_maps_Mexico/cle Rupp:
+total 308K
+  246 May 15  2008 CHICLE.bmp
+  45K May 15  2008 CHICLECR.TTF
+ 1.2K May 15  2008 CHICLE.KMN
+ 2.8K May 15  2008 CHICLE.kmx
+  42K May 15  2008 CHICLE.map
+ 2.3K May 15  2008 CHICLE.tec
+ 1.3K Feb 22  2010 CHIcleUnicode.kmn
+ 2.4K Feb 22  2010 CHIcleUnicode.kmx
+  822 May 15  2008 L-kmn.bmp
+  83K May 15  2008 Ruppchrt.doc
+  53K May 15  2008 RUPPDR.TTF
+  38K May 15  2008 RUPP.map
+ 2.0K May 15  2008 RUPP.tec
+  246 May 15  2008 unicode.bmp
+
+Groups/TECkit_maps_Mexico/cnl Mugele-Rensch:
+total 252K
+  40K May 15  2008 Chincnl.map
+ 2.3K May 15  2008 Chincnl.tec
+  248 Mar 17  2009 RenschUnicode.bmp
+  23K Mar 18  2009 Rensch Unicode keyboarding.doc
+ 151K Mar 17  2009 Rensch Unicode keyboarding.pdf
+ 8.2K Mar 18  2009 Rensch Unicode.kmn
+  14K Mar 18  2009 Rensch Unicode.kmx
+
+Groups/TECkit_maps_Mexico/control:
+total 92K
+  54K May 15  2008 CONTROCR.TTF
+  32K May 15  2008 CONTROL.map
+ 1.6K May 15  2008 CONTROL.tec
+
+Groups/TECkit_maps_Mexico/crn Casad:
+total 568K
+ 4.0K Dec  3  2012 Betty/
+  54K Feb  9  2006 CASACR0.TTF
+  32K May 15  2008 CASAD2.map
+ 1.7K May 15  2008 CASAD2.tec
+ 3.6K May 15  2008 casad6.kmn
+ 3.7K May 15  2008 casad6.kmx
+  822 Aug  6  2003 casad.bmp
+  83K May 15  2008 Casadchrt.doc
+ 3.5K Aug  6  2003 casad.kmn
+ 4.3K Aug  6  2003 Casad.kmx
+  38K May 15  2008 CASAD.map
+  52K May 15  2008 CASADR.TTF
+ 1.9K May 15  2008 CASAD.tec
+ 3.6K May 15  2008 casad u.kmn
+ 4.4K Sep 21  2011 casad unicode.kmn
+ 2.1K Sep 21  2011 casad unicode.kmx
+  31K Apr 13  2012 How to key all the Cora characters with the Casad Unicode keyboard.doc
+  69K May 15  2008 MexC000.ttf
+  29K May 15  2008 MEXCAS.map
+ 1.8K May 15  2008 MEXCAS.tec
+  61K May 15  2008 MexM000.ttf
+  34K May 15  2008 MEXMEXCasad.map
+ 1.8K May 15  2008 MEXMEXCasad.tec
+   69 May 15  2008 readme.txt
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/crn Casad/Betty:
+total 16K
+ 4.6K Apr 13  2012 casad unicode.kmn
+ 2.2K Apr 13  2012 casad unicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/cso Foris:
+total 836K
+  14K Apr 26  2011 Chinantec Unicode keystrokes using Doulos SIL or any Unicode font on a Spanish keyboard.doc
+ 1.1K Sep 18  2015 cso Chinanteco (esp).ahk
+ 809K Sep 18  2015 cso Chinanteco (esp).exe
+ 4.0K Apr 25  2017 ForisKeymanFiles/
+
+Groups/TECkit_maps_Mexico/cso Foris/ForisKeymanFiles:
+total 284K
+  208 May 15  2008 Chin.bmp
+ 1.4K May 15  2008 CHIN-Dell.kmn
+ 1.4K May 15  2008 CHIN-Dell.kmx
+ 1.9K May 15  2008 CHIN-DellU.kmn
+ 1.4K May 15  2008 CHIN-DellU.kmx
+ 1.5K May 15  2008 CHIN-En keyboard Unicode.kmn
+ 2.3K May 15  2008 CHIN-En keyboard Unicode.kmx
+ 4.0K Apr 25  2017 ChinFonts/
+ 1.5K May 15  2008 CHIN-HP-J-INSTALLER.kmp
+  488 May 15  2008 CHIN HP JOSEPH.kps
+ 2.4K May 15  2008 CHIN-HP-J-SOURCE CODE.kmn
+  614 May 15  2008 CHIN-SP KB-Unicode.kmn
+ 1.2K May 15  2008 CHIN-SP KB-Unicode.kmx
+ 1.1K May 15  2008 CHIN-Sp Keyboard Unicode.kmn
+ 1.4K May 15  2008 CHIN-Sp keyboard Unicode.kmx
+  48K May 15  2008 CHINSTC0.TTF
+  83K May 15  2008 ChinStdchrt.doc
+  39K May 15  2008 CHINSTD.map
+ 2.2K May 15  2008 CHINSTD.tec
+  899 May 15  2008 CHIN-TOSH-4300.kmn
+ 1.3K May 15  2008 CHIN-Tosh-A25.kmn
+ 2.1K May 15  2008 CHIN-Tosh-A25.kmx
+ 2.7K May 15  2008 CHIN-Tosh-A25U.kmn
+ 2.3K May 15  2008 CHIN-Tosh-A25U.kmx
+  478 May 15  2008 ChinU.bmp
+ 1006 May 15  2008 CHIN-XP-JOSEPH.kmn
+ 1.1K May 15  2008 CHIN-XP-JOSEPH.kmp
+ 1.3K May 15  2008 CHIN-XP-JOSEPH.kmx
+  476 May 15  2008 CHIN-XP-JOSEPH.kps
+ 4.0K Dec  3  2012 Toshiba 300/
+  334 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/cso Foris/ForisKeymanFiles/ChinFonts:
+total 616K
+ 47K Aug 18  1998 chinstcb.ttf
+ 50K Aug 18  1998 chinstcc.ttf
+ 49K Aug 18  1998 chinstci.ttf
+ 48K Aug 18  1998 chinstcr.ttf
+ 58K Apr  1  2002 chinstmb.ttf
+ 61K Apr  1  2002 chinstmc.ttf
+ 64K Apr  1  2002 chinstmi.ttf
+ 60K Apr  1  2002 chinstmr.ttf
+ 40K Apr  1  2002 chinstsb.ttf
+ 38K Apr  1  2002 chinstsc.ttf
+ 44K Apr  1  2002 chinstsi.ttf
+ 41K Apr  1  2002 chinstsr.ttf
+
+Groups/TECkit_maps_Mexico/cso Foris/ForisKeymanFiles/Toshiba 300:
+total 44K
+ 4.1K May 15  2008 chinlptp.kmn
+ 3.2K May 15  2008 chinlptp.kmx
+ 2.7K May 15  2008 ChinTosh-2.kmn
+ 3.8K May 15  2008 ChinTosh-2.kmx
+ 2.7K May 15  2008 ChinTosh-3.kmn
+ 3.7K May 15  2008 ChinTosh-3.kmx
+ 4.2K May 15  2008 ChinTosh.kmn
+ 5.2K May 15  2008 ChinTosh.kmx
+
+Groups/TECkit_maps_Mexico/cte Buuck:
+total 268K
+  34K May 15  2008 Chinantec Symbols.doc
+  31K May 15  2008 Keying sequence for MXB Unicode Buuck.doc
+  30K May 15  2008 Keying sequence for Spanish Unicode Buuck.doc
+ 9.7K May 15  2008 MXB Unicode Buuck.kmn
+  12K May 15  2008 MXB Unicode Buuck.kmx
+  25K May 15  2008 Orthography update January 24 2007.doc
+  28K May 15  2008 Tecleando el Idioma Chinanteco en Petlapa.doc
+  75K May 15  2008 Tecleando el Idioma Chinanteco en Petlapa.pdf
+  246 May 15  2008 Unicode.bmp
+ 3.4K May 15  2008 Unicode Spanish KB Buuck.kmn
+ 3.5K May 15  2008 Unicode Spanish KB Buuck.kmx
+
+Groups/TECkit_maps_Mexico/ctl Lewis:
+total 1.7M
+ 1.4M Feb  2  2009 Chinantec.kmp
+ 1.8K Feb  2  2009 Chinantec.kps
+ 1.4K Jan 31  2009 chn.bmp
+  47K May 15  2008 chnctl.map
+  36K Jul  7  2011 CHNCTLN.map
+ 1.9K Jul  7  2011 CHNCTLN.tec
+ 2.4K May 15  2008 chnctl.tec
+ 2.8K Mar 11  2015 CHNCTL Unicode.KMN
+ 2.9K Mar 11  2015 CHNCTL Unicode.kmx
+ 2.5K May 15  2008 CHNCTLv.KMN
+ 3.3K May 15  2008 CHNCTLv.kmx
+  33K May 15  2008 CHNCTLV.map
+ 2.5K Jan 31  2009 CHNCTLv-SP.KMN
+ 2.9K Jan 31  2009 CHNCTLv-SP.kmx
+ 2.0K May 15  2008 CHNCTLV.tec
+  31K Jan 31  2009 Como escribi en chinanteco usando fuente Chnctln SIL Doulos.doc
+  30K May 15  2008 Como escribi en chinanteco usando fuente Chnctlv SIL Doulos.doc
+ 4.0K Apr 25  2017 ctl  mas recientes Fuentes/
+ 4.0K Dec  3  2012 Newest fonts/
+  822 Mar 11  2015 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/ctl Lewis/ctl  mas recientes Fuentes:
+total 844K
+  50K Mar  2  2007 CHNCCBI.TTF
+  48K Mar  2  2007 CHNCCB.TTF
+  50K Mar  2  2007 CHNCCI.TTF
+  49K Mar  2  2007 CHNCCR.TTF
+  50K Mar  2  2007 CHNCDBI.TTF
+  48K Mar  2  2007 CHNCDB.TTF
+  50K Mar  2  2007 CHNCDI.TTF
+  50K Mar  2  2007 CHNCDR.TTF
+  62K Mar  2  2007 CHNCMBI.TTF
+  59K Mar  2  2007 CHNCMB.TTF
+  65K Mar  2  2007 CHNCMI.TTF
+  61K Mar  2  2007 CHNCMR.TTF
+  38K Mar  2  2007 CHNCSBI.TTF
+  40K Mar  2  2007 CHNCSB.TTF
+  44K Mar  2  2007 CHNCSI.TTF
+  40K Mar  2  2007 CHNCSR.TTF
+ 2.3K Dec  3  2002 chnctln.cst
+ 1.4K Dec  3  2002 CHNCTLN.EJI
+ 2.4K Dec  3  2002 chnctlv.cst
+ 1.4K Dec  3  2002 CHNCTLV.EJI
+
+Groups/TECkit_maps_Mexico/ctl Lewis/Newest fonts:
+total 1.7M
+  49K May 15  2008 CHNCCB0.TTF
+  48K May 15  2008 CHNCCB1.TTF
+  51K May 15  2008 CHNCCBI0.TTF
+  51K May 15  2008 CHNCCBI1.TTF
+  51K May 15  2008 CHNCCI0.TTF
+  50K May 15  2008 CHNCCI1.TTF
+  50K May 15  2008 CHNCCR0.TTF
+  49K May 15  2008 CHNCCR1.TTF
+  48K May 15  2008 CHNCDB0.TTF
+  49K May 15  2008 CHNCDB1.TTF
+  50K May 15  2008 CHNCDBI0.TTF
+  51K May 15  2008 CHNCDBI1.TTF
+  50K May 15  2008 CHNCDI0.TTF
+  50K May 15  2008 CHNCDI1.TTF
+  50K May 15  2008 CHNCDR0.TTF
+  50K May 15  2008 CHNCDR1.TTF
+  60K May 15  2008 CHNCMB0.TTF
+  63K May 15  2008 CHNCMBI0.TTF
+  63K May 15  2008 CHNCMBI.TTF
+  60K May 15  2008 CHNCMB.TTF
+  66K May 15  2008 CHNCMI0.TTF
+  65K May 15  2008 CHNCMI.TTF
+  62K May 15  2008 CHNCMR0.TTF
+  61K May 15  2008 CHNCMR.TTF
+  41K May 15  2008 CHNCSB0.TTF
+  39K May 15  2008 CHNCSBI0.TTF
+  38K May 15  2008 CHNCSBI.TTF
+  40K May 15  2008 CHNCSB.TTF
+  44K May 15  2008 CHNCSI0.TTF
+  44K May 15  2008 CHNCSI.TTF
+  41K May 15  2008 CHNCSR0.TTF
+  40K May 15  2008 CHNCSR.TTF
+ 2.3K May 15  2008 chnctln.cst
+ 1.3K May 15  2008 CHNCTLN.EJI
+ 2.3K May 15  2008 chnctlv.cst
+ 1.4K May 15  2008 CHNTCLV.EJI
+
+Groups/TECkit_maps_Mexico/ctp Pride:
+total 96K
+  53K May 15  2008 MEXCTCR.TTF
+  33K May 15  2008 MEXCTP.map
+ 1.6K May 15  2008 MEXCTP.tec
+
+Groups/TECkit_maps_Mexico/ctu Aulie-Beekman:
+total 76K
+  55K May 15  2008 MEXCTU10.TTF
+  15K May 15  2008 MEXCTU.map
+ 1.6K May 15  2008 MEXCTU.tec
+
+Groups/TECkit_maps_Mexico/cus:
+total 96K
+  54K May 15  2008 CHNCUS10.TTF
+  36K May 15  2008 CHNCUS.map
+ 1.7K May 15  2008 CHNCUS.tec
+
+Groups/TECkit_maps_Mexico/cut Anderson R:
+total 28K
+  494 May 15  2008 Cuicatec combining Spanish..kmn
+  876 May 15  2008 Cuicatec combining Spanish..kmx
+  488 May 15  2008 Cuicatec Spanish..kmn
+ 1.1K May 15  2008 Cuicatec Spanish..kmx
+  538 May 15  2008 Macron Unicode Spanish..kmn
+ 1.1K May 15  2008 Macron Unicode Spanish..kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/cux Davis:
+total 96K
+  49K May 15  2008 MexcuxCR.TTF
+  39K May 15  2008 Mexcux.map
+ 2.0K May 15  2008 Mexcux.tec
+
+Groups/TECkit_maps_Mexico/hch Grimes:
+total 1.6M
+  445 May 26  2015 Huichol-En.ahk
+ 784K May 26  2015 Huichol-En.exe
+  445 May 26  2015 Huichol-Es.ahk
+ 784K May 26  2015 Huichol-Es.exe
+
+Groups/TECkit_maps_Mexico/$HUASTD:
+total 164K
+  83K May 15  2008 Huastdchrt.doc
+  55K May 15  2008 huastddr.TTF
+  18K May 15  2008 huastd.map
+ 1.6K May 15  2008 huastd.tec
+
+Groups/TECkit_maps_Mexico/hus Walker:
+total 96K
+  53K May 15  2008 MEXHUS0.TTF
+  33K May 15  2008 MEXHUS.map
+ 1.6K May 15  2008 MEXHUS.tec
+
+Groups/TECkit_maps_Mexico/huv Stairs-Warkentin:
+total 100K
+  54K May 15  2008 MEXHUVCR.TTF
+  38K May 15  2008 MEXHUV.map
+ 1.6K May 15  2008 MEXHUV.tec
+
+Groups/TECkit_maps_Mexico/hwc Grimes:
+total 1.9M
+ 111K May 26  2015 Barred-iForHotKeys.doc
+  12K May 26  2015 Barred-iForHotKeys Spanish and English.doc
+  711 May 26  2015 Huichol+.ahk
+  445 May 26  2015 Huichol-En.ahk
+ 784K May 26  2015 Huichol-En.exe
+  445 May 26  2015 Huichol-Es.ahk
+ 784K May 26  2015 Huichol-Es.exe
+ 168K May 26  2015 Huichol+.pdf
+
+Groups/TECkit_maps_Mexico/$John Black:
+total 20K
+  246 May 15  2008 BARREDI.bmp
+ 1.3K May 15  2008 BarredI.kmn
+ 1.8K May 15  2008 BarredI.kmx
+  634 May 15  2008 JohnB.kmx
+  246 May 15  2008 JOHN.bmp
+
+Groups/TECkit_maps_Mexico/$$Keyman 8 & 9:
+total 24M
+ 4.3K Oct  2  2017 InKey_Keyman.kmn
+ 7.9M Sep 25  2017 keymandesktop-8.0.361.0.exe
+  16M Sep 25  2017 keymandesktop-9.0.528.0.exe
+
+Groups/TECkit_maps_Mexico/$$Keyman 9 Licenses:
+total 34M
+  13M Oct 28  2016 beta-keymandesktop-9.0.526.0.exe
+  18K Apr  6  2017 Keyman 8 licencia certificate_21359.pdf
+  18K May 18  2016 Keyman 9 licencias Tavultesoft_Certificate_21422.pdf
+ 7.9M Mar 31  2017 keymandesktop-8.0.360.0.exe
+  13M Oct 28  2016 keymandesktop-9.0.508.0.exe
+
+Groups/TECkit_maps_Mexico/$$Legacy Fonts:
+total 33M
+ 144K Oct 13  2002 Americanist 2002-01.zip
+ 344K Apr  8  2002 Amzwin.zip
+ 390K Aug 19  2002 bentch-a.zip
+ 397K Jun 27  2002 bentonch.zip
+ 399K Apr  8  2002 Benton.zip
+ 222K Apr  8  2002 casad.zip
+ 373K Apr  8  2002 Chicco.zip
+ 370K Nov  7  2002 CHICCX.zip
+ 377K Apr  8  2002 Chicle.zip
+ 100K Apr 13  2003 Chinstd.zip
+ 102K Apr  8  2002 Chintec.zip
+ 557K Apr  8  2002 Chnchz.zip
+ 387K Nov 17  2002 Chnctln.zip
+ 785K Mar  3  2004 Chnctlv and chnctln.zip
+ 394K Nov 17  2002 Chnctlv.zip
+ 381K Apr  8  2002 Chnctl.zip
+ 414K Apr  8  2002 Chncus.zip
+ 215K Apr  8  2002 Control.zip
+ 393K Aug  3  2015 ctl  mas recientes Fuentes.zip
+  93K Apr  8  2002 Hoog Hoog.zip
+ 415K Apr  8  2002 Huastd.zip
+ 319K Apr 29  2003 Hugghins-McKendry.zip
+ 173K Apr  8  2002 Hurststd.zip
+ 298K Oct 13  2002 IPA93 Encore 3 2000-06.zip
+ 289K Apr  8  2002 John Kreutz.zip
+ 518K Sep 18  2002 Lind.zip
+ 378K Apr  8  2002 Long Zap97.zip
+ 279K Apr  8  2002 Long Zap.zip
+  42K Apr  8  2002 Lorens showdec.zip
+ 409K Apr  8  2002 Mazstd.zip
+ 103K Apr  8  2002 Meh.zip
+ 107K Apr  5  2002 Memmxq Mexmxq.zip
+ 103K Apr  5  2002 Mexamu.zip
+  58K Apr  8  2002 Mex Casad.zip
+ 101K Apr  5  2002 Mexchf.zip
+ 102K Apr  5  2002 Mex Chin L.zip
+ 274K Apr  8  2002 Mex Chin.zip
+ 104K Apr  5  2002 Mexcok.zip
+ 411K Apr  5  2002 Mexctp.zip
+ 416K Apr  5  2002 Mexctu.zip
+ 101K Apr  5  2002 Mexcux.zip
+ 107K Apr  5  2002 Mexhus.zip
+ 419K Apr  5  2002 Mexhuv.zip
+  99K Apr  5  2002 Mexico Modtimes.zip
+ 762K Jun 27  2002 MexMaj.zip
+ 103K Apr  5  2002 Mexmaz.zip
+ 427K Apr  5  2002 Mex MexCasad.zip
+ 750K Apr  7  2002 Mex Mix97.zip
+ 270K Jun 12  2002 Mex Mix L.zip
+ 272K Apr  5  2002 Mexmix.zip
+ 170K Apr  7  2002 Mex Mix.zip
+  96K Apr  5  2002 Mexmzc.zip
+ 230K Apr  5  2002 Mexote.zip
+ 343K Aug 19  2002 MEXOTM.zip
+ 325K Feb 29  2008 Mexoto99.zip
+ 398K Aug 19  2002 MEXOTO.zip
+ 186K Apr  5  2002 Mex Ovrstrk L.zip
+  79K Apr  5  2002 Mex Ovrstrk.zip
+ 369K Apr  5  2002 Mexpbs.zip
+ 410K Apr  5  2002 Mexpoe.zip
+ 102K Apr  5  2002 Mexpoi.zip
+ 419K Apr  5  2002 Mex Std.zip
+ 773K Jun 27  2002 MEXStd.zip
+ 375K Apr  5  2002 Mex Stub.zip
+ 107K Dec 10  2001 Mextep.zip
+ 107K Apr  5  2002 Mextsz.zip
+ 207K Apr  5  2002 Mexztc.zip
+ 383K Apr  7  2002 Mix Daly L.zip
+ 108K Apr  7  2002 Mix Hills.zip
+ 103K Apr  7  2002 Mixmig.zip
+ 384K Apr 29  2003 Mixmis.zip
+ 388K Apr  7  2002 Mixmiz.zip
+ 381K Apr  7  2002 Mixmjc.zip
+ 393K Nov 30  2003 MIXT45.zip
+  22K Apr  8  2002 Mixtec Serif.zip
+ 444K May 11  2003 mixtmjc2.zip
+ 378K Apr  7  2002 Mixtmjc.zip
+ 389K Apr  7  2002 Mixtst2.zip
+ 400K Apr  7  2002 Mixtstd screen.zip
+ 1.3M Apr  7  2002 Mixtstd ventura.zip
+ 104K Apr 17  2002 Mtcstd.zip
+ 420K Oct 13  2002 mtt 1999-09.zip
+ 105K Oct 16  2002 mtt2Schram2002.zip
+ 406K May  5  2003 MttWinBenton2003.zip
+ 105K Oct 21  2003 Mxtmeh.zip
+ 371K Apr  8  2002 Mxtmil.zip
+ 102K Apr  8  2002 Mxtmit.zip
+ 395K Apr  8  2002 Mxtmiy.zip
+ 378K May 22  2002 Mxtmjc.zip
+ 102K Apr  8  2002 Mxttst.zip
+  43K Apr  8  2002 Navwin.zip
+ 107K Apr  8  2002 North.zip
+  97K Apr  8  2002 Otn.zip
+ 360K Sep 23  2002 otomi2.zip
+  85K Aug 19  2002 Otosil.zip
+ 308K Apr  8  2002 Palwinwd.zip
+ 178K Apr 21  2003 Pride.zip
+ 419K Apr  8  2002 Rupp.zip
+ 116K Apr  8  2002 Saypop.zip
+ 654K Apr  8  2002 Schram maz.zip
+  31K Feb  1  2006 SHOWSR.TTF
+ 106K Apr  8  2002 Stewart.zip
+ 287K Apr  8  2002 Tuggy Naw.zip
+  98K Apr  8  2002 Xo Mix.zip
+ 106K Apr  8  2002 Zapstd.zip
+  95K Apr  8  2002 Zapwin.zip
+ 507K Apr  8  2002 Zapzae.zip
+ 446K Apr  8  2002 Zapzas.zip
+ 105K Apr  8  2002 Zapzpg.zip
+ 381K Aug 20  2002 Zapzpm.zip
+ 401K Apr  8  2002 Zapzpq.zip
+  48K Apr  8  2002 Zapztc.zip
+ 371K Oct 26  2002 zapztg.zip
+ 104K Mar 29  2005 Zaxzaw.zip
+ 107K Apr  8  2002 Zoque.zip
+
+Groups/TECkit_maps_Mexico/$Legacy Spanish Keyman:
+total 12K
+  246 May 15  2008 spanish.bmp
+ 1.3K May 15  2008 SPAN.KMN
+ 2.1K May 15  2008 SPAN.kmx
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB:
+total 4.0K
+ 4.0K Jan 15  2013 ibus-kmfl/
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl:
+total 12K
+ 2.1K Dec 16  2012 1-ibus-kmfl-install-wrapper.sh
+ 2.3K Dec 16  2012 2-kmfl-keyboard-setup-wrapper.sh
+ 4.0K Jan 15  2013 resources/
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl/resources:
+total 1.8M
+ 5.6K Dec 16  2012 ibus-kmfl-install.sh
+ 4.0K Jan 15  2013 ibussid32/
+ 4.0K Jan 15  2013 ibussid64/
+ 1.7M Nov 14  2012 ibus-sid.tar.gz
+ 4.0K Jan 15  2013 icons/
+ 4.2K Dec 17  2012 kmfl-keyboard-setup.sh
+ 4.0K Jan 15  2013 tables/
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl/resources/ibussid32:
+total 872K
+  59K Sep 14  2012 gir1.2-ibus-1.0_1.4.1-7_i386.deb
+ 300K Sep 14  2012 ibus_1.4.1-7_i386.deb
+ 186K Sep 14  2012 ibus-doc_1.4.1-7_all.deb
+  20K Sep 14  2012 ibus-gtk_1.4.1-7_i386.deb
+  20K Sep 14  2012 ibus-gtk3_1.4.1-7_i386.deb
+ 107K Sep 14  2012 libibus-1.0-0_1.4.1-7_i386.deb
+ 136K Sep 14  2012 libibus-1.0-dev_1.4.1-7_i386.deb
+  40K Sep 14  2012 python-ibus_1.4.1-7_all.deb
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl/resources/ibussid64:
+total 880K
+  59K Sep 14  2012 gir1.2-ibus-1.0_1.4.1-7_amd64.deb
+ 297K Sep 14  2012 ibus_1.4.1-7_amd64.deb
+ 185K Sep 14  2012 ibus-doc_1.4.1-7_all.deb
+  20K Sep 14  2012 ibus-gtk_1.4.1-7_amd64.deb
+  20K Sep 14  2012 ibus-gtk3_1.4.1-7_amd64.deb
+ 111K Sep 14  2012 libibus-1.0-0_1.4.1-7_amd64.deb
+ 136K Sep 14  2012 libibus-1.0-dev_1.4.1-7_amd64.deb
+  41K Sep 14  2012 python-ibus_1.4.1-7_all.deb
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl/resources/icons:
+total 48K
+ 1.8K Oct 31  2012 BDH.bmp
+ 1.8K Oct 31  2012 BVI.bmp
+ 1.8K Oct 31  2012 DID.bmp
+ 1.8K Oct 31  2012 DIN.bmp
+ 1.8K Oct 30  2012 GE.bmp
+ 1.8K Dec 15  2012 IPA93.bmp
+ 1.8K Oct 31  2012 KRS.bmp
+ 1.8K Oct 31  2012 MIT.bmp
+ 1.8K Oct 31  2012 MM.bmp
+ 1.8K Oct 31  2012 MV.bmp
+  246 Jan 19  2004 MXB.bmp
+ 1.8K Dec 15  2012 TEX.bmp
+
+Groups/TECkit_maps_Mexico/$Linux ibus-kmfl-MXB/ibus-kmfl/resources/tables:
+total 76K
+ 1.8K Jun 21  2010 BDH.kmn
+ 2.8K Jan 19  2010 BVI.kmn
+ 2.3K Dec 15  2012 DID.kmn
+ 2.0K Dec 15  2012 DIN.kmn
+  14K Dec 15  2012 GE.kmn
+ 7.0K Dec 15  2012 IPAUni10v6.kmn
+ 3.3K Jun 22  2009 KRS.kmn
+ 4.2K Oct 25  2011 MIT.kmn
+ 7.9K Dec 15  2012 MM.kmn
+ 3.2K Dec 15  2012 MV.kmn
+ 8.0K Dec 17  2012 MXB.kmn
+ 3.1K Dec 15  2012 TEX.kmn
+
+Groups/TECkit_maps_Mexico/maa Agee:
+total 4.0K
+ 4.0K Dec  3  2012 InKey Agee/
+
+Groups/TECkit_maps_Mexico/maa Agee/InKey Agee:
+total 36K
+ 4.0K Dec  3  2012 Mazatec/
+ 5.6K Jul 14  2011 mazatec.ikp
+ 2.3K Jul 14  2011 Mazatec.inkey
+ 4.0K Dec  3  2012 Maz-uni/
+ 5.5K Jul 14  2011 maz-uni.ikp
+ 2.1K Jul 14  2011 Maz-uni.inkey
+ 4.0K Dec  3  2012 Peggy/
+
+Groups/TECkit_maps_Mexico/maa Agee/InKey Agee/Mazatec:
+total 16K
+   57 Jul 14  2011 Class.ini
+ 2.5K Jul 14  2011 Mazatec.ahk
+ 3.2K Nov 14  2008 Mazatec.ico
+   99 Jul 15  2011 Mazatec InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/maa Agee/InKey Agee/Maz-uni:
+total 16K
+   57 Jul 14  2011 Class.ini
+ 1.9K Jul 14  2011 Maz-uni.ahk
+ 3.2K Nov 14  2008 Maz-uni.ico
+  103 Jul 15  2011 Maz-uni InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/maa Agee/InKey Agee/Peggy:
+total 4.0K
+ 4.0K Dec  3  2012 Unicode/
+
+Groups/TECkit_maps_Mexico/maa Agee/InKey Agee/Peggy/Unicode:
+total 16K
+   57 Jul  1  2011 Class.ini
+ 3.2K Aug 17  2011 Unicode.ahk
+  246 Feb 25  2010 Unicode.bmp
+  102 Jul  1  2011 Unicode InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/maj Schram:
+total 1.9M
+  34K Mar 10  2017 Como tecla en Mazateco.doc
+ 2.5K Nov 25  2009 maj Schram.zip
+  246 May 15  2008 mazatec.bmp
+ 1.9K Sep 11  2018 Mazateco.ahk
+ 810K Sep 11  2018 Mazateco.exe
+ 1.3K Apr 22  2013 Mazateco Jalapa.ahk
+ 800K Apr 22  2013 Mazateco Jalapa.exe
+ 1.3K Mar 10  2017 Mazatec with Spanish Keyboard Unicode.KMN
+ 2.0K Mar 10  2017 Mazatec with Spanish Keyboard Unicode.kmx
+  37K May 15  2008 MEXMAJ.map
+ 2.1K May 15  2008 MEXMAJ.tec
+  47K May 15  2008 MEXMCR.TTF
+  771 Nov 25  2009 SCHRAM6 after.KMN
+ 1.2K Nov 25  2009 SCHRAM6 after.kmx
+  774 May 15  2008 SCHRAM6.KMN
+ 1.8K May 15  2008 SCHRAM6.kmx
+  48K May 15  2008 SCHRAMCR.TTF
+  49K May 15  2008 SCHRAMDR.TTF
+  39K May 15  2008 SCHRAMMAZ.map
+ 2.5K May 15  2008 SCHRAMMAZ.tec
+ 1.1K Nov 25  2009 SCHRAM Unicode after.KMN
+ 1.3K Nov 25  2009 SCHRAM Unicode after.kmx
+  987 May 15  2008 SCHRAM Unicode.KMN
+ 1.8K May 15  2008 SCHRAM Unicode.kmx
+  886 Mar 10  2017 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/$MazStd:
+total 92K
+  52K May 15  2008 MAZSTDCR.TTF
+  35K May 15  2008 MAZSTD.map
+ 1.8K May 15  2008 MAZSTD.tec
+
+Groups/TECkit_maps_Mexico/maz Stewart D:
+total 188K
+  52K May 15  2008 mexmazcr.TTF
+  34K May 15  2008 mexmaz.map
+ 1.7K May 15  2008 mexmaz.tec
+  53K May 15  2008 STEWARCR.TTF
+  33K May 15  2008 STEWART.map
+ 1.7K May 15  2008 STEWART.tec
+
+Groups/TECkit_maps_Mexico/mbz Schwab:
+total 12K
+ 1.2K May 15  2008 mbz Unicode.kmn
+ 1.5K May 15  2008 mbz Unicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mdv Eberle-Cruz:
+total 12K
+ 3.0K Jul 17  2008 Mixtstd-U.kmn
+ 3.1K Jul 17  2008 Mixtstd-U.kmx
+  246 May  6  2003 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/meh Harris:
+total 292K
+ 4.0K May 30  2018 English/
+ 4.0K May 30  2018 Español/
+ 4.0K Dec  3  2012 InKey meh eng Harris/
+ 4.0K Dec  3  2012 InKey meh esn Harris/
+  50K May 15  2008 MEHCR.TTF
+ 3.1K May 15  2008 MEH.KMN
+ 4.2K May 15  2008 Meh.kmx
+  41K May 15  2008 MEH.map
+  25K May 15  2008 meh nellis.doc
+ 3.2K May 15  2008 MEH Nellis.KMN
+ 3.8K May 15  2008 MEH Nellis.kmx
+ 2.1K May 15  2008 MEH.tec
+ 3.8K May 15  2008 MEH unicode.kmn
+ 3.7K May 15  2008 MEH unicode.kmx
+ 3.3K May 15  2008 MEH w spanish kb.KMN
+ 1.5K May 15  2008 MEH w spanish kb.kmx
+  50K May 15  2008 mxtmehcr.TTF
+  41K May 15  2008 MXTMEH.MAP
+ 2.1K May 15  2008 MXTMEH.tec
+  246 May 15  2008 Nellis.bmp
+  334 May 15  2008 Orthon.bmp
+  246 May 15  2008 U.BMP
+
+Groups/TECkit_maps_Mexico/meh Harris/English:
+total 864K
+  47K Oct 27  2016 How to key Nuyoo with an English keyboard.doc
+ 2.2K Oct 27  2016 Nuyoo Mixteco English keyboard.ahk
+ 810K Oct 27  2016 Nuyoo Mixteco English keyboard.exe
+
+Groups/TECkit_maps_Mexico/meh Harris/Español:
+total 856K
+  38K Aug 10  2016 Como tecla en Nuyoo Mixteco (teclado espanol).doc
+ 1.5K Aug 10  2016 Nuyoo Mixteco espanol teclado.ahk
+ 809K Aug 10  2016 Nuyoo Mixteco espanol teclado.exe
+
+Groups/TECkit_maps_Mexico/meh Harris/InKey meh eng Harris:
+total 4.0K
+ 4.0K Dec  3  2012 Unicode/
+
+Groups/TECkit_maps_Mexico/meh Harris/InKey meh eng Harris/Unicode:
+total 16K
+   57 Jul  1  2011 Class.ini
+ 3.9K Aug 15  2011 Unicode.ahk
+  246 Feb 25  2010 Unicode.bmp
+  102 Jul  1  2011 Unicode InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/meh Harris/InKey meh esn Harris:
+total 8.0K
+ 4.0K Dec  3  2012 Legacy/
+ 4.0K Dec  3  2012 UnicodeEs/
+
+Groups/TECkit_maps_Mexico/meh Harris/InKey meh esn Harris/Legacy:
+total 16K
+   56 Jul  1  2011 Class.ini
+ 2.4K Jul  1  2011 Legacy.ahk
+   98 Jul  1  2011 Legacy InKey.kbd.ini
+  822 Aug 13  2003 L-kmn.bmp
+
+Groups/TECkit_maps_Mexico/meh Harris/InKey meh esn Harris/UnicodeEs:
+total 16K
+   59 Jul  1  2011 Class.ini
+  246 Jul  1  2011 Unicode.bmp
+ 3.9K Jul  1  2011 UnicodeEs.ahk
+  105 Jul  1  2011 UnicodeEs InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/$MexMix:
+total 128K
+  36K May 15  2008 MEXMIX97.map
+ 2.1K May 15  2008 MEXMIX97.tec
+  36K May 15  2008 MEXMIX.map
+ 2.1K May 15  2008 MEXMIX.tec
+  48K May 15  2008 MIXMICR.TTF
+
+Groups/TECkit_maps_Mexico/$MexOverstrike:
+total 64K
+  41K May 15  2008 MexO000.TTF
+  14K May 15  2008 MexOverstrike.map
+ 1.9K May 15  2008 MexOverstrike.tec
+
+Groups/TECkit_maps_Mexico/$MexStd:
+total 96K
+  49K May 15  2008 MEXSCR.TTF
+  38K May 15  2008 mexstd.map
+ 1.6K May 15  2008 mexstd.tec
+
+Groups/TECkit_maps_Mexico/mig Pike K E-Stark-Dyk:
+total 96K
+  49K May 15  2008 MIXMIGCR.TTF
+  37K May 15  2008 MIXMIG.map
+ 1.9K May 15  2008 MIXMIG.tec
+
+Groups/TECkit_maps_Mexico/mil Daly:
+total 128K
+  49K May 15  2008 MIXDACR.TTF
+  33K May 15  2008 MIXDALY.map
+ 1.9K May 15  2008 MIXDALY.tec
+  32K May 15  2008 MXTMIL.map
+ 1.9K May 15  2008 MXTMIL.tec
+
+Groups/TECkit_maps_Mexico/mim Anderson L-Zylstra:
+total 52K
+ 4.0K Apr 25  2017 Anderson Keyboards/
+ 1.6K Mar 30  2010 MIX.KMN
+ 2.6K Mar 30  2010 MIX.kmx
+ 1.6K May 15  2008 MIXSP.KMN
+ 1.2K May 15  2008 MIXSP.kmx
+  246 May 15  2008 mixtec.bmp
+ 2.0K Jun 22  2016 MIX-Unicode esp teclado.KMN
+ 1.9K Jun 22  2016 MIX-Unicode esp teclado.kmx
+ 1.9K Feb  9  2018 MIX-Unicode.KMN
+ 3.3K Feb  9  2018 MIX-Unicode.kmx
+ 2.0K Feb  9  2018 MIX-Unicode-Lynn.KMN
+ 3.6K Feb  9  2018 MIX-Unicode-Lynn.kmx
+  886 May 15  2013 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mim Anderson L-Zylstra/Anderson Keyboards:
+total 24K
+  822 Jul 25  2003 M.bmp
+ 1.5K Sep  9  2003 MIX.KMN
+ 3.4K Sep  9  2003 MIX.kmx
+ 1.7K Apr  8  2016 MIX-Unicode-Lynn.KMN
+ 3.4K Apr  8  2016 MIX-Unicode-Lynn.kmx
+  886 Apr  8  2016 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mir:
+total 3.5M
+ 4.0K Dec  3  2012 InKey Mixe eng/
+  246 Oct  2  2006 M.bmp
+  53K Jan 28  2009 mexmirdr.TTF
+ 103K Apr 10  2017 mexmirdr.zip
+  34K Jul  9  2009 mexmir.map
+ 1.8K Jul  9  2009 mexmir.tec
+  246 Feb 25  2010 Mixe.bmp
+  223 Sep  2  2015 Mixe Español teclado Legacy.ahk
+ 809K Sep  2  2015 Mixe Español teclado Legacy.exe
+  240 Aug  6  2015 Mixe Español teclado Unicode.ahk
+ 809K Aug  6  2015 Mixe Español teclado Unicode.exe
+  987 Sep 23  2013 Mixe ingles teclado.ahk
+ 800K Sep 23  2013 Mixe ingles teclado.exe
+ 1014 Aug  6  2015 Mixe ingles teclado Unicode.ahk
+ 809K Aug  6  2015 Mixe ingles teclado Unicode.exe
+ 1.3K Feb 25  2010 Mixe.kmn
+ 2.5K Feb 25  2010 Mixe.kmx
+ 3.2K Feb 20  2018 MIXE Unicode.KMN
+ 3.1K Feb 20  2018 MIXE Unicode.kmx
+ 1.6K Jan 29  2010 MIXMIR Alvin.KMN
+ 1.7K Jan 29  2010 MIXMIR Alvin.kmx
+ 1.6K Sep 24  2010 MIXMIR.KMN
+ 2.2K Sep 24  2010 MIXMIR.kmx
+ 1.5K Mar 10  2010 MIXMIR sp.KMN
+  864 Mar 10  2010 MIXMIR sp.kmx
+  886 Feb 20  2018 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mir/InKey Mixe eng:
+total 4.0K
+ 4.0K Dec  3  2012 MEXICO/
+
+Groups/TECkit_maps_Mexico/mir/InKey Mixe eng/MEXICO:
+total 20K
+   56 May 21  2009 Class.ini
+ 4.1K Sep 21  2011 Mexico.ahk
+  318 Jun 29  2009 Mexico.ico
+   99 Nov  4  2009 Mexico InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/mis:
+total 184K
+  35K Jun  5  2012 Keystrokes for Albertha Kuiper using Unicode.doc
+ 1.3K Jun  5  2012 MIX.KMN
+ 2.9K Jun  5  2012 MIX.kmx
+  36K Jun  5  2012 MIXMISCR.map
+  49K May 15  2008 MIXMISCR.TTF
+  35K May 15  2008 MIXMIS.map
+ 1.9K May 15  2008 MIXMIS.tec
+ 2.3K Jun  5  2012 MIXMIS Unicode.KMN
+ 2.7K Jun  5  2012 MIXMIS Unicode.kmx
+  246 May 15  2008 unicode.bmp
+
+Groups/TECkit_maps_Mexico/mit Wistrand:
+total 92K
+  50K May 15  2008 MXTMITCR.TTF
+  36K May 15  2008 MXTMIT.map
+ 2.0K May 15  2008 MXTMIT.tec
+
+Groups/TECkit_maps_Mexico/mix Nieves and Beckman:
+total 28K
+ 4.5K Feb 25  2013 Oaxaca Unicode_Gisela.kmn
+ 4.5K Feb 25  2013 Oaxaca Unicode_Gisela.kmx
+ 1.7K Feb 25  2013 Spanish Unicode_Nieves.KMN
+ 2.3K Feb 25  2013 Spanish Unicode_Nieves.kmx
+  246 Aug 24  2009 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/$MixStd:
+total 96K
+  37K May 15  2008 mixstd.map
+ 2.1K May 15  2008 mixstd.tec
+  49K Jan 27  2000 MIXSTD.TTF
+
+Groups/TECkit_maps_Mexico/$Mixtec Composite Unicode:
+total 1.1M
+  46K Feb 12  2014 Mixtec Composite Unicode AutoHotKey English Keyboard.doc
+ 5.9K Feb 12  2014 Mixtec Composite Unicode English keyboard.ahk
+ 803K Feb 12  2014 Mixtec Composite Unicode English keyboard.exe
+  46K May 15  2008 Mixtec Composite Unicode Keyman Keyboard.doc
+  46K Jun 11  2008 Mixtec Composite Unicode Keyman Keyboard(Penner).doc
+  19K Apr  5  2010 Mixtec Composite Unicode Keyman with Spanish Keyboard.doc
+ 2.6K Mar  9  2011 Mixtec Composite Unicode.KMN
+ 4.2K Mar  9  2011 Mixtec Composite Unicode.kmx
+  29K May 15  2008 Mixtec Composite Unicode.pdf
+ 2.8K Oct 21  2011 Mixtec Composite Unicode(Penner).KMN
+ 4.3K Oct 21  2011 Mixtec Composite Unicode(Penner).kmx
+ 2.3K May 15  2008 Mixtec Composite Unicode Sp KB.KMN
+ 3.6K May 15  2008 Mixtec Composite Unicode Sp KB.kmx
+ 2.5K May  6  2009 Mixtec Composite Unicode Sp KB(Penner).KMN
+ 3.7K May  6  2009 Mixtec Composite Unicode Sp KB(Penner).kmx
+ 2.4K May 18  2017 Mixtec Composite (US International) KB.KMN
+ 1.9K May 18  2017 Mixtec Composite (US International) KB.kmx
+  886 May 18  2017 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/$Mixtst2:
+total 92K
+  36K Oct 23  2006 MIXTST29.map
+ 2.0K Oct 23  2006 MIXTST29.tec
+  49K Jun 14  2000 MIXTST29.TTF
+
+Groups/TECkit_maps_Mexico/$MixtStd:
+total 92K
+  50K May 15  2008 MIXTSTCR.TTF
+  33K May 15  2008 MIXTSTD.map
+ 2.0K May 15  2008 MIXTSTD.tec
+
+Groups/TECkit_maps_Mexico/miy Hills:
+total 2.0M
+ 2.2K Jul  3  2012 AyMixtec.ahk
+ 788K Jul  3  2012 AyMixtec.exe
+ 2.4K Jun  7  2013 AyMixtec Unicode.ahk
+ 801K Jun  7  2013 AyMixtec Unicode.exe
+ 1.5K Feb  5  2003 AyMx2001.kmn
+ 2.8K Feb  5  2003 AyMx2001.kmx
+ 1.7K Jan 29  2008 AyMx2001 Sp KB.kmn
+ 1.8K Jan 29  2008 AyMx2001 Sp KB.kmx
+ 1.8K Jan 29  2018 Ayutla Unicode KB KM9.kmn
+ 3.0K Jan 29  2018 Ayutla Unicode KB KM9.kmx
+ 1.7K Jul  1  2015 Ayutla Unicode KB.kmn
+ 3.1K Jul  1  2015 Ayutla Unicode KB.kmx
+ 1.9K Jul  1  2015 Ayutla Unicode Sp KB.kmn
+ 2.5K Jul  1  2015 Ayutla Unicode Sp KB.kmx
+  36K Mar 25  2015 HillsMixtec.map
+  36K May 15  2008 HillsMixtec-old.map
+ 2.0K May 15  2008 HillsMixtec-old.tec
+ 2.0K Mar 25  2015 HillsMixtec.tec
+  246 Oct  2  2006 M.bmp
+  53K May 15  2008 MIXHILCR.TTF
+  30K May 15  2008 MIXHILLS.map
+ 1.8K May 15  2008 MIXHILLS.tec
+  37K May 15  2008 MXLBR2.TTF
+  51K May 15  2008 MXTMIYCR.TTF
+  35K May 15  2008 MXTMIY.map
+ 2.0K May 15  2008 MXTMIY.tec
+  886 Jul  1  2015 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/miz Small-Turner:
+total 1.2M
+ 239K Aug  6  2015 Como teclear - Mixteco Coatzospan MIZ (teclado español).doc
+  51K May 15  2008 MIXMIZCR.TTF
+  37K May 15  2008 MIXMIZ.map
+ 1.9K May 15  2008 MIXMIZ.tec
+ 2.4K May 15  2008 MIXMIZ Unicode.KMN
+ 2.3K May 15  2008 MIXMIZ Unicode.kmx
+ 1.6K Jul 31  2009 mixmiz Unicode Pris.kmn
+ 2.4K Jul 31  2009 mixmiz Unicode Pris.kmx
+  744 Aug  6  2015 Mixteco Coatzospan MIZ Español teclado Unicode.ahk
+ 809K Aug  6  2015 Mixteco Coatzospan MIZ Español teclado Unicode.exe
+  246 May 15  2008 unicode.bmp
+
+Groups/TECkit_maps_Mexico/mjc Johnson-Stark:
+total 300K
+ 1.6K May 15  2008 Hank Unicode.kmn
+ 1.8K May 15  2008 Hank Unicode.kmx
+ 4.0K Dec  3  2012 InKey mjc esn Johnson/
+  49K May 15  2008 MIXMJCCR.TTF
+  36K May 15  2008 MIXMJC.map
+ 1.9K May 15  2008 MIXMJC.tec
+  246 May 22  2003 mixtec.bmp
+  36K May 15  2008 MIXTMJC.map
+ 1.9K May 15  2008 MIXTMJC.tec
+  49K May 15  2008 MXTMCR.TTF
+ 2.9K May 15  2008 Mxtmjc.kmn
+ 2.4K May 15  2008 Mxtmjc.kmx
+  36K May 15  2008 MXTMJC.map
+ 1.6K Aug 12  2009 mxtmjc Spanish Unicode.kmn
+ 1.9K Aug 12  2009 mxtmjc Spanish Unicode.kmx
+ 1.9K May 15  2008 MXTMJC.tec
+ 1.6K Dec  6  2011 mxtmjcxs Benita Unicode.kmn
+ 1.6K Dec  6  2011 mxtmjcxs Benita Unicode.kmx
+ 1.1K May 15  2008 mxtmjcxs.kmn
+ 3.3K May 15  2008 mxtmjcxs.kmx
+ 1.6K May 15  2008 mxtmjcxs Spanish Unicode.kmn
+ 1.7K May 15  2008 mxtmjcxs Spanish Unicode.kmx
+ 1.3K Aug 12  2009 mxtmjcxs SP.kmn
+ 1.9K Aug 12  2009 mxtmjcxs SP.kmx
+ 1.6K Dec 13  2017 mxtmjcxs Unicode.kmn
+ 3.9K Dec 13  2017 mxtmjcxs Unicode.kmx
+  246 May  6  2003 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mjc Johnson-Stark/InKey mjc esn Johnson:
+total 4.0K
+ 4.0K Dec  3  2012 MexicoEs/
+
+Groups/TECkit_maps_Mexico/mjc Johnson-Stark/InKey mjc esn Johnson/MexicoEs:
+total 16K
+   58 Nov  4  2009 Class.ini
+ 3.9K Jun 17  2011 MexicoEs.ahk
+  102 Jun  8  2011 MexicoEs InKey.kbd.ini
+  318 Jun 29  2009 Mexico.ico
+
+Groups/TECkit_maps_Mexico/mks North-Shields:
+total 92K
+  52K May 15  2008 NORTH0.TTF
+  34K May 15  2008 NORTH.map
+ 1.8K May 15  2008 NORTH.tec
+
+Groups/TECkit_maps_Mexico/mpm Farris:
+total 816K
+  915 Sep  9  2013 Yosondúa Mixtec.ahk
+ 799K Sep  9  2013 Yosondúa Mixtec.exe
+ 9.5K Sep  9  2013 Yosondúa Mixtec.odt
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline):
+total 528K
+ 4.0K Mar 13  2018 AFI/
+ 4.0K Mar 13  2018 mephaaei/
+ 254K Sep 23  2017 mephaaei.zip
+ 4.0K Mar 13  2018 mephaala/
+ 254K Sep 23  2017 mephaala.zip
+ 1.1K Jan 17  2018 Note from Kevin Cline.txt
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI:
+total 1.9M
+ 4.0K Mar 13  2018 afi_int/
+ 928K Jan 12  2018 afi_int.zip
+ 4.0K Mar 13  2018 afi_la/
+ 928K Jan 12  2018 afi_la.zip
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_int:
+total 1.3M
+ 128K Nov 19  2016 afi_int_amd64.msi
+ 128K Nov 19  2016 afi_int_i386.msi
+ 128K Nov 19  2016 afi_int_ia64.msi
+  28K Jan 17  2018 afi_int.klc
+ 684K Nov 19  2016 AFI Unicode 6.2 (ver 1.4) MSK.pdf
+ 4.0K Mar 13  2018 amd64/
+ 4.0K Mar 13  2018 i386/
+ 4.0K Mar 13  2018 ia64/
+ 140K Nov 19  2016 setup.exe
+ 4.0K Mar 13  2018 wow64/
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_int/amd64:
+total 12K
+ 11K Nov 19  2016 afi_int.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_int/i386:
+total 12K
+ 9.5K Nov 19  2016 afi_int.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_int/ia64:
+total 12K
+ 11K Nov 19  2016 afi_int.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_int/wow64:
+total 12K
+ 10K Nov 19  2016 afi_int.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_la:
+total 1.3M
+ 128K Nov 19  2016 afi_la_amd64.msi
+ 128K Nov 19  2016 afi_la_i386.msi
+ 128K Nov 19  2016 afi_la_ia64.msi
+  28K Jan 17  2018 afi_la.klc
+ 684K Nov 19  2016 AFI Unicode 6.2 (ver 1.4) MSK.pdf
+ 4.0K Mar 13  2018 amd64/
+ 4.0K Mar 13  2018 i386/
+ 4.0K Mar 13  2018 ia64/
+ 140K Nov 19  2016 setup.exe
+ 4.0K Mar 13  2018 wow64/
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_la/amd64:
+total 12K
+ 11K Nov 19  2016 afi_la.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_la/i386:
+total 12K
+ 9.5K Nov 19  2016 afi_la.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_la/ia64:
+total 12K
+ 11K Nov 19  2016 afi_la.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/AFI/afi_la/wow64:
+total 12K
+ 10K Nov 19  2016 afi_la.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaaei:
+total 556K
+ 4.0K Mar 13  2018 amd64/
+ 4.0K Mar 13  2018 i386/
+ 4.0K Mar 13  2018 ia64/
+ 128K Apr 26  2014 MephaaEI_amd64.msi
+ 128K Apr 26  2014 MephaaEI_i386.msi
+ 128K Apr 26  2014 MephaaEI_ia64.msi
+  15K Jan 17  2018 MephaaEI.klc
+ 140K Apr 26  2014 setup.exe
+ 4.0K Mar 13  2018 wow64/
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaaei/amd64:
+total 8.0K
+ 7.5K Apr 26  2014 MephaaEI.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaaei/i386:
+total 8.0K
+ 6.5K Apr 26  2014 MephaaEI.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaaei/ia64:
+total 8.0K
+ 7.5K Apr 26  2014 MephaaEI.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaaei/wow64:
+total 8.0K
+ 7.5K Apr 26  2014 MephaaEI.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaala:
+total 556K
+ 4.0K Mar 13  2018 amd64/
+ 4.0K Mar 13  2018 i386/
+ 4.0K Mar 13  2018 ia64/
+ 128K Apr 26  2014 mephaaLA_amd64.msi
+ 128K Apr 26  2014 mephaaLA_i386.msi
+ 128K Apr 26  2014 mephaaLA_ia64.msi
+  14K Jan 17  2018 mephaaLA.klc
+ 140K Apr 26  2014 setup.exe
+ 4.0K Mar 13  2018 wow64/
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaala/amd64:
+total 8.0K
+ 7.5K Apr 26  2014 mephaaLA.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaala/i386:
+total 8.0K
+ 6.5K Apr 26  2014 mephaaLA.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaala/ia64:
+total 8.0K
+ 7.5K Apr 26  2014 mephaaLA.dll
+
+Groups/TECkit_maps_Mexico/$MSKLC Spanish Keyboards (Kevin Cline)/mephaala/wow64:
+total 8.0K
+ 7.0K Apr 26  2014 mephaaLA.dll
+
+Groups/TECkit_maps_Mexico/$MTT Series:
+total 356K
+  38K May 15  2008 MTT2.map
+ 2.3K May 15  2008 MTT2.tec
+  51K May 15  2008 MTT3CR.TTF
+  40K Sep 11  2013 MTT3.map
+ 2.3K Sep 11  2013 MTT3.tec
+  17K May 15  2008 MTT.map
+  51K May 15  2008 MTTMTCR.TTF
+ 2.1K May 15  2008 MTT.tec
+  51K May 15  2008 MTTWCR.TTF
+  38K May 15  2008 MTTWIN.map
+ 2.2K May 15  2008 MTTWIN.tec
+  38K May 15  2008 MXTTST.map
+ 2.0K May 15  2008 MXTTST.tec
+
+Groups/TECkit_maps_Mexico/$MXB unicode Current:
+total 176K
+  60K Mar  2  2018 Keyman unicodeMXB key-in sequences.rtf
+  959 May 15  2008 kmp.inf
+  731 May 15  2008 MXB Unicode key-in sequences.rtf.lnk
+ 8.1K Mar  2  2018 MXB Unicode.kmn
+  14K Mar  2  2018 MXB Unicode.kmx
+  907 May 15  2008 MXB Unicode.kvk
+  63K May 15  2008 MXB Unicode.pdf
+ 1.4K May 15  2008 MXB Unicode.txt
+  110 May 15  2008 Readme.txt
+  886 Mar  2  2018 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mxb Williams J:
+total 36K
+  16K May 15  2008 mexwill.map
+ 2.2K May 15  2008 mexwill.tec
+  246 May 15  2008 Unicode.bmp
+ 1.2K May 15  2008 Will99.kmn
+ 1.7K May 15  2008 Will99Unicode.kmn
+ 2.2K May 15  2008 Will99Unicode.kmx
+
+Groups/TECkit_maps_Mexico/mxq Schoenhals-Miller:
+total 72K
+  246 May 15  2008 M.bmp
+  36K May 15  2008 MEXMXQ.map
+ 1.7K May 15  2008 MEXMXQ.tec
+ 1.3K May 15  2008 MIXE.KMN
+ 2.5K May 15  2008 Mixe.kmx
+ 3.2K Mar  4  2009 MIXE Unicode.KMN
+ 2.5K Mar  4  2009 MIXE Unicode.kmx
+ 1.5K May 15  2008 MIXMIR.KMN
+ 2.3K May 15  2008 MIXMIR.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mxv Hillman-Overholt:
+total 20K
+ 4.0K Dec  3  2012 InKey mxv eng Valerie Hillman/
+ 4.0K Dec  3  2012 InKey mxv esn Hillman/
+ 1.7K Jun 26  2013 mxtmjc Spanish Unicode Santiago.kmn
+ 2.4K Jun 26  2013 mxtmjc Spanish Unicode Santiago.kmx
+  886 Jun 26  2013 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mxv Hillman-Overholt/InKey mxv eng Valerie Hillman:
+total 4.0K
+ 4.0K Dec  3  2012 Unicode/
+
+Groups/TECkit_maps_Mexico/mxv Hillman-Overholt/InKey mxv eng Valerie Hillman/Unicode:
+total 20K
+   57 Jul  1  2011 Class.ini
+ 4.1K Aug 28  2012 Unicode.ahk
+  246 Feb 25  2010 Unicode.bmp
+  102 Jul  1  2011 Unicode InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/mxv Hillman-Overholt/InKey mxv esn Hillman:
+total 4.0K
+ 4.0K Dec  3  2012 MexicoEs/
+
+Groups/TECkit_maps_Mexico/mxv Hillman-Overholt/InKey mxv esn Hillman/MexicoEs:
+total 16K
+   58 Nov  4  2009 Class.ini
+ 3.8K Jul  1  2011 MexicoEs.ahk
+  102 Sep 28  2010 MexicoEs InKey.kbd.ini
+  318 Jun 29  2009 Mexico.ico
+
+Groups/TECkit_maps_Mexico/mxy Hugghins-McKendry:
+total 116K
+  16K May 15  2008 DAVI2.map
+ 1.8K May 15  2008 DAVI2.tec
+  48K May 15  2008 DAVICR.TTF
+  246 May 15  2008 IPA.bmp
+  246 May 15  2008 MIXTEC.bmp
+ 1.8K May 15  2008 senipa.kmn
+ 4.5K May 15  2008 senipa.kmx
+ 1.7K May 15  2008 senmix.kmn
+ 3.4K May 15  2008 senmix.kmx
+  246 May 15  2008 Unicode.bmp
+ 1.5K May 15  2008 XEE.KMN
+ 3.2K May 15  2008 XEE.kmx
+ 1.7K Jun  9  2008 XEE Unicode.KMN
+ 2.7K Jun  9  2008 XEE Unicode.kmx
+
+Groups/TECkit_maps_Mexico/mza Towne:
+total 20K
+ 1.1K May 15  2008 TOWNE.KMN
+ 2.6K May 15  2008 TOWNE.kmx
+ 1.4K Jun 22  2011 TOWNE Unicode.KMN
+ 3.0K Jun 22  2011 TOWNE Unicode.kmx
+  246 May  6  2003 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/mzc:
+total 72K
+  46K May 15  2008 MEXMZCCR.TTF
+  17K Apr 26  2010 MEXMZC.map
+ 2.3K Apr 26  2010 MEXMZC.tec
+
+Groups/TECkit_maps_Mexico/mzl Hoogshagen:
+total 92K
+  48K May 15  2008 HooHoDR.TTF
+  38K May 15  2008 HooHoo.map
+ 2.5K May 15  2008 HooHoo.tec
+
+Groups/TECkit_maps_Mexico/nav Navajo:
+total 112K
+  65K Aug 27  2014 na346822.ttf
+  38K Aug 27  2014 NavWin.map
+ 1.9K Aug 27  2014 NavWin.tec
+
+Groups/TECkit_maps_Mexico/nhm Mueller:
+total 12K
+ 246 May 15  2008 H.bmp
+ 897 May 15  2008 nhm Hueyapan.kmn
+ 944 May 15  2008 nhm Hueyapan.kmx
+
+Groups/TECkit_maps_Mexico/nhx Hurst:
+total 1.9M
+  56K Dec 19  2013 Como tecla en Isthmus Nahutl (teclado ingles).doc
+ 125K Nov 12  2013 Como teclear - Nahuatl Mecayapan nhx (teclado español)1.doc
+ 2.4K Aug 26  2005 HURSDR.tec
+  49K May 15  2008 HURSDR.TTF
+  39K May 15  2008 HURSSTD.map
+ 2.4K May 15  2008 HURSSTD.tec
+ 4.0K Dec  3  2012 InKey Nahuatl eng Hurst/
+ 4.0K Dec  3  2012 InKey Nahuatl esn Hurst/
+ 2.1K Dec 19  2013 Nahuatl Isthmus (eng).ahk
+ 800K Dec 19  2013 Nahuatl Isthmus (eng).exe
+ 1.4K Dec 19  2013 Nahuatl Isthmus (esp).ahk
+ 800K Dec 19  2013 Nahuatl Isthmus (esp).exe
+ 4.5K May 15  2008 NAHUATL.KMN
+ 3.2K May 15  2008 NAHUATL.kmx
+ 5.0K Mar 12  2010 NAHUATL Unicode.KMN
+ 3.3K Mar 12  2010 NAHUATL Unicode.kmx
+  246 May 15  2008 NAWKEY.bmp
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/nhx Hurst/InKey Nahuatl eng Hurst:
+total 4.0K
+ 4.0K Dec  3  2012 MEXICO/
+
+Groups/TECkit_maps_Mexico/nhx Hurst/InKey Nahuatl eng Hurst/MEXICO:
+total 20K
+   56 May 21  2009 Class.ini
+ 4.1K Jul 21  2011 Mexico.ahk
+  318 Jun 29  2009 Mexico.ico
+   99 Nov  4  2009 Mexico InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/nhx Hurst/InKey Nahuatl esn Hurst:
+total 4.0K
+ 4.0K Dec  3  2012 MexicoEs/
+
+Groups/TECkit_maps_Mexico/nhx Hurst/InKey Nahuatl esn Hurst/MexicoEs:
+total 16K
+   58 Nov  4  2009 Class.ini
+ 4.0K Sep 22  2011 MexicoEs.ahk
+  102 Sep 28  2010 MexicoEs InKey.kbd.ini
+  318 Jun 29  2009 Mexico.ico
+
+Groups/TECkit_maps_Mexico/nln Castro:
+total 348K
+  55K Jul  4  2008 CASCACC0.TTF
+  54K Jul  4  2008 CASCACI0.TTF
+ 1.4K Jul  4  2008 CASTRO1.KMN
+ 3.5K Jul  4  2008 CASTRO1.kmx
+  16K Dec  7  2009 CASTRO.map
+ 2.0K Dec  7  2009 CASTRO.tec
+ 1.7K Dec  7  2009 CASTRO Unicode.KMN
+ 3.8K Dec  7  2009 CASTRO Unicode.kmx
+  46K Jul  4  2008 MX151555.TTF
+  51K Dec  7  2009 MX1 Catro1 SILDoulosL Fontchrt.pdf
+  45K Jul  4  2008 MX785453.TTF
+  48K Jul  4  2008 MX89860.TTF
+  246 May  6  2003 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/nlv Tuggy:
+total 76K
+ 3.1K May 15  2008 Nawatl.kmn
+ 5.4K May 15  2008 Nawatl.kmx
+  334 May 15  2008 NawKey0.bmp
+  334 May 15  2008 NawKey1.bmp
+  246 May 15  2008 NAWKEY.bmp
+  38K May 15  2008 Tugg001.TTF
+ 3.5K May 15  2008 Tuggy.kmn
+ 5.5K May 15  2008 Tuggy.kmx
+
+Groups/TECkit_maps_Mexico/$Oaxaca Unicode:
+total 120K
+  38K May  2  2008 Clave para teclear usando las fuentes Charis SIL o Doulos SIL.pdf
+  55K Jun 19  2009 Oaxaca Unicode Keying Chart.doc
+ 1.3K Nov  6  2008 Oaxaca Unicode Keying Chart.txt
+ 4.5K Oct 18  2012 Oaxaca Unicode.kmn
+ 4.5K Oct 18  2012 Oaxaca Unicode.kmx
+  246 May  6  2003 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/ote Lanier-Sinclair:
+total 1.8M
+  52K May 15  2008 MEXOTECR.TTF
+  34K May 15  2008 MEXOTE.map
+ 1.8K May 15  2008 MEXOTE.tec
+  46K May 15  2008 MezqDR.ttf
+  34K May 15  2008 Mezqtl.map
+ 2.3K May 15  2008 Mezqtl.tec
+ 1.2K Oct 27  2014 Otomi es.ahk
+ 800K Oct 27  2014 Otomi es.exe
+ 1.3K Sep 15  2015 Otomi es Unicode.ahk
+ 809K Sep 15  2015 Otomi es Unicode.exe
+ 1.2K Jun  7  2008 Otomi Unicode Spanish..kmn
+ 1.7K Jun  7  2008 Otomi Unicode Spanish..kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/otm Echegoyen-Viogtlander:
+total 548K
+ 4.0K Dec  3  2012 InKey Otomi esn/
+  47K May 15  2008 MEXOTMDR.TTF
+  34K May 15  2008 MEXOTM.map
+ 2.1K May 15  2008 MEXOTM.tec
+  35K Oct 10  2008 MEXOTO2.map
+ 2.2K Oct 10  2008 MEXOTO2.tec
+ 2.5K Mar 16  2016 Mexoto es Unicode.kmn
+ 2.5K Mar 16  2016 Mexoto es Unicode.kmx
+ 1.9K May 15  2008 Mexoto.kmn
+ 3.1K May 15  2008 Mexoto.kmx
+  36K May 15  2008 MEXOTO.map
+ 2.1K May 15  2008 MEXOTO.tec
+ 1.8K Aug 16  2012 Mexoto-U.kmn
+ 2.1K Aug 16  2012 Mexoto-U.kmn.txt
+ 3.1K Aug 16  2012 Mexoto-U.kmx
+  47K May 15  2008 OTNCR.TTF
+  35K May 15  2008 OTN.map
+ 2.5K May 15  2008 OTN.tec
+  44K May 15  2008 Oto000.TTF
+  37K May 15  2008 OTO.map
+  48K May 15  2008 OTOMI2CR.TTF
+  246 May 15  2008 otomi.bmp
+ 9.5K Apr  2  2012 Otomi Unicode.doc
+ 2.7K May 15  2008 OTO.tec
+  44K May 15  2008 OTOVJODR.TTF
+ 2.8K May 15  2008 Otovjo.kmn
+ 4.5K May 15  2008 Otovjo.kmx
+  40K May 15  2008 OTOVJO.map
+ 2.4K May 15  2008 OTOVJO.tec
+  886 Mar 15  2016 Unicode.bmp
+  246 May 15  2008 Viejos.bmp
+
+Groups/TECkit_maps_Mexico/otm Echegoyen-Viogtlander/InKey Otomi esn:
+total 8.0K
+ 4.0K Dec  3  2012 MexicoEs/
+ 4.0K Dec  3  2012 MexicoL/
+
+Groups/TECkit_maps_Mexico/otm Echegoyen-Viogtlander/InKey Otomi esn/MexicoEs:
+total 16K
+   58 Nov  4  2009 Class.ini
+ 3.7K Jan 24  2012 MexicoEs.ahk
+  102 Nov 25  2009 MexicoEs InKey.kbd.ini
+  318 Jun 29  2009 Mexico.ico
+
+Groups/TECkit_maps_Mexico/otm Echegoyen-Viogtlander/InKey Otomi esn/MexicoL:
+total 16K
+   57 Dec 14  2010 Class.ini
+  822 Dec 14  2010 Legacy.bmp
+ 2.9K Jul  1  2011 MexicoL.ahk
+  100 Dec 14  2010 MexicoL InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/pbs Berthiaume-Gibson-Smith N:
+total 100K
+  46K May 15  2008 MEXPBSCR.TTF
+  36K May 15  2008 MEXPBS.map
+ 2.3K May 15  2008 MEXPBS.tec
+ 1.3K May 15  2008 NormaS.kmn
+ 2.9K May 15  2008 NormaS.kmx
+  246 May 15  2008 pame.bmp
+
+Groups/TECkit_maps_Mexico/pmq Berthiaume:
+total 12K
+ 1.3K May 15  2008 PMQ.kmn
+  896 May 15  2008 PMQ.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/poe Austin-Kalstrom:
+total 1.1M
+  53K May 15  2008 MEXPOECR.TTF
+  35K May 15  2008 MEXPOE.map
+ 1.8K May 15  2008 MEXPOE.tec
+  50K May 15  2008 MEXPOICR.TTF
+  35K May 15  2008 MEXPOI.map
+ 2.0K Jul 28  2008 MEXPOI.tec
+ 1.6K May 15  2008 pop.kmn
+ 2.7K May 15  2008 pop.kmx
+  246 May 15  2008 popoluca.bmp
+ 2.5K Jan 13  2015 Popoluca-en.ahk
+ 800K Jan 13  2015 Popoluca-en.exe
+ 2.1K Oct 29  2018 pop-Unicode.kmn
+ 3.5K Oct 29  2018 pop-Unicode.kmx
+ 2.0K May 26  2015 pop-Unicode Spanish (1).kmn
+ 1.5K May 26  2015 pop-Unicode Spanish (1).kmx
+ 2.1K Oct 29  2018 pop-Unicode Spanish.kmn
+ 2.2K Oct 29  2018 pop-Unicode Spanish.kmx
+  886 Aug 31  2017 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/poi Elson-Lind:
+total 1.8M
+  41K Sep 16  2013 Como tecla en Popoluca.doc
+  43K Feb 12  2015 How to key Popoluca with an English keyboard.doc
+  52K May 15  2008 LINDDR.TTF
+ 1.2K May  1  2003 LIND.KMN
+ 2.4K May  1  2003 Lind.kmx
+  35K May 15  2008 LIND.map
+ 1.2K Jun  4  2010 LIND spanish kb.KMN
+ 1.4K Jun  4  2010 LIND spanish kb.kmx
+ 2.0K May 15  2008 LIND.tec
+ 1.3K May 13  2011 LIND-U.KMN
+ 1.7K Mar 15  2013 LIND-Unicode.KMN
+ 2.8K Mar 15  2013 LIND-Unicode.kmx
+ 1.7K Nov 18  2011 LIND-Unicode-Spanish.KMN
+ 1.5K Nov 18  2011 LIND-Unicode-Spanish.kmx
+  246 May 15  2008 m.bmp
+ 1.9K Sep 16  2013 Popoluca.ahk
+ 2.8K Feb 12  2015 Popoluca-en.ahk
+ 801K Feb 12  2015 Popoluca-en.exe
+ 800K Sep 16  2013 Popoluca.exe
+ 1.6K Jun 28  2002 span.kmn
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/$Randy Spiers:
+total 48K
+  246 May 15  2008 a.bmp
+ 7.8K May 15  2008 ASSYRPHN.KMN
+ 4.7K May 15  2008 ASSYRPHN.kmx
+ 1.8K May 15  2008 CALDAICA.KMN
+ 3.0K May 15  2008 CALDAICA.kmx
+  246 May 15  2008 C.bmp
+  246 May 15  2008 T.bmp
+ 2.8K May 15  2008 TEWA.KMN
+ 5.3K May 15  2008 TEWA.kmx
+
+Groups/TECkit_maps_Mexico/saypop:
+total 96K
+  38K May 15  2008 SAYPOP.map
+ 2.4K May 15  2008 SAYPOP.tec
+  49K May 15  2008 SAYSADR.TTF
+
+Groups/TECkit_maps_Mexico/$Spanish Unicode:
+total 12K
+ 1.7K Aug 24  2009 Spanish Unicode.KMN
+ 2.0K Aug 24  2009 Spanish Unicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/stp Willett:
+total 572K
+ 4.0K Dec  3  2012 mextep/
+  382 May 15  2008 MexTep.bmp
+  53K May 15  2008 MEXTEPCR.TTF
+ 257K May 15  2008 mextep.kmp
+ 4.6K May 15  2008 mextep.kmx
+  41K Sep 30  2015 MEXTEP.map
+ 155K May 15  2008 mextep.pdf
+ 3.5K May 15  2008 MexTepSpan.kmn
+ 1.4K May 15  2008 MexTepSpan.kmx
+ 1.7K Sep 30  2015 MEXTEP.tec
+ 3.9K Nov  3  2011 MexTepU.kmn
+ 4.7K Nov  3  2011 MexTepU.kmx
+ 3.9K Nov  4  2011 SpanTepU.kmn
+ 4.7K Nov  4  2011 SpanTepU.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/stp Willett/mextep:
+total 580K
+ 3.1K Dec 12  2003 ipatep.kmx
+  931 Dec 19  2003 kmp.inf
+  53K May 14  1999 MEXTEPCB.TTF
+  55K May 14  1999 MEXTEPCC.TTF
+  54K May 14  1999 MEXTEPCI.TTF
+  53K May 14  1999 MEXTEPCR.TTF
+ 183K Jun  7  2010 MexTep Keyboard and Fonts p1.pdf
+ 155K Dec 19  2003 MexTep Keyboard and Fonts.pdf
+ 4.6K Dec 12  2003 mextep.kmx
+
+Groups/TECkit_maps_Mexico/tcf Weathers M:
+total 2.2M
+  31K May 16  2005 ARIALME5.TTF
+  32K Nov  2  2004 ARI-CAR4.TTF
+  35K May 16  2005 BAHAMME5.TTF
+  46K May 16  2005 CHANCME5.TTF
+  35K May 16  2005 COURNME5.TTF
+  44K Nov  2  2004 CUPERME4.TTF
+  58K Nov 22  2010 Fuentes_p_Me'phaa_6_2010.doc
+ 258K Nov 22  2010 Fuentes_p_Me'phaa_6_2010.pdf
+ 899K Nov 22  2010 Fuentes_p_Me'phaa_6_2010_w-TTF.doc
+  822 Apr  4  2018 Me'phaa7.bmp
+  15K Jan 20  2012 me'phaa.map
+ 2.1K Jan 20  2012 me'phaa.tec
+ 5.8K Apr  4  2018 ME'PRAC10u.KMN
+ 6.9K Apr  4  2018 ME'PRAC10u.kmx
+ 5.8K Apr  4  2018 ME'PRAC7u.KMN
+ 7.4K Apr  4  2018 ME'PRAC7u.kmx
+  52K Mar 15  2007 Saltillo-codepoints_Approved-UTC-109(Nov'06).JPG
+ 137K Nov 22  2010 Tabla_Fuente_TimesNRMe'phaa-4.pdf
+ 517K Nov 22  2010 Tabla_Fuente_TimesNRMe'phaa-4_TTF.doc
+  36K May 16  2005 TMSNRME5.TTF
+
+Groups/TECkit_maps_Mexico/tpp Rios Gulmaro-Watters:
+total 804K
+  232 Jul 30  2014 Gulmaro (esp).ahk
+ 799K Jul 30  2014 Gulmaro (esp).exe
+
+Groups/TECkit_maps_Mexico/tqt Andersen G:
+total 52K
+  24K May 15  2008 Gerry Anderson Unicode chart.doc
+ 4.0K Dec  3  2012 InKey IPA for Gerry Anderson/
+  246 May 15  2008 T.bmp
+ 1.3K May 15  2008 Tot.KMN
+ 2.1K May 15  2008 Tot.kmx
+ 1.4K May 15  2008 Tot Unicode.kmn
+ 2.3K May 15  2008 Tot Unicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/tqt Andersen G/InKey IPA for Gerry Anderson:
+total 52K
+ 49K Dec  5  2011 IPA.ahk
+
+Groups/TECkit_maps_Mexico/tsz Lathrop:
+total 96K
+  54K May 15  2008 MEXTSZCR.TTF
+  33K May 15  2008 MEXTSZ.map
+ 1.7K May 15  2008 MEXTSZ.tec
+
+Groups/TECkit_maps_Mexico/vmj Penner:
+total 12K
+ 2.2K May 15  2008 Mixtstd-SP Penner.kmn
+ 3.9K May 15  2008 Mixtstd-SP Penner.kmx
+ 1.5K May 15  2008 MX1.BMP
+
+Groups/TECkit_maps_Mexico/vmm Whitman-Hugghins-McKendry:
+total 20K
+ 4.0K Dec  3  2012 InKey UnicodeLeroy/
+ 3.2K May 15  2008 MXB+Unicode(LeRoy).kmn
+ 5.4K May 15  2008 MXB+Unicode(LeRoy).kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/vmm Whitman-Hugghins-McKendry/InKey UnicodeLeroy:
+total 16K
+   62 Dec 17  2009 Class.ini
+  113 Dec 17  2009 MexicoTest InKey.kbd.ini
+ 1.4K Dec 15  2009 UnicodeG.ico
+ 2.6K Mar 16  2012 UnicodeLeroy.ahk
+
+Groups/TECkit_maps_Mexico/vmp Beal:
+total 72K
+  246 May 15  2008 Mazatec.bmp
+  996 May 15  2008 MAZSOY.KMN
+ 3.8K May 15  2008 MAZSOY.kmx
+  40K May 15  2008 MAZSOY.map
+ 1.9K May 15  2008 MAZSOY.tec
+ 2.7K May 15  2008 MAZSOYUnicode.KMN
+ 4.3K May 15  2008 MAZSOYUnicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/vmy Williams L:
+total 48K
+  334 May 15  2008 Mazatec1.bmp
+  813 May 15  2008 MAZATECA.kmn
+ 3.3K May 15  2008 MAZATECA.kmx
+  860 May 15  2008 MAZATEC.KMN
+ 3.4K May 15  2008 MAZATEC.kmx
+ 1001 May 15  2008 MAZATEC Unicode.KMN
+ 3.3K May 15  2008 MAZATEC Unicode.kmx
+ 1.6K May 15  2008 Mazstd.kmn
+ 1.2K May 15  2008 Mazstd.kmx
+ 1.6K May 15  2008 Maztlap.kmn
+ 1.3K May 15  2008 Maztlap.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/xomix:
+total 92K
+  52K May 15  2008 xomixdr.TTF
+  35K May 15  2008 xomix.map
+ 1.9K May 15  2008 xomix.tec
+
+Groups/TECkit_maps_Mexico/xtd Kuiper-Oram:
+total 72K
+  41K May 15  2008 mi299733.TTF
+ 1.3K May 15  2008 MIX.KMN
+ 2.9K May 15  2008 MIX.kmx
+ 1.8K May 15  2008 MIXMIZ.KMN
+ 2.5K May 15  2008 Mixmiz.kmx
+ 2.3K May 15  2008 MIXMIZ Unicode.KMN
+ 2.3K May 15  2008 MIXMIZ Unicode.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/xtj Barkley:
+total 88K
+  38K Mar 21  2012 Barkleymexstd.map
+ 1.7K Mar 21  2012 Barkleymexstd.tec
+  37K Mar 21  2012 Barkleymixstd.map
+ 2.2K Mar 21  2012 Barkleymixstd.tec
+
+Groups/TECkit_maps_Mexico/xtm Hollenbach:
+total 124K
+ 1.1K May 15  2008 Hollenb.kmn
+ 2.2K May 15  2008 Hollenb.kmx
+  49K May 15  2008 MIXT45CR.TTF
+  38K May 15  2008 MIXT45.map
+ 2.0K May 15  2008 MIXT45.tec
+  246 May 15  2008 mixtec.bmp
+ 2.7K Jan  4  2013 Mixtec Composite Unicode.KMN
+ 4.2K Jan  3  2013 Mixtec Composite Unicode.kmx
+  246 Jan  4  2013 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/xtn Gittlen:
+total 44K
+  930 May 15  2008 gittlen.kmn
+ 1.6K May 15  2008 gittlen.kmx
+ 2.5K Jan 26  2010 gittlen Unicode_a.kmn
+ 2.4K Jan 26  2010 gittlen Unicode_a.kmx
+ 1.8K Oct 21  2009 gittlen Unicode.kmn
+ 1.7K Oct 21  2009 gittlen Unicode.kmx
+  246 May 15  2008 M.bmp
+  246 May 15  2008 spanish.bmp
+ 1.6K May 15  2008 span.kmn
+ 1.8K May 15  2008 span.kmx
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/zab Jones:
+total 40K
+  246 May  6  2003 Unicode.bmp
+  246 May 15  2008 Zapotec.bmp
+ 1.3K May 15  2008 zapzab3.kmn
+ 1.3K Sep 10  2003 zapzab.kmn
+ 2.2K May 15  2008 zapzab.kmx
+ 1.4K May 15  2008 zapzabs3.kmn
+ 1.4K May 15  2008 zapzabs.kmn
+ 1.4K May 15  2008 zapzabs.kmx
+ 1.5K May 19  2009 zapzab Unicode.kmn
+ 2.3K May 18  2009 zapzab Unicode.kmx
+
+Groups/TECkit_maps_Mexico/zae Smith-Thiessen-Valverde:
+total 948K
+  246 May 15  2008 Unicode.bmp
+  559 Nov 12  2013 zae español.ahk
+ 799K Nov 12  2013 zae español.exe
+  206 May 15  2008 ZAPON.BMP
+  246 May 15  2008 ZAPZAE.bmp
+  51K May 15  2008 ZAPZAECR.TTF
+ 1.9K May 15  2008 zapzae.kmn
+ 2.7K May 15  2008 zapzae.kmx
+  41K May 15  2008 ZAPZAE.map
+ 2.1K May 15  2008 zapzae Spanish kb.kmn
+ 1.6K May 15  2008 zapzae Spanish kb.kmx
+ 1.7K May 15  2008 ZAPZAE.tec
+ 2.1K Jun 17  2011 zapzae Unicode.kmn
+ 2.7K Jun 17  2011 zapzae Unicode.kmx
+ 2.2K May 15  2008 zapzae Unicode Spanish kb.kmn
+ 1.6K May 15  2008 zapzae Unicode Spanish kb.kmx
+
+Groups/TECkit_maps_Mexico/zai Embry-Pickett-Villalobos-Alsop-Kolderup:
+total 176K
+  83K May 15  2008 Zapzaichrt.doc
+  52K May 15  2008 ZAPZAIDR.rtf
+  36K May 15  2008 ZAPZAI.map
+ 1.7K May 15  2008 ZAPZAI.tec
+
+Groups/TECkit_maps_Mexico/$ZAPSTD:
+total 180K
+  83K May 15  2008 Zapstdchrt.doc
+  54K May 15  2008 ZAPSTDCR.TTF
+  35K May 15  2008 ZAPSTD.map
+ 1.6K May 15  2008 ZAPSTD.tec
+
+Groups/TECkit_maps_Mexico/zas Martinez Josefa--Kreikebaum:
+total 184K
+  246 May 15  2008 Zapotec.bmp
+ 1.4K May 15  2008 ZAPZAS1.KMN
+ 2.5K May 15  2008 ZAPZAS1.kmx
+  83K May 15  2008 zapzaschrt.doc
+  34K May 15  2008 ZAPZAS.map
+ 2.3K May 15  2008 ZAPZAS.tec
+  46K May 15  2008 ZAPZAS.TTF
+
+Groups/TECkit_maps_Mexico/zat Earl:
+total 312K
+  246 May 15  2008 Zapotec.bmp
+  50K May 15  2008 ZAPZAT60.TTF
+  50K May 15  2008 ZAPZAT61.TTF
+  49K May 15  2008 ZAPZAT62.TTF
+  48K May 15  2008 ZAPZAT6S.TTF
+  49K May 15  2008 ZAPZATCR.TTF
+ 2.2K May 15  2008 zapzat.cst
+ 1.5K May 15  2008 Zapzat.kmn
+ 2.3K May 15  2008 Zapzat.kmx
+  34K Oct  5  2011 ZAPZAT.map
+ 2.1K Oct  5  2011 ZAPZAT.tec
+
+Groups/TECkit_maps_Mexico/zaw Stubblefield:
+total 200K
+  48K May 15  2008 MEXSTCR.TTF
+  38K May 15  2008 MEXSTUB.map
+ 2.5K May 15  2008 MEXSTUB.tec
+  246 May  6  2003 Unicode.bmp
+  639 Jun  2  2009 zaw2Unicode.cct
+  34K May 15  2008 ZAXZAW.map
+ 1.8K May 15  2008 ZAXZAW.tec
+ 2.2K Jun 25  2009 ZAXZAW Unicode.KMN
+ 2.9K Jun 25  2009 ZAXZAW Unicode.kmx
+  52K May 15  2008 ZAXZCR.TTF
+
+Groups/TECkit_maps_Mexico/zca Benton:
+total 340K
+  53K May 15  2008 BENBECC0.TTF
+  49K May 15  2008 BENBECR.TTF
+  246 May 15  2008 Benton.bmp
+  44K May 15  2008 BENTONCH.map
+ 2.1K May 15  2008 BENTONCH.tec
+  51K May 15  2008 BENTONCR.TTF
+ 2.9K May 15  2008 BENTON.KMN
+ 4.6K May 15  2008 BENTON.kmx
+  43K May 15  2008 BENTON.map
+  983 Oct  3  2008 BENTON Spanish Unicode.KMN
+  962 Oct  3  2008 BENTON Spanish Unicode.kmx
+ 2.1K May 15  2008 BENTON.tec
+ 3.9K May  7  2013 BENTON UnicodeA.KMN
+ 5.7K May  7  2013 BENTON UnicodeA.kmx
+  27K May  7  2013 Benton Unicode keystrokes for Charis SIL AMArea fonts.doc
+ 3.6K Mar  8  2012 BENTON Unicode.KMN
+ 5.2K Mar  8  2012 BENTON Unicode.kmx
+  822 May  7  2013 UnicodeA.bmp
+  246 May 15  2008 Unicode.bmp
+
+Groups/TECkit_maps_Mexico/zoque:
+total 232K
+  83K May 15  2008 Zoquechrt.doc
+  52K May 15  2008 ZOQUECR.rtf
+  54K May 15  2008 ZOQUECR.TTF
+  35K May 15  2008 ZOQUE.map
+ 1.6K May 15  2008 ZOQUE.tec
+
+Groups/TECkit_maps_Mexico/zpc Lyman:
+total 940K
+  15K Mar  2  2017 How to key zpc with an English keyboard.docx
+  822 Mar  2  2017 unicodeblue.bmp
+  246 Apr 25  2017 Unicode.bmp
+  822 Mar  2  2017 zapon7.bmp
+  246 May 26  2015 Zapotec.bmp
+ 1.6K Mar  3  2017 ZAPZPC7.KMN
+ 3.8K Mar  3  2017 ZAPZPC7.kmx
+ 2.1K Mar  3  2017 ZAPZPC7U.KMN
+ 3.1K Mar  3  2017 ZAPZPC7U.kmx
+  51K Dec 16  2013 ZAPZPCCB.TTF
+  54K Dec 16  2013 ZAPZPCCC.TTF
+  53K Dec 16  2013 ZAPZPCCI.TTF
+  37K Jan  2  2014 zapzpccr.map
+ 1.8K Jan  2  2014 zapzpccr.tec
+  52K Jul  2  2009 ZAPZPCCR.TTF
+ 1.4K Jun 25  2009 ZAPZPC.KMN
+  37K Jun 25  2009 ZAPZPC.map
+  52K Jun 25  2009 ZAPZPC.rtf
+ 1.8K Jun 25  2009 ZAPZPC.tec
+ 2.5K Jan 16  2010 ZbThumbnail.info
+ 4.0K Apr 25  2017 zpc_leg/
+ 259K Jul  6  2009 zpc_leg.zip
+ 4.0K Apr 25  2017 zpc_uni/
+ 259K Jul  6  2009 zpc_uni.zip
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg:
+total 4.0K
+ 4.0K Apr 25  2017 zpc_leg/
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg/zpc_leg:
+total 512K
+ 4.0K Apr 25  2017 amd64/
+ 4.0K Apr 25  2017 i386/
+ 4.0K Apr 25  2017 ia64/
+ 140K Jul  6  2009 setup.exe
+ 4.0K Apr 25  2017 wow64/
+ 112K Jul  6  2009 ZPC_Leg_amd64.msi
+ 112K Jul  6  2009 ZPC_Leg_i386.msi
+ 112K Jul  6  2009 ZPC_Leg_ia64.msi
+  18K Jul  6  2009 ZPC_Leg.klc
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg/zpc_leg/amd64:
+total 8.0K
+ 8.0K Jul  6  2009 ZPC_Leg.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg/zpc_leg/i386:
+total 8.0K
+ 7.0K Jul  6  2009 ZPC_Leg.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg/zpc_leg/ia64:
+total 8.0K
+ 8.0K Jul  6  2009 ZPC_Leg.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_leg/zpc_leg/wow64:
+total 8.0K
+ 7.5K Jul  6  2009 ZPC_Leg.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni:
+total 4.0K
+ 4.0K Apr 25  2017 zpc_uni/
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni/zpc_uni:
+total 512K
+ 4.0K Apr 25  2017 amd64/
+ 4.0K Apr 25  2017 i386/
+ 4.0K Apr 25  2017 ia64/
+ 140K Jul  6  2009 setup.exe
+ 4.0K Apr 25  2017 wow64/
+ 112K Jul  6  2009 ZPC_Uni_amd64.msi
+ 112K Jul  6  2009 ZPC_Uni_i386.msi
+ 112K Jul  6  2009 ZPC_Uni_ia64.msi
+  18K Jul  6  2009 ZPC_Uni.klc
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni/zpc_uni/amd64:
+total 8.0K
+ 8.0K Jul  6  2009 ZPC_Uni.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni/zpc_uni/i386:
+total 8.0K
+ 7.0K Jul  6  2009 ZPC_Uni.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni/zpc_uni/ia64:
+total 8.0K
+ 8.0K Jul  6  2009 ZPC_Uni.dll
+
+Groups/TECkit_maps_Mexico/zpc Lyman/zpc_uni/zpc_uni/wow64:
+total 8.0K
+ 7.5K Jul  6  2009 ZPC_Uni.dll
+
+Groups/TECkit_maps_Mexico/zpf Delombard-Martinez-:
+total 3.3M
+ 4.0K Dec  3  2012 InKey zpf Martinez Zapotec/
+  246 May 15  2008 NawKey.bmp
+  434 Jun 16  2015 Nicasio.ahk
+  434 May 25  2017 Nicasio espanol.ahk
+ 809K May 25  2017 Nicasio espanol.exe
+ 809K Jun 16  2015 Nicasio.exe
+ 1.9K May 15  2008 Nicasio.KMN
+ 1.8K May 15  2008 Nicasio.kmx
+ 2.0K Sep 30  2009 Nicasio Unicode.KMN
+ 1.8K Sep 30  2009 Nicasio Unicode.kmx
+  246 May 15  2008 spanish.bmp
+ 1.4K May 15  2008 SPAN.KMN
+ 1.8K May 15  2008 SPAN.kmx
+  246 May  6  2003 Unicode.bmp
+ 1.3K Oct  8  2013 zpf English keyboard.ahk
+ 810K May 23  2015 zpf English keyboard.exe
+  193 Jun 16  2015 zpf Spanish keyboard.ahk
+ 809K Jun 16  2015 zpf Spanish keyboard.exe
+
+Groups/TECkit_maps_Mexico/zpf Delombard-Martinez-/InKey zpf Martinez Zapotec:
+total 4.0K
+ 4.0K Dec  3  2012 UnicodeEs/
+
+Groups/TECkit_maps_Mexico/zpf Delombard-Martinez-/InKey zpf Martinez Zapotec/UnicodeEs:
+total 16K
+   59 Jul  1  2011 Class.ini
+  246 Jul  1  2011 Unicode.bmp
+ 3.9K Jan 17  2012 UnicodeEs.ahk
+  105 Jul  1  2011 UnicodeEs InKey.kbd.ini
+
+Groups/TECkit_maps_Mexico/zpg Kreutz-Morse:
+total 208K
+ 2.0K May 15  2008 KREUTZ.KMN
+ 2.9K May 15  2008 Kreutz.kmx
+  246 May 15  2008 Unicode.bmp
+ 2.1K May 15  2008 ZAP-PTXT.KMN
+ 3.3K May 15  2008 ZAP-PTXT.kmx
+ 2.2K Jul 21  2011 ZAP-PTXT Unicode.kmn
+ 2.3K Jul 21  2011 ZAP-PTXT Unicode.kmx
+  83K May 15  2008 Zapzpgchrt.doc
+  53K May 15  2008 ZAPZPGCR.TTF
+  34K May 15  2008 ZAPZPG.map
+ 1.7K May 15  2008 ZAPZPG.tec
+
+Groups/TECkit_maps_Mexico/zpl Molina Lencho-Amalia-Persons:
+total 124K
+ 1015 May 15  2008 PERSONS.KMN
+ 1.8K May 15  2008 PERSONS.kmx
+  246 May 15  2008 Unicode.bmp
+  246 May 15  2008 ZAPOTEC.bmp
+  47K May 15  2008 ZAPWCR.TTF
+ 1.3K May 15  2008 ZAPWIN.KMN
+ 3.9K May 15  2008 ZAPWIN.kmx
+  39K May 15  2008 ZAPWIN.map
+ 2.4K May 15  2008 ZAPWIN.tec
+ 2.3K Oct 15  2010 ZAPWIN Unicode.KMN
+ 2.8K Oct 15  2010 ZAPWIN Unicode.kmx
+
+Groups/TECkit_maps_Mexico/zpm Reeck:
+total 176K
+  83K May 15  2008 Zapzpmchrt.doc
+  49K May 15  2008 zapzpmdr.TTF
+  36K May 15  2008 zapzpm.map
+ 2.1K May 15  2008 zapzpm.tec
+
+Groups/TECkit_maps_Mexico/zpo Riggs:
+total 36K
+  246 May 15  2008 Riggs.bmp
+  24K May 15  2008 RiggsKmn.doc
+ 1.5K May 15  2008 S-Riggs.kmn
+ 1.8K May 15  2008 S-Riggs.kmx
+
+Groups/TECkit_maps_Mexico/zpq Long-Butler:
+total 416K
+  42K May 15  2008 LONGDLR.TTF
+  48K May 15  2008 LONZACR.TTF
+  38K May 15  2008 LONZAP97.map
+ 2.6K May 15  2008 LONZAP97.tec
+  246 May 15  2008 UnicodeBlue.bmp
+  246 May 15  2008 Unicode.bmp
+  246 May 15  2008 Zapotec.bmp
+  89K May 15  2008 Zapzpqchrt.doc
+  53K May 15  2008 ZAPZPQDR.TTF
+ 1.1K May 15  2008 ZAPZPQ.KMN
+ 2.1K May 15  2008 ZAPZPQ.kmx
+  36K May 15  2008 ZAPZPQ.map
+  31K Nov 22  2011 ZAPZPQ spanish kb Unicode no cedilla Keyman file chart.doc
+ 1.5K Nov 22  2011 ZAPZPQ spanish kb Unicode no cedilla.KMN
+ 1.3K Nov 22  2011 ZAPZPQ spanish kb Unicode no cedilla.kmx
+ 2.1K May 15  2008 ZAPZPQ spanish kb UnicodeRevA.KMN
+ 2.6K May 15  2008 ZAPZPQ spanish kb UnicodeRevA.kmx
+ 1.2K May 15  2008 ZAPZPQsp.KMN
+ 3.0K May 15  2008 ZAPZPQsp.kmx
+ 1.8K May 15  2008 ZAPZPQ.tec
+ 1.6K May 15  2008 ZAPZPQ Unicode.KMN
+ 2.7K May 15  2008 ZAPZPQ Unicode.kmx
+ 2.0K May 15  2008 ZAPZPQ UnicodeRevA.KMN
+ 2.7K May 15  2008 ZAPZPQ UnicodeRevA.kmx
+
+Groups/TECkit_maps_Mexico/zpu Newberg:
+total 848K
+  31K Aug 14  2013 Como tecla en Yalalag Zapoteco.doc
+ 1.7K Jul 15  2013 Spanish Unicode.KMN
+ 2.6K Jul 15  2013 Spanish Unicode.kmx
+  886 Jul 15  2013 Unicode.bmp
+  556 Aug 14  2013 Yalalag Zapoteco.ahk
+ 799K Aug 14  2013 Yalalag Zapoteco.exe
+
+Groups/TECkit_maps_Mexico/ztc:
+total 264K
+  52K May 15  2008 MEXZTCCR.TTF
+  35K May 15  2008 MEXZTC.map
+ 1.7K May 15  2008 MEXZTC.tec
+  45K May 15  2008 ZAPZTC0.TTF
+  83K May 15  2008 Zapztcchrt.doc
+  36K May 15  2008 ZAPZTC.map
+ 2.3K May 15  2008 ZAPZTC.tec
+
+Groups/TECkit_maps_Mexico/ztg Heise-Leander-Hopkins-Olive:
+total 328K
+  886 Apr 18  2018 Unicode.bmp
+ 2.8K May 26  2015 UNICODE zapztg.kmn
+ 4.3K May 26  2015 UNICODE zapztg.kmx
+ 2.9K Apr 18  2018 UNICODE zapztgSP.kmn
+ 3.3K Apr 18  2018 UNICODE zapztgSP.kmx
+  64K May 15  2008 UNICODE zapztg.zip
+  246 May 15  2008 zapotec.bmp
+  47K May 15  2008 ZAPZCR.TTF
+  48K May 15  2008 ZAPZDR.TTF
+  83K May 15  2008 Zapztgchrt.doc
+ 1.4K May 15  2008 zapztg.kmn
+ 2.9K May 15  2008 zapztg.kmx
+  36K May 15  2008 ZAPZTG.map
+ 1.3K May 15  2008 zapztgSP.kmn
+ 1.7K May 15  2008 zapztgSP.kmx
+ 2.2K May 15  2008 ZAPZTG.tec
+
+Groups/TECkit_maps_Mexico/zts Merrill:
+total 12K
+  246 May 15  2008 Profeta.bmp
+ 1.1K May 15  2008 profeta.kmn
+ 2.1K May 15  2008 profeta.kmx
+
+Groups/TECkit_maps_Mexico/zzzEmpty:
+total 20K
+ 5.1K May 15  2008 dirrmak1.bat
+ 3.4K May 15  2008 dirrmak1.bat.bak
+ 3.4K May 15  2008 dirrmak.bat
+ 4.0K Feb 14  2014 hwc Grimes/
+
+Groups/TECkit_maps_Mexico/zzzEmpty/hwc Grimes:
+total 1.9M
+ 111K Oct 11  2011 Barred-iForHotKeys.doc
+  12K Oct 11  2011 Barred-iForHotKeys Spanish and English.doc
+  711 Oct 11  2011 Huichol+.ahk
+  445 Oct 11  2011 Huichol-En.ahk
+ 784K Oct 11  2011 Huichol-En.exe
+  445 Oct 11  2011 Huichol-Es.ahk
+ 784K Oct 11  2011 Huichol-Es.exe
+ 168K Oct 17  2011 Huichol+.pdf
+
+Groups/Test:
+total 4.0K
+ 4.0K Jan 10  2018 Choses à synchroniser/
+
+Groups/Test/Choses à synchroniser:
+total 8.0K
+ 4.0K Jan 10  2018 Autre/
+  118 Jan 10  2018 Ouvrez-moi.txt
+
+Groups/Test/Choses à synchroniser/Autre:
+total 4.0K
+ 4.0K Mar 18  2018 L'animal que vous cherchez/
+
+Groups/Test/Choses à synchroniser/Autre/L'animal que vous cherchez:
+total 4.0K
+ 4.0K Jan 10  2018 est ici/
+
+Groups/Test/Choses à synchroniser/Autre/L'animal que vous cherchez/est ici:
+total 116K
+ 115K Jan 10  2018 Il y arrive.png
+
+Groups/Translation_win:
+total 28K
+ 4.0K May 11 14:17 AdaptIt_adapting_to_another_dialect/
+ 4.0K Mar 18  2018 FieldWorks_BTE/
+ 4.0K Aug 16 14:06 Glyssen_to_speed_up_dramatized_recording/
+ 4.0K Dec 31  2015 OurWord_assistance_for_human_adaptation/
+ 4.0K Jun 19 15:41 Paratext/
+ 4.0K Dec 31  2015 SILAS_low-end_publishing_through_MS_Word/
+ 4.0K Feb  2  2015 USFM_Instructions_An_easy_way_to_get_UBS_file_on_USFM/
+
+Groups/Translation_win/AdaptIt_adapting_to_another_dialect:
+total 21M
+ 21M May 10 11:11 Adapt_It_WX_6_9_4_Unicode.exe
+ 339 Feb  8  2017 Getting_Git_also.txt
+
+Groups/Translation_win/FieldWorks_BTE:
+total 175M
+  895 Mar 18  2018 Fieldworks_Full_installers_dropped.txt
+  317 Jan 24  2015 Fieldworks_sample_projects_location.txt
+ 175M Mar 14  2018 FW8312_BTE_B.exe
+ 4.0K Mar 11  2017 FW_BTE_Beta/
+
+Groups/Translation_win/FieldWorks_BTE/FW_BTE_Beta:
+total 177M
+  923 Feb 24  2014 Fieldworks_Full_installers_dropped.txt
+ 177M Mar  9  2017 FW835Beta5_BTE_B.exe
+  38K Mar  5  2017 WARNING_about_FieldWorks_8.3.4_Beta4.html
+
+Groups/Translation_win/Glyssen_to_speed_up_dramatized_recording:
+total 39M
+ 39M Aug 16 13:07 GlyssenInstaller.1.1.24.msi
+
+Groups/Translation_win/OurWord_assistance_for_human_adaptation:
+total 11M
+ 9.7M Jan 24  2012 OurWordSetupFiles.zip
+ 430K Jul 11  2011 SetupOurWord.exe
+
+Groups/Translation_win/Paratext:
+total 301M
+ 4.0K Sep 16  2014 Extract_Paratext_Interlinear_Glosses/
+ 4.0K Feb  1  2015 Glossy_and_Interlinear_tweak/
+ 4.0K Aug 13 15:51 HearThis_for_recording_Pt_text/
+ 244M Apr  6  2017 Paratext_8.0.100.1_InstallerOffline.exe
+  57M Jun  6 10:26 patch_8.0.100.83.msp
+ 4.0K Jan 14  2016 Transcelerator_prepare_comprehension_checking_questions/
+  244 May 17  2017 WARNING_about_Paratext_8.txt
+
+Groups/Translation_win/Paratext/Extract_Paratext_Interlinear_Glosses:
+total 232K
+ 4.0K Sep 16  2014 Extract_Paratext_Interlinear_Glosses_files/
+ 8.6K Sep 16  2014 Extract_Paratext_Interlinear_Glosses.html
+ 107K Jun 27  2014 ExtractParatextInterlinearToExcel.exe
+ 107K Jun 27  2014 ExtractParatextInterlinearToSFM.exe
+
+Groups/Translation_win/Paratext/Extract_Paratext_Interlinear_Glosses/Extract_Paratext_Interlinear_Glosses_files:
+total 40K
+ 39K Sep 16  2014 ExtractParatextInterlinearToExcel.png
+
+Groups/Translation_win/Paratext/Glossy_and_Interlinear_tweak:
+total 316K
+ 310K Jun 25  2014 Glossy-1.5.1.zip
+ 4.0K Jun 20  2012 InterlinearHacks.zip
+
+Groups/Translation_win/Paratext/HearThis_for_recording_Pt_text:
+total 12M
+ 12M Aug 13 05:22 HearThisInstaller-2.0.136.msi
+ 478 Aug 14  2014 HearThis_needs_DotNet_4.txt
+
+Groups/Translation_win/Paratext/Transcelerator_prepare_comprehension_checking_questions:
+total 5.9M
+ 5.9M Sep 25  2015 TransceleratorInstaller.1.2.2.msi
+
+Groups/Translation_win/SILAS_low-end_publishing_through_MS_Word:
+total 1.7M
+ 1.7M Feb 14  2013 Silas-v2.35-1.14-Setup.exe
+
+Groups/Translation_win/USFM_Instructions_An_easy_way_to_get_UBS_file_on_USFM:
+total 8.5M
+ 8.5M Jun 14  2012 USFM-instructions-v2_35-Setup.exe
+
+Groups/Utility_win:
+total 276K
+ 4.0K Jul 10  2012 2Problems_GUI_for_running_RegExps/
+ 4.0K Aug 13 15:50 AdobeFlashPlayer_addin_for_Internet Explorer/
+ 4.0K Aug 13 15:48 AdobeFlashPlayer_addins_for_other_web_browsers/
+ 4.0K Mar  3  2017 Agent_Ransack_finds_files_that_standard_search_misses/
+ 4.0K Aug  8 17:17 AllwaySync_synchronizing_files_between_computers/
+ 4.0K Jan 31  2017 Antivirus/
+ 4.0K Jul  8 22:56 Archiving_n_compression/
+ 4.0K Aug 17 14:24 BabelPad_fantastic_Unicode_editor_plus/
+ 4.0K Jan 22  2015 BatteryBar_laptop_battery_meter_shows_wear/
+ 4.0K Aug 28 15:21 Belarc_Advisor_lists_HW_and_SW_details/
+ 4.0K May 21  2015 CamStudio_records_screen_good_for_training_videos/
+ 4.0K Feb 29  2012 CC_Consistent_Changes/
+ 4.0K Mar 25 07:22 CDBurnerXP_burn_CDs_n_DVDs_not_just_for_XP/
+ 4.0K Mar  9  2018 Classic_Shell_restores_START_menu_to_Win8/
+ 4.0K Feb  1  2015 Cleaning_up_file_system/
+ 4.0K Nov 18  2015 Cobian_Backup_flexible_backup_utility/
+ 4.0K Feb  4  2019 Defraggler/
+ 4.0K Jan 28  2013 DiffPDF_to_show_differences_between_PDF_files/
+ 4.0K Jun  3 15:48 Donor_Manager_for_partnership_development/
+ 4.0K May 11 14:21 Ebook_readers/
+ 4.0K May  8 15:12 Evernote_collect_organise_information/
+ 4.0K Feb 17  2019 Everything_locates_files_n_folders_instantly/
+ 4.0K Nov 19  2013 FAT32Format_to_format_huge_drives_FAT32/
+ 4.0K Jan 18  2012 FileSystem-explorers/
+ 4.0K Jul 29 14:52 Gimp_image_n_photo_editor/
+ 4.0K Dec  8  2013 HiJackThis_malware_lister/
+ 4.0K Oct  6  2014 InKey_keyboard_software/
+ 4.0K Dec 12  2015 Inkscape_vector_graphics_editor/
+ 4.0K Aug 27 15:34 inSSIDer_wifi_network_scanner/
+ 4.0K May 15 14:50 IrfanView_picture_viewer_and_editor/
+ 4.0K Jul 16 14:14 JavaRuntimeEnvironment/
+ 4.0K Sep 29  2015 Ketarin_for_keeping_programs_up_to_date/
+ 4.0K Jun 15 15:22 Keyman_keyboard_software/
+ 4.0K Aug 24  2018 Launchy_launch_programs_easily/
+ 4.0K Aug  8 17:20 LibreOffice/
+ 4.0K Feb  6  2012 Media_Converters/
+ 4.0K Feb 19  2015 Media_players/
+ 4.0K Apr 19 14:23 MS_dotNET_so_programs_can_run/
+ 4.0K May 31 14:41 MSXML6.1_x86/
+ 4.0K Jun 18 15:02 MyPhoneExplorer_manage_Android_easily/
+ 4.0K Nov 14  2012 myWorkSafe_automatic_USB_backups/
+ 4.0K Jul 24 16:42 Notepad++_technical_editor_with_regex/
+ 4.0K Nov  3  2014 NoteTab_powerful_text_editor/
+ 4.0K Mar 19 15:28 Paint.net_image_n_photo_editor/
+ 4.0K Aug 16  2012 Panda_USB_Vaccine_blocks_malware_spreading_thru_USB_drives/
+ 4.0K Aug 13 15:48 PDF_readers/
+ 4.0K Dec 13  2018 ProcessExplorer_troubleshoot_windows_processes/
+ 4.0K Mar  7  2018 PureText_to_strip_formatting_and_paste/
+ 4.0K Jan  8  2019 Recuva_restores_deleted_files/
+ 4.0K Feb 25  2013 RegexRenamer_bulk_rename_with_preview_n_variables/
+ 4.0K Aug 20 14:32 Registry_cleaners_etc/
+ 4.0K Aug  2  2012 Remote_control/
+ 4.0K Jun 10 14:27 ShellExView_etc_to_modify_context_menu/
+ 4.0K Dec 13  2017 SIL_Converters_to_use_Word_to_change_encoding_like_TECkit/
+ 4.0K Aug 30  2018 TECkit_to_change_text_encoding/
+ 4.0K Mar 20  2017 Teracopy_file_copier/
+ 4.0K Aug 24  2018 TightVNC_remote_desktop_control/
+ 4.0K Apr  8 15:28 Treesize_scan_folder_sizes/
+ 4.0K Jun  7  2012 Unlocker_shows_what_is_blocking_deletion_or_removal/
+ 4.0K Aug 11  2016 UUPlus_for_much_faster_satphone_email/
+ 4.0K Nov 27  2018 Veracrypt_encrypts_disks_n_files/
+ 4.0K Aug 18 14:18 Version_control/
+ 4.0K Jul 16 14:18 VirtualBox_to_emulate_other_OS_on_Windows/
+ 4.0K May 31 14:44 Windows_installer/
+ 4.0K Aug 16  2012 Winmail_Reader_read_winmail.dat_attachments_sent_by_outlook/
+ 4.0K Jul 29 16:49 WinMerge_compare_n_merge_files_n_folders/
+ 4.0K Aug 16  2012 WordNet_free_lexical_database_of_english/
+ 4.0K Aug  5 13:56 WSUS_Offline_Update_to_get_MS_n_Office_service_packs/
+ 4.0K May 17 09:04 XMLmind_editor_for_XLingPaper/
+
+Groups/Utility_win/2Problems_GUI_for_running_RegExps:
+total 144K
+ 4.0K Feb 15  2012 2Problems-RulesFileFormat_files/
+ 7.3K Feb 15  2012 2Problems-RulesFileFormat.htm
+ 120K Jun  4  2012 2Problems_Rules_File_Format_Palaso.pdf
+  12K Jan 16  2019 2Problems.zip
+
+Groups/Utility_win/2Problems_GUI_for_running_RegExps/2Problems-RulesFileFormat_files:
+total 292K
+  34K Feb 15  2012 application.css
+ 6.3K Feb 15  2012 application.js
+  34K Feb 15  2012 controls.js
+  31K Feb 15  2012 dragdrop.js
+  38K Feb 15  2012 effects.js
+ 1.9K Feb 15  2012 jstoolbar.css
+ 127K Feb 15  2012 prototype.js
+ 6.8K Feb 15  2012 scm.css
+
+Groups/Utility_win/AdobeFlashPlayer_addin_for_Internet Explorer:
+total 42M
+ 21M Aug 13  2018 install_flash_player_30_active_x.msi
+ 21M Aug 12 21:01 install_flash_player_32_active_x.msi
+
+Groups/Utility_win/AdobeFlashPlayer_addins_for_other_web_browsers:
+total 22M
+ 22M Aug 12 21:02 install_flash_player_32_plugin.msi
+
+Groups/Utility_win/Agent_Ransack_finds_files_that_standard_search_misses:
+total 23M
+  15M Mar  2  2017 AgentRansack_867.exe
+ 3.5M Mar 30  2010 FilterPack32bit.exe
+ 4.2M Jun  4  2015 FilterPack_SP2_32bit.exe
+
+Groups/Utility_win/AllwaySync_synchronizing_files_between_computers:
+total 8.2M
+ 8.2M Aug  7 23:00 allwaysync-19-1-5.exe
+
+Groups/Utility_win/Antivirus:
+total 144M
+ 144M Sep 30  2017 avast_free_antivirus_setup.exe
+
+Groups/Utility_win/Archiving_n_compression:
+total 2.3M
+ 1.2M Apr 30  2018 7z1805.exe
+ 1.2M Feb 22  2019 7z1900.exe
+
+Groups/Utility_win/BabelPad_fantastic_Unicode_editor_plus:
+total 5.4M
+ 5.4M Aug 16 16:06 BabelPad.zip
+
+Groups/Utility_win/BatteryBar_laptop_battery_meter_shows_wear:
+total 1.3M
+ 1.3M Dec  8  2015 BatteryBarSetup-3.6.6.exe
+
+Groups/Utility_win/Belarc_Advisor_lists_HW_and_SW_details:
+total 3.3M
+ 3.3M Aug 28 06:57 advisorinstaller.exe
+
+Groups/Utility_win/CamStudio_records_screen_good_for_training_videos:
+total 11M
+ 11M Jan  9  2018 CamStudio_Setup_2-7_r316.exe
+
+Groups/Utility_win/CC_Consistent_Changes:
+total 1.1M
+ 192K Feb 24  2012 cc75ug.zip
+ 869K Feb 24  2012 cc8_1_6.zip
+
+Groups/Utility_win/CDBurnerXP_burn_CDs_n_DVDs_not_just_for_XP:
+total 8.6M
+ 8.6M Mar 25 05:42 cdbxp_setup_4.5.8.7042.msi
+
+Groups/Utility_win/Classic_Shell_restores_START_menu_to_Win8:
+total 6.9M
+ 6.9M Jan  3  2019 ClassicShellSetup_4_3_1.exe
+
+Groups/Utility_win/Cleaning_up_file_system:
+total 8.0K
+ 4.0K Feb  1  2015 Anti-Twin_finds_n_deletes_duplicate_or_similar_files/
+ 4.0K Jan 12  2015 DoubleKiller_finds_n_deletes_duplicate_files/
+
+Groups/Utility_win/Cleaning_up_file_system/Anti-Twin_finds_n_deletes_duplicate_or_similar_files:
+total 892K
+ 890K May  9  2018 AntiTwin_Setup.exe
+
+Groups/Utility_win/Cleaning_up_file_system/DoubleKiller_finds_n_deletes_duplicate_files:
+total 396K
+ 392K Jul  7  2007 doublekiller.zip
+  130 Jan 11  2015 Free version of DoubleKiller.txt
+
+Groups/Utility_win/Cobian_Backup_flexible_backup_utility:
+total 19M
+ 19M Dec 10  2018 cbSetup.exe
+
+Groups/Utility_win/Defraggler:
+total 6.2M
+ 6.2M May 22  2018 dfsetup222.exe
+
+Groups/Utility_win/DiffPDF_to_show_differences_between_PDF_files:
+total 4.9M
+ 4.9M Jan  7  2013 diffpdf-2.1.2-win32-static.zip
+
+Groups/Utility_win/Donor_Manager_for_partnership_development:
+total 11M
+ 1.8M Aug  9  2018 DM Users Guide 6.pdf
+ 8.3M Jun  3 07:54 Donor-Manager-6-Full-Install.exe
+
+Groups/Utility_win/Ebook_readers:
+total 54M
+ 4.0K Jul 19 14:23 Calibre_ebook_library_reader_and_converter/
+  54M May 11 10:35 KindleForPC-installer-1.26.55076.exe
+
+Groups/Utility_win/Ebook_readers/Calibre_ebook_library_reader_and_converter:
+total 62M
+  62M Jul 18 21:13 calibre-3.46.0.msi
+ 4.6K Jan 23  2014 Calibre_ebook_reader_(Win32)_readme.html
+
+Groups/Utility_win/Evernote_collect_organise_information:
+total 125M
+ 125M May  6 14:52 Evernote_6.18.4.8489.exe
+
+Groups/Utility_win/Everything_locates_files_n_folders_instantly:
+total 1.5M
+ 1.5M Feb 17  2019 Everything-1.4.1.935.x86-Setup.exe
+
+Groups/Utility_win/FAT32Format_to_format_huge_drives_FAT32:
+total 24K
+ 23K Nov 19  2013 fat32format.zip
+
+Groups/Utility_win/FileSystem-explorers:
+total 4.0K
+ 4.0K Jan  8  2019 FreeCommander_2-windows-with-tabs-and-many-features/
+
+Groups/Utility_win/FileSystem-explorers/FreeCommander_2-windows-with-tabs-and-many-features:
+total 52M
+ 2.6M Feb  7  2015 fc_setup_.zip
+ 2.6M Sep 25  2010 FreeCommander200902b.msi
+  16M Jan 23  2018 FreeCommanderXE-32-en-public_setup.sync-conflict-20181228-001018-KNKL2CB.zip
+  18M Jan  5  2019 FreeCommanderXE-32-en-public_setup.zip
+ 8.3M Dec 15  2018 FreeCommanderXE_chm_en.zip
+ 5.3M Jan  4  2014 FreeCommanderXE_portable.zip
+
+Groups/Utility_win/Gimp_image_n_photo_editor:
+total 249M
+ 225M Jul 28 15:45 gimp-2.10.12-setup-3.exe
+  25M Dec 12  2015 gimp-help-2-2.8.2-en-setup.exe
+
+Groups/Utility_win/HiJackThis_malware_lister:
+total 392K
+ 380K May  8  2013 HijackThis.exe
+  11K May  9  2013 readme204.txt
+
+Groups/Utility_win/InKey_keyboard_software:
+total 136K
+ 134K Jun 17  2011 PNGU_Installation.pdf
+
+Groups/Utility_win/Inkscape_vector_graphics_editor:
+total 176M
+ 82M Jan 30  2015 inkscape-0.91.msi
+ 94M Jan 30  2015 inkscape-0.91-x64.msi
+
+Groups/Utility_win/inSSIDer_wifi_network_scanner:
+total 8.4M
+ 8.4M Aug 26 14:47 inSSIDerSetup.exe
+
+Groups/Utility_win/IrfanView_picture_viewer_and_editor:
+total 19M
+  17M May 15 10:50 iview453_plugins_setup.exe
+ 2.4M May 15 10:49 iview453_setup.exe
+
+Groups/Utility_win/JavaRuntimeEnvironment:
+total 67M
+ 67M Jul  4 22:48 jre-8u221-windows-i586.exe
+
+Groups/Utility_win/Ketarin_for_keeping_programs_up_to_date:
+total 5.3M
+  52K Jun 24  2007 DiffieHellman.dll
+ 1.5M Sep  8  2015 Ketarin-1.8.0.zip
+ 1.3M Sep  8  2015 Ketarin.exe
+  280 Sep 17  2014 Ketarin.exe.config
+ 100K Jan 20  2014 LangTranKetarin_win_Tech_support-Internet-Microsoft_security_essentials-Survey-Fre-Por-Rus-Spa.xml
+  44K Sep  5  2012 LangTranKetarin_win_Tech_support-Internet-Microsoft_security_essentials-Survey.xml
+ 302K May 16  2012 LangTranKetarin.xml
+ 4.0K Sep 29  2015 OldVersion1.7.1/
+ 180K Jun 24  2007 Org.Mentalis.Security.dll
+ 764K Aug 27  2015 SciLexer.dll
+ 866K Jul 26  2009 System.Data.SQLite.DLL
+ 208K Jun 24  2007 Tamir.SharpSSH.dll
+
+Groups/Utility_win/Ketarin_for_keeping_programs_up_to_date/OldVersion1.7.1:
+total 4.5M
+  52K Jun 24  2007 DiffieHellman.dll
+ 1.4M Jan 29  2015 Ketarin-1.7.1.zip
+ 1.3M May 28  2011 Ketarin.exe
+ 180K Jun 24  2007 Org.Mentalis.Security.dll
+ 520K Sep  1  2010 SciLexer.dll
+ 866K Jul 26  2009 System.Data.SQLite.DLL
+ 208K Jun 24  2007 Tamir.SharpSSH.dll
+
+Groups/Utility_win/Keyman_keyboard_software:
+total 118M
+ 4.0K Jun 27  2018 beta/
+  18M Jun 15 11:10 keymandesktop-11.0.1361.0.exe
+ 7.9M Sep 13  2016 keymandesktop-8.0.360.0.exe
+  16M Aug 21  2017 keymandesktop-9.0.528.0.exe
+  57K Oct 20  2014 Keyman_Desktop_9_info_for_Free_and_Pro_versions.html
+  77M Apr 24 02:12 keymandeveloper-11.0.1356.0.exe
+  324 Jan  5  2018 Keyman-Developer-key.txt
+
+Groups/Utility_win/Keyman_keyboard_software/beta:
+total 20M
+ 20M Jun 26  2018 keymandesktop-10.0.1113.0.exe
+
+Groups/Utility_win/Launchy_launch_programs_easily:
+total 4.5M
+ 4.5M Apr 24  2017 LaunchySetup2.6B2.exe
+
+Groups/Utility_win/LibreOffice:
+total 267M
+ 4.0K Aug  8 17:20 helpfiles/
+ 267M Aug  7 18:35 LibreOffice_6.3.0_Win_x86.msi
+  337 Oct 22  2018 readme.txt
+
+Groups/Utility_win/LibreOffice/helpfiles:
+total 4.1M
+ 2.1M Jun 27 08:31 LibreOffice_6.2.5_Win_x86_helppack_en-GB.msi
+ 2.0M Aug  7 18:35 LibreOffice_6.3.0_Win_x86_helppack_en-US.msi
+
+Groups/Utility_win/Media_Converters:
+total 4.0K
+ 4.0K May 12  2014 Mobile_Media_Converter/
+
+Groups/Utility_win/Media_Converters/Mobile_Media_Converter:
+total 14M
+ 14M May 12  2014 MMCsetup185.exe
+
+Groups/Utility_win/Media_players:
+total 12K
+ 4.0K Aug 12 13:51 GOM_player/
+ 4.0K Aug 24  2018 umPlayer_Universal_Media_Player/
+ 4.0K Aug 19 15:00 VLC_region-free_DVD_player_and_format_converter/
+
+Groups/Utility_win/Media_players/GOM_player:
+total 54M
+ 26M Aug 11 18:30 GOMPLAYERGLOBALSETUP_CHROME.EXE
+ 28M Jun 19  2018 GOMPLAYERGLOBALSETUP.EXE
+
+Groups/Utility_win/Media_players/umPlayer_Universal_Media_Player:
+total 22M
+ 22M Aug 28  2016 UMPlayer-rtm.exe
+
+Groups/Utility_win/Media_players/VLC_region-free_DVD_player_and_format_converter:
+total 39M
+ 39M Aug 14 10:14 vlc-3.0.8-win32.exe
+
+Groups/Utility_win/MS_dotNET_so_programs_can_run:
+total 118M
+ 49M Mar 18  2010 dotNetFx40_Full_x86_x64.exe
+ 70M Apr 19 11:20 ndp48-x86-x64-allos-enu.exe
+
+Groups/Utility_win/MSXML6.1_x86:
+total 5.1M
+ 3.6M Oct 16  2018 msxml6_ia64.msi
+ 1.5M Oct 16  2018 msxml6_x86.msi
+
+Groups/Utility_win/MyPhoneExplorer_manage_Android_easily:
+total 12M
+ 12M Jun 16 22:31 MyPhoneExplorer_Setup_1.8.12.exe
+
+Groups/Utility_win/myWorkSafe_automatic_USB_backups:
+total 1.5M
+ 1.5M Jun 14  2017 myWorkSafeInstaller-1.1.4.msi
+
+Groups/Utility_win/Notepad++_technical_editor_with_regex:
+total 3.5M
+ 3.5M Jun 20 02:20 npp.7.7.1.Installer.exe
+
+Groups/Utility_win/NoteTab_powerful_text_editor:
+total 2.0M
+ 2.0M Nov  3  2014 NoteTab_Light_Setup.exe
+
+Groups/Utility_win/Paint.net_image_n_photo_editor:
+total 8.5M
+ 8.5M Mar 19 06:15 paint.net.4.1.6.install.exe
+
+Groups/Utility_win/Panda_USB_Vaccine_blocks_malware_spreading_thru_USB_drives:
+total 808K
+ 805K Oct 23  2009 USBVaccine.zip
+
+Groups/Utility_win/PDF_readers:
+total 388M
+ 167M Aug 11 23:31 AcroRdrDC1901220036_en_US.exe
+  66M Sep 26  2018 FoxitReader93_enu_Setup_Clean.exe
+  76M Apr 14 16:36 FoxitReader95_enu_Setup_Clean.exe
+  80M Jul 15 15:32 FoxitReader96_Setup_Prom_IS.exe
+
+Groups/Utility_win/ProcessExplorer_troubleshoot_windows_processes:
+total 3.6M
+ 1.9M Dec  5  2017 ProcessExplorer.sync-conflict-20181213-110203-KNKL2CB.zip
+ 1.8M Dec 12  2018 ProcessExplorer.zip
+
+Groups/Utility_win/PureText_to_strip_formatting_and_paste:
+total 40K
+ 38K Mar  1  2018 puretext_6.2_32-bit.zip
+
+Groups/Utility_win/Recuva_restores_deleted_files:
+total 5.4M
+ 5.4M Jan  8  2019 rcsetup153.exe
+
+Groups/Utility_win/RegexRenamer_bulk_rename_with_preview_n_variables:
+total 1.7M
+ 1.7M Jun 12  2011 RegexRenamer_Setup_v1.3.1.exe
+
+Groups/Utility_win/Registry_cleaners_etc:
+total 20M
+ 20M Aug 20 06:01 ccsetup_slim.exe
+
+Groups/Utility_win/Remote_control:
+total 19M
+ 19M Aug  1  2012 LogMeInFree.msi
+
+Groups/Utility_win/ShellExView_etc_to_modify_context_menu:
+total 156K
+ 156K Jun  9 15:54 shexview_setup.exe
+
+Groups/Utility_win/SIL_Converters_to_use_Word_to_change_encoding_like_TECkit:
+total 128M
+ 52M Dec 16  2011 SEC_31_WithExtras.exe
+ 77M Dec 31  2015 SEC_FullInstall.exe
+ 505 Nov 29  2012 Using_SEC_3.1.1_in_Office_2010.txt
+
+Groups/Utility_win/TECkit_to_change_text_encoding:
+total 13M
+ 1.9M Jan  3  2019 Encore2Unicode61.zip
+   54 Feb 24  2012 Find_documentation_at.txt
+ 1.9M Jan  3  2019 TECkit_2008-04-04.zip
+ 9.0M Aug 24  2018 TECkit-2.5.8.zip
+
+Groups/Utility_win/Teracopy_file_copier:
+total 4.4M
+ 4.4M Oct 17  2017 teracopy.exe
+
+Groups/Utility_win/TightVNC_remote_desktop_control:
+total 2.0M
+ 2.0M May 26  2018 tightvnc-2.8.11-gpl-setup-32bit.msi
+
+Groups/Utility_win/Treesize_scan_folder_sizes:
+total 7.6M
+ 7.6M Apr  8 06:20 TreeSizeFreeSetup.exe
+
+Groups/Utility_win/Unlocker_shows_what_is_blocking_deletion_or_removal:
+total 784K
+ 784K May  7  2012 Unlocker1.9.1.exe
+
+Groups/Utility_win/UUPlus_for_much_faster_satphone_email:
+total 52M
+  33M Aug 11  2016 SOHO6_Win.exe
+  20M Aug 11  2016 UUPlus6_Win.exe
+ 1.3K Aug 11  2016 Warning.txt
+
+Groups/Utility_win/Veracrypt_encrypts_disks_n_files:
+total 35M
+ 35M Nov 24  2018 VeraCrypt Setup 1.23-Hotfix-2.exe
+
+Groups/Utility_win/Version_control:
+total 70M
+ 46M Aug 17 14:54 Git-2.23.0-32-bit.exe
+ 25M Oct 14  2018 tortoisehg-4.7.2-x86.msi
+
+Groups/Utility_win/VirtualBox_to_emulate_other_OS_on_Windows:
+total 163M
+  381 Feb 28  2016 See_also_for_User_Manual_and_Extension_Pack.txt
+  920 Jun 18  2016 VB_tips.txt
+ 163M Jul 12 05:43 VirtualBox-6.0.10-132072-Win.exe
+
+Groups/Utility_win/Windows_installer:
+total 7.4M
+  433 Aug 15  2012 About_these_files.txt
+ 1.7M Oct 12  2018 Windows6.0-KB942288-v2-x86.msu
+ 2.5M May  4  2005 WindowsInstaller-KB893803-v2-x86.exe
+ 3.2M Oct 12  2018 WindowsXP-KB942288-v3-x86.exe
+
+Groups/Utility_win/Winmail_Reader_read_winmail.dat_attachments_sent_by_outlook:
+total 688K
+ 687K Feb 19  2012 winmail-reader-setup.exe
+
+Groups/Utility_win/WinMerge_compare_n_merge_files_n_folders:
+total 5.6M
+ 5.6M Jul 28 06:07 WinMerge-2.16.4-Setup.exe
+
+Groups/Utility_win/WordNet_free_lexical_database_of_english:
+total 18M
+ 18M Apr 13  2005 WordNet-2.1.exe
+
+Groups/Utility_win/WSUS_Offline_Update_to_get_MS_n_Office_service_packs:
+total 6.3M
+ 6.3M Aug  5 06:38 wsusoffline118.zip
+
+Groups/Utility_win/XMLmind_editor_for_XLingPaper:
+total 123M
+ 123M May 17 00:12 xxe-perso-9_0_0-setup.exe
+
+Groups/Utility_win64:
+total 72K
+ 4.0K Sep 25  2012 AdobeFlashPlayer64_addin_for_Internet Explorer/
+ 4.0K Sep 27  2012 AdobeFlashPlayer64_addins_for_other_web_browsers/
+ 4.0K May 31 14:41 Agent_Ransack_finds_files_that_standard_search_misses/
+ 4.0K Aug  8 17:17 AllwaySync_synchronizing_files_between_computers/
+ 4.0K Feb 24  2019 Archiving_n_compression/
+ 4.0K Dec 12  2015 Ebook_Readers64/
+ 4.0K Feb 17  2019 Everything_locates_files_n_folders_instantly/
+ 4.0K Jan 17  2019 Inkscape_vector_graphics_editor/
+ 4.0K Oct 22  2018 JavaRuntimeEnvironment/
+ 4.0K Sep  5  2012 LAME_encoder_so_Audacity_can_make_MP3s/
+ 4.0K May 31 14:41 MSXML6.1_64/
+ 4.0K Jun 20 13:09 Notepad++_technical_editor_with_regex_64/
+ 4.0K Mar  7  2018 PureText_to_strip_formatting_and_paste_64/
+ 4.0K Jun 10 14:27 ShellExView_etc_to_modify_context_menu/
+ 4.0K Jul  4 15:09 TightVNC_remote_desktop_control/
+ 4.0K Dec 16  2012 Unlocker64_shows_what_is_preventing_removal/
+ 4.0K Aug 18 14:18 Version_control/
+ 4.0K May 31 14:44 Windows_installer/
+
+Groups/Utility_win64/AdobeFlashPlayer64_addin_for_Internet Explorer:
+total 8.9M
+ 8.8M Jun  1  2012 install_flash_player_ax.exe
+  411 Sep 25  2012 Use_32-bit_addin_now.txt
+
+Groups/Utility_win64/AdobeFlashPlayer64_addins_for_other_web_browsers:
+total 9.4M
+ 9.4M Jun  1  2012 install_flash_player.exe
+  409 Sep 27  2012 Use_32-bit_addin_now.txt
+
+Groups/Utility_win64/Agent_Ransack_finds_files_that_standard_search_misses:
+total 13M
+ 3.7M Feb 20  2012 agentran_64.exe
+ 3.9M Oct 12  2018 FilterPack64bit.exe
+ 4.8M Jun  4  2015 FilterPack_SP2_64bit.exe
+
+Groups/Utility_win64/AllwaySync_synchronizing_files_between_computers:
+total 8.8M
+ 8.8M Aug  7 22:59 allwaysync-x64-19-1-5.exe
+
+Groups/Utility_win64/Archiving_n_compression:
+total 4.2M
+ 1.4M Apr 30  2018 7z1805-x64.exe
+ 1.4M Dec 30  2018 7z1806-x64.exe
+ 1.4M Feb 22  2019 7z1900-x64.exe
+
+Groups/Utility_win64/Ebook_Readers64:
+total 4.0K
+ 4.0K Jul 19 14:24 Calibre_ebook_library_reader_and_converter64/
+
+Groups/Utility_win64/Ebook_Readers64/Calibre_ebook_library_reader_and_converter64:
+total 67M
+ 67M Jul 18 21:13 calibre-64bit-3.46.0.msi
+
+Groups/Utility_win64/Everything_locates_files_n_folders_instantly:
+total 1.6M
+ 1.6M Feb 17  2019 Everything-1.4.1.935.x64-Setup.exe
+
+Groups/Utility_win64/Inkscape_vector_graphics_editor:
+total 175M
+ 94M Jan 30  2015 inkscape-0.91-x64.msi
+ 82M Jan 15  2019 inkscape-0.92.4-x64.msi
+
+Groups/Utility_win64/JavaRuntimeEnvironment:
+total 72M
+ 72M Oct  6  2018 jre-8u191-windows-x64.exe
+
+Groups/Utility_win64/LAME_encoder_so_Audacity_can_make_MP3s:
+total 848K
+ 845K Feb 28  2012 lame3.99.5-64.zip
+
+Groups/Utility_win64/MSXML6.1_64:
+total 6.2M
+ 3.6M Dec  4  2006 msxml6_ia64.msi
+ 2.6M Oct 16  2018 msxml6_x64.msi
+
+Groups/Utility_win64/Notepad++_technical_editor_with_regex_64:
+total 3.8M
+ 3.8M Jun 20 02:20 npp.7.7.1.Installer.x64.exe
+  190 Apr 23  2018 WARNING_some_plugins_not_available.txt
+
+Groups/Utility_win64/PureText_to_strip_formatting_and_paste_64:
+total 44K
+ 43K Mar  1  2018 puretext_6.2_64-bit.zip
+
+Groups/Utility_win64/ShellExView_etc_to_modify_context_menu:
+total 104K
+ 102K Jun  9 15:54 shexview-x64.zip
+
+Groups/Utility_win64/TightVNC_remote_desktop_control:
+total 2.2M
+ 2.2M Jul  4 03:37 tightvnc-2.8.23-gpl-setup-64bit.msi
+
+Groups/Utility_win64/Unlocker64_shows_what_is_preventing_removal:
+total 1.1M
+ 1.1M May 23  2012 Unlocker1.9.1-x64.exe
+
+Groups/Utility_win64/Version_control:
+total 77M
+ 46M Aug 17 14:54 Git-2.23.0-64-bit.exe
+ 31M Jul 22 14:15 tortoisehg-5.0.2-x64.msi
+
+Groups/Utility_win64/Windows_installer:
+total 3.0M
+ 3.0M Oct 12  2018 Windows6.0-KB942288-v2-x64.msu
+
+Groups/Videos:
+total 60K
+ 4.0K Jan 16  2017 Bloom on Vimeo/
+ 4.0K Nov 18  2016 FLEx on Vimeo/
+ 4.0K Aug  9  2017 HearThis on Vimeo/
+ 4.0K Apr 11  2018 Keyman Training on Vimeo/
+ 4.0K Mar 21  2018 Language Technology_s videos on Vimeo/
+  16K Jul 15 15:03 Paratext on Vimeo/
+ 4.0K Oct 20  2015 PrimerPro on Vimeo/
+ 4.0K Feb 22  2015 Rapid Word Collection on Vimeo/
+ 4.0K Jul 10  2015 SayMore on Vimeo/
+ 4.0K Mar 25  2017 Scripture App Builder on Vimeo/
+ 4.0K Apr 30 13:56 Translator_s Workplace on Vimeo/
+  552 Dec 17  2015 Vimeo-videos-NOT-distributed-by-LangTran.txt
+
+Groups/Videos/Bloom on Vimeo:
+total 506M
+  29M Sep 26  2016 Bloom- Advanced Formatting and Styles-SD.mp4
+  11M Nov 11  2015 Bloom- changing the format of text.mp4
+  27M Jun 30  2015 Bloom_ converting vernacular book to shell book.mp4
+  15M Sep 26  2016 Bloom- customize page-SD.mp4
+  22M Jun 30  2015 Bloom_ Downloading Shell Books from the Bloom Library.mp4
+  22M Oct 13  2016 Bloom_ how to publish as EPUB.mp4
+ 6.9M Sep 26  2016 Bloom- inserting special characters-SD.mp4
+ 9.1M Jan 13  2017 Bloom Making a Set of Decodable and Leveled Reader Templates - Step 9 Making a Bloompack.mp4
+ 3.4M Jan 13  2017 Bloom_ making reader templates 0 - Introduction.mp4
+  19M Sep 26  2016 Bloom- Making Reader Templates 10 - Summary-SD.mp4
+ 8.7M Sep 26  2016 Bloom- Making Reader Templates 1 - New Collection-SD.mp4
+ 3.5M Sep 29  2016 Bloom- Making Reader Templates 2 - Using Decodable Reader Template-SD.mp4
+ 2.6M Sep 29  2016 Bloom- Making Reader Templates 3 - Letters-SD.mp4
+ 6.1M Jan 13  2017 Bloom_ Making Reader Templates 4 - Words.mp4
+  14M Jan 13  2017 Bloom_ Making Reader Templates 5 - Setting up Decodable Stages.mp4
+  17M Jan 13  2017 Bloom_ Making Reader Templates 6 - Creating a Template for each Decodable Stage.mp4
+ 9.9M Sep 26  2016 Bloom- Making Reader Templates 7 - Setting up Levels-SD.mp4
+  12M Sep 26  2016 Bloom- Making Reader Templates 8 - Creating a Template for each Level-SD.mp4
+  21M Mar 11  2016 Bloom overview-SD.mp4
+  23M Jul 23  2015 Bloom - saving allowed words and sample texts in UTF-8 Format.mp4
+ 7.9M Sep 26  2016 Bloom- Setting text to be right to left-SD.mp4
+  21M Oct 13  2016 Bloom_ Talking Book.mp4
+ 5.8M Nov 11  2015 Bloom - understanding Templates and Shell Books.mp4
+  20M Jun 30  2015 Bloom - using a Shell Book.mp4
+  26M Nov 11  2015 Bloom - using Basic Book template.mp4
+  15M Sep 26  2016 Bloom- Using Decodable and Leveled Readers - Using a Leveled Reader Template-SD.mp4
+  14M Sep 26  2016 Bloom- Using Decodable and Leveled Readers - Using Decodable Reader-SD.mp4
+ 8.1M Jan 13  2017 Bloom Using Decodable and Leveled Reader Templates - Installing Templates From a Bloompack.mp4
+ 3.7M Nov 30  2015 Bloom - Using Decodable and Leveled Reader Templates (Introduction)-122998694.mp4
+ 7.6M Jan 13  2017 Bloom Who It Is For (Two Kinds of User).mp4
+  22K Mar 24  2015 folder.png
+ 5.4M Nov 18  2016 How to Publish Your Book to Bloomlibrary.org.mp4
+  57M Jan 16  2017 Why Bloom_.mp4
+  42M Sep 26  2016 Why Bloom--SD.mp4
+
+Groups/Videos/FLEx on Vimeo:
+total 169M
+ 1.9M Mar 24  2015 10 - FLEx writing System visibility-SD.mp4
+ 2.4M Feb 22  2015 11 - FLEx adding custom fields.mp4
+ 2.5M Feb 22  2015 12 - FLEx Add a lexical entry.mp4
+ 1.4M Feb 22  2015 13 - FLEx Find lexical entry.mp4
+ 3.8M Feb 22  2015 14 - FLEx Homographs and Senses.mp4
+ 2.5M Feb 22  2015 15 - Add grammatical info.mp4
+ 3.7M Feb 22  2015 16 - Specifying Gender using Inflection Features.mp4
+ 1.1M Feb 22  2015 17 - Showing Inflection Features in Dictionary View.mp4
+ 991K Feb 22  2015 18 - Adding an example sentence.mp4
+ 2.6M Feb 22  2015 19 - Finding an Example Sentence in your Texts.mp4
+ 5.1M Mar 24  2015 1- FLEx Quick Tour-SD.mp4
+ 1.4M Feb 27  2015 1-intro.mp4
+ 3.4M Feb 22  2015 20 - Adding affix entries.mp4
+ 2.2M Feb 22  2015 21 - Adding allomorphs.mp4
+ 4.0M Feb 22  2015 22 - Adding Lexical Relations.mp4
+ 3.0M Feb 22  2015 23 - Specifying the Components of Complex forms (making subentries).mp4
+ 2.2M Feb 22  2015 24 - Add a Variant.mp4
+ 2.1M Feb 22  2015 25 - Specifying a Complex Form is also a Variant.mp4
+ 3.6M Feb 22  2015 26-Displaying complex forms in Dictionary view.mp4
+ 6.2M Feb 22  2015 27 - Using Collect Words (formerly Categorized Entry).mp4
+ 3.2M Feb 22  2015 28 - Bulk Edit_ List Choice.mp4
+ 1.9M Feb 22  2015 29 - Bulk Edit_ Bulk Copy.mp4
+ 2.1M Mar 24  2015 2 - FLEx pane layout-SD.mp4
+ 8.9M Feb 27  2015 2-send-only.mp4
+ 2.3M Feb 22  2015 30 - Bulk Edit_ Click Copy.mp4
+ 3.2M Feb 22  2015 31 - Bulk Edit_ Process.mp4
+ 1.7M Nov 18  2016 32-bulk edit replace.mp4
+ 2.6M Feb 20  2015 32 - Bulk Edit_ Replace.mp4
+ 2.2M Feb 22  2015 33 - Bulk Edit_ Delete.mp4
+ 2.2M Feb 22  2015 34 - Interlinear Texts Overview.mp4
+ 3.2M Feb 22  2015 35 Interlinearizing.mp4
+ 3.7M Jul  6  2015 36 - Breaking words into morphemes when interlinearizing.mp4
+ 1.7M Jul  6  2015 37 - Adding an Allomorph when interlinearizing.mp4
+ 1.6M Jul  6  2015 38 - Adding a variant when interlienarziing.mp4
+ 1.8M Jul  6  2015 39 - Analysing several words as a phrase when interlinearizing.mp4
+ 2.8M Mar 24  2015 3 - FLEx configure columns-SD.mp4
+ 2.3M Feb 27  2015 3-get-project.mp4
+ 2.1M Jul  6  2015 40 - Interlinear and Lexicon stay in sync.mp4
+ 1.2M Nov 18  2016 42-gloss tab.mp4
+ 1.7M Nov 18  2016 43-add words lexicon.mp4
+ 4.3M Nov 18  2016 44-using parser.mp4
+ 1.7M Nov 18  2016 45-words analyses.mp4
+ 2.0M Feb 22  2015 46 - Assign Analyses.mp4
+ 1.6M Nov 18  2016 46-assign anlayses.mp4
+ 5.1M Nov 18  2016 47-add infl template.mp4
+ 3.2M Nov 18  2016 48-Try a Word.mp4
+ 2.5M Nov 18  2016 49-concordance.mp4
+ 3.1M Feb 27  2015 4-add-member.mp4
+ 3.4M Mar 24  2015 4 - FLEx Filtering-SD.mp4
+ 4.5M Nov 18  2016 50-text chart discourse.mp4
+ 2.0M Nov 18  2016 51-edit chart template.mp4
+ 3.2M Nov 18  2016 53-enable checking sp vern.mp4
+ 4.0M Nov 18  2016 54-help training.mp4
+ 819K Nov 18  2016 55-google group.mp4
+ 3.6M Mar 24  2015 5 - FLEx Special filters-SD.mp4
+ 4.7M Mar 24  2015 6 - FLEx filtering using regular expressions-SD.mp4
+ 2.6M Mar 24  2015 7 - FLEx Sorting-SD.mp4
+ 3.2M Mar 24  2015 8 - FLEx Show hidden fields-SD.mp4
+ 901K Mar 24  2015 9 - FLEx fields to insert-SD.mp4
+ 6.1M Apr 29  2015 FLEx - audio writing system.mp4
+
+Groups/Videos/HearThis on Vimeo:
+total 51M
+ 373K Aug  9  2017 folder.png
+  17M Aug  9  2017 HearThis Advanced Tips _ Tricks.mp4
+  15M Aug  9  2017 HearThis Essentials.mp4
+  20M Aug  9  2017 Introduction to HearThis.mp4
+
+Groups/Videos/Keyman Training on Vimeo:
+total 1.6G
+  69K Apr 11  2018 folder.png
+ 156M Apr 11  2018 Introduction to Keyman.mp4
+  77M Apr 11  2018 Keyman_ developer discussion.mp4
+ 463M Apr 11  2018 Keyman_ Developing a Keyboard.mp4
+  88M Apr 11  2018 Keyman_ LDML keyboard standard.mp4
+  87M Apr 11  2018 Keyman_ Mnemonic keyboards.mp4
+  32M Apr 11  2018 Keyman_ package troubleshooting.mp4
+ 118M Apr 11  2018 keyman_ packaging keyboards for distribution.mp4
+  43M Apr 11  2018 Keyman_ QA on complex scripts.mp4
+ 296M Apr 11  2018 Keyman_ submitting a keyboard to the online repository.mp4
+ 252M Apr 11  2018 keyman web version.mp4
+
+Groups/Videos/Language Technology_s videos on Vimeo:
+total 362M
+  76M Oct  4  2016 EFL video.mp4
+ 1.9K Feb 28  2016 folder.jpg
+  44M Jun 30  2017 Help in Paratext.mp4
+  83M Mar 20  2017 Introducing Scripture App Builder.mp4
+  59M Oct 14  2016 NRSI overview.mp4
+  19M Mar 20  2017 Registration.mp4
+  12M Jan 11  2017 WhatisParatext-redone.mp4
+  14M May 12  2016 word list Common Typos-1.mp4
+ 4.1M May 12  2016 word list diacritic errors check-1.mp4
+ 9.2M May 12  2016 word list Missing Capitals-3.mp4
+ 5.7M May 12  2016 Word List Single Character typos-1.mp4
+ 4.5M May 12  2016 Word List Spell Check-1.mp4
+ 5.7M May 12  2016 Word List Unusual Chacater Combinations-1.mp4
+  30M Jan 11  2017 WSS Update March 2016.mp4
+
+Groups/Videos/Paratext on Vimeo:
+total 2.4G
+  53K Jan  4  2018 folder.png
+  23M Apr 14  2017 How to Register for Paratext 8.mp4
+  22M Jun  2  2017 More on User Registration.mp4
+  17M Jul 10  2017 P8TC 0.1 What is Paratext.mp4
+  86M Jul 28  2017 P8TC 0.2.1 Windows and Navigation 1.mp4
+  56M Dec 12  2017 P8TC 0.2.2 Windows and Navigation 2.mp4
+  63M Jun 22  2017 P8TC 0.2.3 Windows and Navigation3.mp4
+  18M Dec 21  2015 P8TC 0.2.4 Paratext - Quick Bible Reference Navigation.mp4
+  49M Mar  6  2018 P8TC 0.3 Help in Paratext.mp4
+  13M Aug 14  2017 P8TC 0.4.1 Receive a Project for the First Time.mp4
+  13M Aug 10  2017 P8TC 0.4.2 Working in a shared project.mp4
+ 5.8M Aug 15  2017 P8TC 0.4 Explanation of send_receive.mp4
+ 9.1M Jul 21  2017 P8TC 1.1 My Tasks.mp4
+  32M Jul 21  2017 P8TC 1.2.1 Understanding USFMs 1 - introduction.mp4
+  32M Nov 14  2017 P8TC 1.2.2A USFM2 Adding markers in different views Part 1.mp4
+  34M Nov 14  2017 P8TC 1.2.2B USFM Adding Markers in different views Part 2.mp4
+ 7.2M Jul 21  2017 P8TC 1.2.3 Understanding USFMs 3 - the backslash key.mp4
+  19M Jul 21  2017 P8TC 1.2.4 Understanding USFMs 4 - verse numbers.mp4
+  16M Jul 21  2017 P8TC 1.2.5 Non-biblical USFMs and removing markers.mp4
+  36M Jul 11  2017 P8TC 1.3 Typing and Editing.mp4
+  31M Jul  6  2015 P8TC 1.4.1 Basic Checks.mp4
+ 7.2M Jul 11  2017 P8TC 1.4.2 Basic Checks: Incomplete Books.mp4
+  15M Jul 25  2017 P8TC 1.5 Marking Tasks Complete for Translators.mp4
+ 5.5M Sep  6  2017 P8TC 1.6.1 Getting your shared project on a new computer.mp4
+ 7.0M Oct 16  2018 P8TC 1.6 What is a Conflict_.mp4
+  20M Sep  1  2017 P8TC 1A.3 Basic Footnote Intro.mp4
+  31M Nov 21  2017 P8TC 1A.4A Glossary P1.mp4
+  37M Nov 21  2017 P8TC 1A.4B Glossary P2.mp4
+  44M Aug 29  2017 P8TC 1A.5 Inserting Illustrations.mp4
+  42M Aug 29  2017 P8TC 1A.6 Book Introductions.mp4
+  26M Aug 31  2017 P8TC 1A.7.1 Punctuation Inventory.mp4
+  21M Sep 11  2017 P8TC 1A.7 Character inventory.mp4
+  33M Sep  6  2017 P8TC 1A.8 Conflict Notes.mp4
+  30M Sep 15  2017 P8TC 1A.9 Resolving Issues Found by the Automated Checks.mp4
+  21M Dec  9  2017 P8TC 2.1A Word List Tool Intro.mp4
+  16M Dec  9  2017 P8TC 2.1B Word List Tool Intro Part 2.mp4
+  25M Nov  7  2017 P8TC 2.2.1A Spell Check P1.mp4
+  25M Nov  7  2017 P8TC 2.2.1B Spell Check P2.mp4
+  15M Dec 12  2017 P8TC 2.2.2 Word List Approve Spelling of Common Words.mp4
+  26M Sep 18  2017 P8TC 2.3 Word List Tool Common-Typos.mp4
+  23M Oct 11  2017 P8TC 2.4.1 Biblical Terms - Identify Renderings with Drag and Drop.mp4
+  13M Oct 11  2017 P8TC 2.4.2 Biblical Terms - Identify Renderings Manually.mp4
+  22M Oct 11  2017 P8TC 2.4 Biblical Terms Renderings Window.mp4
+ 6.1M Jul 28  2017 P8TC 2.5 Checking_ Denying Errors.mp4
+ 7.8M Oct 18  2017 P8TC 2.7.1 Printing-Save as RTF.mp4
+  12M Mar  6  2018 P8TC 2.7.2 Printing-Adjusting RTF in Word.mp4
+  23M Oct  9  2017 P8TC 2.7 Print Draft.mp4
+  61M Oct 17  2017 P8TC 2.8.1 Notes_ How to Comment, Edit, View Changes and Resolve Notes.mp4
+  30M Oct 18  2017 P8TC 2.8.2 Notes_ Open and Use.mp4
+  32M Oct 20  2017 P8TC 2.8.3 Notes_ Filter and Sort.mp4
+  13M Oct 18  2017 P8TC 2.8.4 Notes_ How to change which words a note is attached to.mp4
+  13M Oct 18  2017 P8TC 2.8.5 Notes window_ search and hashtags.mp4
+  46M Oct 12  2017 P8TC 2.8 Notes - How to Insert.mp4
+  52M Feb  1  2018 P8TC 3.1.1 Biblical Terms Tool Marking Renderings.mp4
+  27M Jan 24  2018 P8TC 3.1.2 Biblical Terms Tool Correcting Renderings.mp4
+ 4.7M Nov  7  2018 P8TC 3.1.3 Biblical Terms Tool 3.mp4
+  26M Mar 28  2018 P8TC 3.1.3 Biblical Terms Tool 3 Names.mp4
+  27M Feb  1  2018 P8TC 3.1.3 Biblical Terms Tool Names.mp4
+  52M Feb  5  2018 P8TC 3.2 Back Translation.mp4
+  33M Dec 18  2017 P8TC 3.3 Using Interlinearizer with a Back Translation.mp4
+  41M Feb  2  2018 P8TC 3.4A More Basic Checks 1.mp4
+  20M Feb  5  2018 P8TC 3.4B More Basic Checks.mp4
+  40M Feb  9  2018 P8TC 4.1 Collobation Tools.mp4
+  37M Feb 12  2018 P8TC 5.1 More on Editing.mp4
+  23M Feb 15  2018 P8TC 6.1.1 Parallel Passages.mp4
+  29M Feb 16  2018 P8TC 6.1.2 Parallel Passages Tool edits and filters.mp4
+  57M Aug  7  2017 P8TC 6.5.1 Footnotes and Cross References.mp4
+  36M Aug  8  2017 P8TC 6.5.2 Invalid Cross References.mp4
+  33M Jul  3 14:15 Paratext 9_ Why Change the Menus.mp4
+  71M Apr 17 16:16 Paratext Lite.mp4
+  30M May  9  2017 PPA 5.1 Introduction_to_Project_Plans.mp4
+  12M Jun  9  2017 PPA 5.2.1 Combining tasks.mp4
+  19M Apr  7  2017 PPA 5.2 Selecting and Applying Base Plans.mp4
+  37M Apr 25  2017 PPA 5.3.5 Verifying the Settings.mp4
+  15M Jun  2  2017 PPA 5.3.6 Assigning Automated Checks to Stages.mp4
+  33M Apr 28  2017 PPA 5.3 Modifying a Project Plan.mp4
+  22M Jun  1  2017 PPA 5.4.4 Marking Tasks as Complete.mp4
+  48M May 16  2017 PPA 5.4 Assigning tasks to team members.mp4
+  49M Apr 14  2017 Project Migration.mp4
+  69M Sep 21  2018 Reducing the Number Renderings Needed in Biblical Terms Tool.mp4
+ 131M Mar 15  2017 What_s New In ParaTExt 8.0.mp4
+
+Groups/Videos/PrimerPro on Vimeo:
+total 137M
+ 61M Oct 20  2015 PrimerPro - Primer Lesson Making.mp4
+ 76M Oct 20  2015 PrimerPro - Setup.mp4
+
+Groups/Videos/Rapid Word Collection on Vimeo:
+total 95M
+ 6.2M Feb 22  2015 27 - Using Collect Words (formerly Categorized Entry).mp4
+  49M Feb 22  2015 Collecte Rapide de Mots _ l_expérience du buli.mp4
+  40M Feb 22  2015 Rapid Word Collection_ The Buli Experience.mp4
+
+Groups/Videos/SayMore on Vimeo:
+total 55M
+  36K Jul 10  2015 folder.png
+ 5.7M Jul 10  2015 SayMore_ Adding Transcription and Free Translation.mp4
+ 5.6M Jul 10  2015 SayMore_ Exporting to FlexText Internlinear.mp4
+ 8.0M Jul 10  2015 SayMore_ Managing project information.mp4
+ 7.8M Jul 10  2015 SayMore_ Managing Session Segments.mp4
+ 8.6M Jul 10  2015 SayMore_ Oral Translation and Careful Speech.mp4
+ 9.0M Jul 10  2015 Saymore_ Organizing People Data.mp4
+  10M Jul 10  2015 SayMore_ Session Metadata Management.mp4
+
+Groups/Videos/Scripture App Builder on Vimeo:
+total 476M
+ 24M Mar 21  2017 Adding Audio to Scripture App Builder.mp4
+ 17M Oct 19  2015 Building a Scripture App - Part 1.mp4
+ 34M Oct 19  2015 Building a Scripture App - Part 2.mp4
+ 36M Mar 22  2017 Building a Songbook App.mp4
+ 20M Mar 25  2017 Building Your First App.mp4
+ 36M Mar 21  2017 Distributing Audio Files with Your App.mp4
+ 31K Oct 19  2015 folder.jpg
+ 13M Oct 19  2015 Ilchamus Bible App Testimony.mp4
+ 43M Oct 19  2015 Installing Scripture App Builder and Accompanying Software.mp4
+ 44M Mar 20  2017 Installing Scripture App Builder.mp4
+ 83M Mar 20  2017 Introducing Scripture App Builder (2).mp4
+ 28M Oct 19  2015 Introducing Scripture App Builder.mp4
+ 15M Oct 19  2015 Previewing your app on your computer.mp4
+ 44M Mar 21  2017 Using aeneas to Synchronize Audio with Text.mp4
+ 22M Mar 15  2017 Using HearThis for Audio-Text Synchronization.mp4
+ 24M Mar 21  2017 Using HearThis to Produce Audio and Timing Files.mp4
+
+Groups/Videos/Translator_s Workplace on Vimeo:
+total 88M
+  19M Mar 13 05:47 Accessing TW Menu in Logos.mp4
+  29M Apr 30 13:56 Logos_ Arranging Windows and Layouts.mp4
+  25M Mar 13 05:47 Logos Finding Resources.mp4
+ 6.3M Mar 13 05:47 Logos.mp4
+ 9.8M Mar 13 05:47 TW_Logos -- Adding Logos Resource to Paratext SLT Pop-up Menu.mp4
+
+Groups/Videos_non-English:
+total 36K
+ 4.0K Mar 31 22:36 Videos.ES/
+ 4.0K Jul 17 00:40 Videos.FR/
+ 4.0K Jun 11 16:11 Videos.HanS/
+ 4.0K May 31 14:25 Videos.HanT/
+ 4.0K May  7 14:51 Videos.ID/
+ 4.0K Aug 27 15:28 Videos.PT/
+  12K Jul 14 14:18 Videos.RU/
+
+Groups/Videos_non-English/Videos.ES:
+total 955M
+ 18M Feb 27 18:37 p8 2.4 Vocablos Bíblicos_ Ventana de traducciones.es.mp4
+ 21M Feb 27 18:36 P8TC 2.1A Lista de Palabras (Parte 1).es.mp4
+ 15M Feb 27 18:36 P8TC 2.1B Lista de palabras (Parte 2).es.mp4
+ 20M Feb 27 18:36 P8TC 2.2.1A Verificar la ortografía De este libro (Parte 1).es.mp4
+ 19M Feb 27 18:36 P8TC 2.2.1B Verificar la ortografía de este libro (Parte 2).es.mp4
+ 12M Feb 27 18:37 P8TC 2.2.2 Lista de palabras_ Aprobar ortografía de las palabras comunes.es.mp4
+ 17M Feb 27 18:37 P8TC 2.3 Lista de palabras_ Errores orthográficos comunes.es.mp4
+ 11M Feb 27 18:37 P8TC 2.4.2 Vocablos Bíblicos_ Identificar traducciones manualmente.es.mp4
+ 13M Feb 27 18:37 P8TC 2.5 Verificaciones_ Denegación de errores.es.mp4
+ 25M Feb 27 18:37 P8TC 2.7.0 Imprimir Borrador.es.mp4
+ 13M Feb 27 18:37 P8TC 2.7.1 Guardar como RTF.es.mp4
+ 12M Feb 27 18:38 P8TC 2.7.2 Ajustar estilos en Word.es.mp4
+ 41M Feb 27 18:38 P8TC 2.8.0 Cómo Insertar Notas.es.mp4
+ 54M Feb 27 18:38 P8TC 2.8.1 Notas_ Comentar, Editar, Ver Cambios y Resolver.es.mp4
+ 28M Feb 27 18:39 P8TC 2.8.2 Notas_ Abrir y usar.es.mp4
+ 28M Feb 27 18:39 P8TC 2.8.3 Notas_ Filtrar y Ordenar.es.mp4
+ 13M Feb 27 18:39 P8TC 2.8.4 Notas_ Mover o volver a adjuntar una nota.es.mp4
+ 15M Feb 27 18:39 P8TC 2.8.5 Notas_ Búsqueda y Hashtags.es.mp4
+ 47M Mar  1 02:10 P8TC 3.1.1 Herramienta de Vocablos Bíblicos_ Marcar las traducciones.es.mp4
+ 19M Mar  4 11:52 P8TC 3.1.2 Herramienta de Vocablos Bíblicos_ Como corregir traducciones.es.mp4
+ 23M Mar  6 12:47 P8TC 3.1.3 Herramienta de Vocablos Bíblicos_ Como marcar traducciones de los Nombres.es.mp4
+ 46M Mar  6 12:47 P8TC 3.2 Retrotraducción_ Preparación y uso.es.mp4
+ 27M Mar  7 13:28 P8TC 3.3 Uso del interlinealizador de proyectos.es.mp4
+ 37M Mar 11 13:55 P8TC 3.4a Más Verificaciones Básicas_ Parte 1.es.mp4
+ 38M Mar 13 05:50 P8TC 3.4B Más Verificaciones Básicas Parte 2.es.mp4
+ 38M Mar 14 13:49 P8TC 4.1 Herramientas de colaboración en Paratext.es.mp4
+ 36M Mar 19 15:28 P8TC 5.1 Más información sobre la edición.es.mp4
+ 20M Mar 15 13:33 P8TC 6.1.1 Herramienta de Pasajes Paralelos.es.mp4
+ 24M Mar 18 14:27 P8TC 6.1.2 Herramienta de Pasajes Paralelos_ Editar y Filtrar .es.mp4
+ 47M Mar 21 13:37 P8TC 6.5.1 Notas al pie y referencias cruzadas_ Temas avanzados.es.mp4
+ 27M Mar 15 13:33 P8TC 6.5.2 Referencias cruzadas no válidas.es.mp4
+ 24M Feb 27 18:38 PPA 5.1 Introducción a los Planes de Proyectos.es.mp4
+ 13M Feb 27 18:38 PPA 5.2.1Combinación de tareas de Dos Planes.es.mp4
+ 16M Feb 27 18:38 PPA 5.2 Selección de un plan base.es.mp4
+ 32M Feb 27 18:38 PPA 5.3.5 Verificación de la configuración de un plan del proyecto.es.mp4
+ 13M Feb 27 18:38 PPA 5.3.6 Asignación de verificaciones automatizadas a etapas.es.mp4
+ 26M Feb 27 18:38 PPA 5.3 Modificar un plan del proyecto.es.mp4
+ 47M Feb 27 18:38 PPA 5.4 Asignación de tareas.es.mp4
+
+Groups/Videos_non-English/Videos.FR:
+total 752M
+  63M Feb 27 13:53 0.2.1 Arranger les fenêtres.mp4
+  13M Feb 27 13:53 0.4.1 Envoyer_Recevoir d_un projet pour la première fois.mp4
+  26M Feb 27 13:53 0.4.2.Travail en Projet Partagé.fr.mp4
+  11M Feb 27 13:53 0.4 Explication d_Envoyer_Recevoir.mp4
+  11M Feb 27 13:54 1.2.5 Texte non-Biblique, comment effacer marqueurs.mp4
+  46M Feb 27 13:54 1.3 Taper et modifier le texte.mp4
+  23M Feb 27 13:53 Afficher une référence biblique.mp4
+  54M Feb 27 13:53 Arranger les fênetres 2.mp4
+  69M Feb 27 13:53 Arranger les fenêtres 3.mp4
+  21M Feb 27 13:54 Comment s_inscrire pour Paratext 8.mp4
+  20M Feb 27 13:53 Comprendre les USFMs_ Inserer un numero de verset.mp4
+  29M Feb 27 13:53 Comprendre les USFMs_ Introduction.mp4
+  31M Feb 27 13:54 Comprendre les USFMs_ Marqueurs et vues 2.mp4
+  29M Feb 27 13:54 Comprendre les USFMs_ Marqueurs et vues.mp4
+  53K Jul 17 00:40 folder.png
+ 6.9M Feb 27 13:53 fr-USFM3.mp4
+  21M Feb 27 13:54 Inscription des utilisateurs 2.mp4
+  15M Apr 19 14:21 Introduction à l_outil liste de mots.mp4
+  24M Mar 18 14:27 Inventaire de ponctuation.mp4
+  15M Feb 27 13:54 Inventaire des caractères.mp4
+ 7.5M Feb 27 13:54 Mes tâches.mp4
+  40M Feb 27 13:54 MIgration des projets.mp4
+  62M Feb 27 13:53 P8TC 0.1 Qu_est-ce Paratext (fr).mp4
+  15M Feb 27 13:54 Plans de projet pour les traducteurs.mp4
+ 8.7M Feb 27 13:54 Qu_est-ce qu_un conflit_.mp4
+  24M Feb 27 13:54 Remarques de conflit.mp4
+  26M May  2 14:35 Résolution des problèmes détectés par les vérifications automatiques.mp4
+  24M Feb 27 13:54 Vérifications de base_ livres incomplets.mp4
+  31M Feb 27 13:54 Vérifications de base.mp4
+
+Groups/Videos_non-English/Videos.HanS:
+total 349M
+  61M Feb 27 21:05 0.2.1. 窗口以及定位 （第一部）.mp4
+  68M Jun 11 16:11 P8 TC 0.2.1 操控多个窗口.mp4
+  21M Feb 27 21:05 P8 TC 0.2.4.mp4
+  25M Feb 27 21:05 P8 TC 0.3 圣经辅助工具的帮助系统.mp4
+  12M Feb 27 21:05 P8 TC 0.4.1 第一次 “发送／接收” 项目.mp4
+  11M May 24 15:39 P8 TC 0.4.2 在共享项目上工作。.mp4
+  24M Feb 27 21:05 P8 TC 1.2.1 学习USFMs (统一标准格式码)_简介.mp4
+  33M May 31 14:25 P8 TC 1.2.2B 了解USFMs (统一标准格式码)_ 在不同视图里添加格式码 (下集).mp4
+ 8.2M Feb 27 21:05 P8 TC 1.2.3 《圣经辅助工具》使用 F5 插入 “_” 键.mp4
+  15M Feb 27 21:05 P8 TC 1.2.4 了解 USFMs (联合标准格式吗）怎么插入节码.mp4
+  12M Feb 27 21:05 P8 TC 1.2.5 非圣经内文的格式码及 如何移除格式码.mp4
+  36M May 31 14:25 P8 TC 1.3 输入和编辑文本 (2).mp4
+  15M Feb 27 21:05 P8 TC 1.3 输入和编辑文本.mp4
+  15M May  2 14:34 PT TC 1.2.2A HanS 在不同视图里添加格式码.mp4
+
+Groups/Videos_non-English/Videos.HanT:
+total 205M
+  22M Feb 27 21:07 P8 TC 0.2.4 快速聖經參照定位.mp4
+  34M Feb 27 21:07 P8 TC 0.3 《聖經輔助工具》的「說明」.mp4
+  12M Feb 27 21:07 P8 TC 0.4.1 HanT.mp4
+  13M May 25 13:39 P8 TC 0.4.2 在共享計畫上工作.mp4
+  23M May 31 14:25 P8 TC 1.2.1 瞭解USFMs (統一標準格式碼)_ 簡介.mp4
+  27M May  2 14:34 P8 TC 1.2.2A HanT 在不同檢視裏添加格式碼.mp4
+  26M May 31 14:25 P8 TC 1.2.2B 瞭解USFMs (統一標準格式碼)_ 在不同檢視裏添加格式碼 (下集).mp4
+  16M Feb 27 21:07 P8 TC 1.2.4 如何插入節碼.mp4
+  12M Feb 27 21:07 P8 TC 1.2.5 非聖經内文的格式碼及如何移除格式碼.mp4
+  16M Feb 27 21:07 P8 TC 1.3 输入和编辑文本.mp4
+ 8.1M Feb 27 21:07 PT8 1.2.3 聖經輔助工具使用格式碼 ___ 鍵代替鍵.mp4
+
+Groups/Videos_non-English/Videos.ID:
+total 392M
+  18M Feb 15  2019 0.4.2. Bekerja proyek bersama.mp4
+  57M Feb 15  2019 P8 TC 0.1 Apakah Paratext itu.mp4
+  65M Feb 15  2019 P8 TC 0.2.1 Jendala dan Navigasi.mp4
+  45M Feb 15  2019 P8 TC 0.2.2 Jendela dan Navigasi 2.mp4
+  52M Feb 15  2019 P8 TC 0.2.3 Jendela dan Navigasi 3.mp4
+  24M Feb 15  2019 P8 TC 0.2.4 Navigasi Referensi Cepat dalam Alkitab.mp4
+  49M Feb 15  2019 P8 TC 0.3 Bantuan dalam Paratext.mp4
+  16M Feb 15  2019 P8 TC 0.4.1 Menerima Proyek untuk Pertama Kali.mp4
+ 8.7M Feb 15  2019 P8 TC 0.4 Penjelasan Terima_Kirim Proyek.mp4
+  28M May  6 14:09 P8TC 1.2.2 Memahami USFM 2 - Menambahkan Tanda di Tampilan yang berbeda-beda.mp4
+ 6.3M May  7 14:50 P8TC 1.2.3 Memahami USFM 3 - Tombol Garis Miring.mp4
+  15M May  7 14:51 P8TC 1.2.4 Memahami USFM 4 - Nomor Ayat.mp4
+  13M May  7 14:51 P8TC 1.2.5 Memahami USFM 5 - Teks Non-Alkitab dan cara Menghapus Tanda.mp4
+
+Groups/Videos_non-English/Videos.PT:
+total 829M
+  85M Feb 27 20:50 0.2.1 Disposição das Janelas e Navegação 1.mp4
+  64M Feb 27 20:50 0.2.2 Janelas e Navegações 2.mp4
+  22M Feb 27 20:50 0.2.4 Navegação Rápida de Referência Bíblica.mp4
+  16M Feb 27 20:51 0.4.1 Recebendo um projeto para primeira vez.mp4
+  17M Feb 27 20:51 0.4.2 Trabalhando em um projeto compartilhado.mp4
+ 9.8M Feb 27 20:51 0.4 Explicando Enviar_Receber.mp4
+ 7.9M Feb 27 20:50 1.1 As Minhas Tarefas (Plano de Projeto).mp4
+  34M Feb 27 20:50 1.2.1 Entendendo os USFM_s - Uma Introdução.mp4
+  28M Feb 27 20:51 1.2.2A Entendendo USFMs_ Adicionando marcadores em diferentes visaulizações Parte 1.mp4
+  30M Feb 27 20:51 1.2.2B Entendendo USFMS_ Adicionando Marcadores em Diferente Visualizções.mp4
+ 7.2M Feb 27 20:50 1.2.3 Tecla Alternativa para Barra Invertida.mp4
+  19M Feb 27 20:50 1.2.4 Uso Básico do USFMs_ Como inserir um número de versículo.mp4
+  13M Feb 27 20:51 1.2.5 Entendendo USFMs_ Os Marcadores Não-bíblicos e remoção de marcadores.mp4
+  46M Feb 27 20:51 1.3 Digitando e Editando Texto.mp4
+  31M Feb 27 20:51 1.4.1 Verificações Básicas.mp4
+  24M Feb 27 20:51 1.4.2 Verificações Básicas_ Livros Incompletos.mp4
+  18M Feb 27 20:50 1.5 Marcando Tarefas como Concluído-Traductores.mp4
+  28M Feb 27 20:51 1.6.1 Observações sobre notas de conflitos.mp4
+  10M Feb 27 20:51 1.6 O Que É Um Conflito_.mp4
+  23M Feb 27 20:51 1A.3 Notas de Rodapé e Referências Cruzadas.mp4
+  28M Feb 27 20:51 1A.4A Como fazer entradas no glossario- Parte 1.mp4
+  36M Feb 27 20:51 1A.4B Como fazer entradas no Glossário Parte 2.mp4
+  36M Feb 27 20:51 1A.5 Inserindo Figuras.mp4
+  45M Mar 16 13:03 1A.6 Introdução de Livro.mp4
+  33M Jul 18 14:49 1A.7 O inventário de caracteres.mp4
+  27M Jul 18 14:49 1A.8 Resolução de problemas detectados pelos verificações automáticas.mp4
+  16M Aug 27 15:28 2.2.2 Ferramenta Lista de Palavras Aprovar Ortografia de Palavras Comuns.mp4
+  18M Jul 24 14:17 2.5 Verificações Básicas_ Rejeitar Errors.mp4
+  69M Feb 27 20:50 O que é o Paratext.mp4
+
+Groups/Videos_non-English/Videos.RU:
+total 1.2G
+  75M Feb 27 21:09 0.2.1 Windows and Navigation1--rus.mp4
+ 7.5M Feb 27 21:11 0.4 ExplainSR-L-RU.mp4
+  14M May 21 15:26 2.8.5 Комментарии Поиск и хештеги.mp4
+  19M Jul 14 14:18 3.1.2 Инструмент Библейские термины. Исправление переводов.mp4
+  34M Feb 27 21:10 P8TC 0.2.2 Окна и Навигация 2.mp4
+  48M Feb 27 21:10 P8TC 0.2.3 Окна и Навигация 3.mp4
+  19M Feb 27 21:10 P8TC 0.2.4 Быстрая ссылка.mp4
+  42M Feb 27 21:11 P8TC 0.3 Справка в Паратексте.mp4
+  19M Feb 27 21:11 P8TC 0.4.1. Получение проекта в первый раз.mp4
+  17M Feb 27 21:11 P8TC 0.4.2 Командная работа над проектом.mp4
+ 6.8M Feb 27 21:11 P8TC 1.1 Мои задачи.mp4
+  21M Feb 27 21:11 P8TC 1.2.2A УСМФ - Добавление маркеров в разных режимах 1.mp4
+  33M Feb 27 21:11 P8TC 1.2.2B УСМФ - Добавление маркеров в разных режимах 2.рус.mp4
+ 6.6M Feb 27 21:11 P8TC 1.2.3 УСМФ3 - Альтернативный ввод бэкслэша.mp4
+  17M Feb 27 21:11 P8TC 1.2.4 УСМФ4 Нумерация стихов.mp4
+  11M Feb 27 21:11 P8TC 1.2.5 УСМФ5.mp4
+  33M May  2 14:35 P8 TC 1.3 Набор и редактирование текста (Typing and Editing-RU).mp4
+  23M May  2 14:35 P8 TC 1.4.1 Основные Проверки Basic Checks - RU.mp4
+  16M May  2 14:35 P8 TC 1.4.2 Проверка незакоченной книги Checking-incomplete books-RU.mp4
+  12M May  2 14:35 P8 TC 1.5 Пометка задачи как выполненной или завершенной Marking-Tasks-complete-Translators-RU.mp4
+  23M May  2 14:35 P8 TC 1.6.1 Комментарий к конфликту Conflict Notes-RU.mp4
+ 4.6M May  2 14:35 P8 TC 1.6 SRConflicts-RU.mp4
+  27M May  2 14:35 P8 TC 1a.4a Редактирование Глоссарий GlossaryP1-RU.mp4
+  28M May  2 14:35 P8 TC 1a.4b Глоссарий GlossaryP2-RU.mp4
+  36M May  2 14:35 P8 TC 1a.5 Вставка иллюстраций или рисунков Inserting-Illustrations-RU.mp4
+  34M May  2 14:35 P8 TC 1a.6 Введение книги Book Introductions-RU.mp4
+  11M May  2 14:35 P8 TC 1a.7.1 Инвентаризация знаков препинания checking-8 inventory-2-RU.mp4
+  14M May  2 14:35 P8 TC 1a.7 Инвентаризация символов Character Inventory-RU.mp4
+  27M May  2 14:35 P8 TC 1a.8 Автоматические проверки Automated Checks-RU.mp4
+  10M May  2 14:35 P8 TC 1а.3 Ссылки_ Введение Basic Footnotes-RU.mp4
+  16M May 18 14:29 P8 TC 2.2.1A Проверка орфографии.mp4
+  16M May 18 14:29 P8 TC 2.2.1B Проверка орфографии.mp4
+ 9.9M May 18 14:29 P8 TC 2.2.2 Утверждение написания часто встречающихся слов.mp4
+  20M May 18 14:29 P8 TC 2.3 Список слов. Распространенные опечатки.mp4
+  13M May 18 14:29 P8 TC 2.4 Окно перевода библейских терминов.mp4
+  15M May 18 14:29 P8 TC 2.5 Проверка Отмена ошибок.mp4
+ 8.4M May 21 15:26 P8 TC 2.7.1 Печать - с помощью функции «Сохранить как RTF».mp4
+  10M May 21 15:26 P8 TC 2.7.2 Печать-Настройка RTF-файла в Word.mp4
+  20M May 18 14:29 P8 TC 2.7 Печать черновика.mp4
+  31M May 21 15:26 P8 TC 2.8.1 Комментарии - Как оставлять заметки, редактировать, просматривать изменения и завершатьNotes comment resolve.mp4
+  18M May 21 15:26 P8 TC 2.8.2 Окно комментариев.mp4
+  21M May 21 15:26 P8 TC 2.8.3 Комментарии_Фильтр и сортировка.mp4
+ 8.1M May 21 15:26 P8 TC 2.8.4 Комментарии Перемещение.mp4
+  23M May 21 15:26 P8 TC 2.8 Комментарии - Как вставлять.mp4
+  29M May 18 14:29 P8 TC 3.1.1 Инструмент _Библейские термины_ - Маркировка переводов.mp4
+  23M May 18 14:28 P8 TC 3.1.3 Инструмент Библейские термины - Маркировка перевода названий и имен.mp4
+  35M May 18 14:28 P8 TC 3.2 Подготовка и использование обратного перевода.mp4
+  25M May 18 14:28 P8 TC 3.3 Подстрочник.mp4
+  32M May 18 14:28 P8 TC 3.4b Больше о базовых проверках в Паратексте.mp4
+  34M May 18 14:28 P8 TC 3.4а Больше о базовых проверках в Паратексте.mp4
+  26M May 17 08:57 P8 TC 4.1 Инструменты для сотрудничества.mp4
+  28M May 17 08:57 P8 TC 5.1 Подробнее о редактировании.mp4
+  14M May 17 08:57 P8 TC 6.1.1 Инструмент Параллельные места.mp4
+  15M May 17 08:57 P8 TC 6.1.2 Инструмент Параллельные места_ редактирование и фильтры.mp4
+  51M May 21 15:26 P8 TC Что такое Паратекст_.mp4
